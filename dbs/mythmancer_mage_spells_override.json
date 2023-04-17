@@ -1,0 +1,485 @@
+{
+  "Illusionist/Blindness": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Blur": {
+    "Speed": "TBD"
+  },
+  "Illusionist/Change Self": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Chaos": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Colour Spray": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Continual Darkness": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Darkness": {
+    "Speed": "Normal*"
+  },
+  "Illusionist/Deafness": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Demi-Shadow Monsters": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Detect Illusion": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Dispel Exhaustion": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Dispel Illusion": {
+    "Speed": "TBD"
+  },
+  "Illusionist/Emotion": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Fog Cloud": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Gaze Reflection": {
+    "Speed": "Fast"
+  },
+  "Illusionist/Hypnotic Pattern": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Hypnotism": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Illusory Script": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Improved Invisibility": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Improved Phantasmal Force": {
+    "Level": "3"
+  },
+  "Illusionist/Major Creation": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Maze": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Minor Creation": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Misdirection": {
+    "Speed": "Fast"
+  },
+  "Illusionist/Non-Detection": {
+    "Speed": "Fast"
+  },
+  "Illusionist/Paralysation": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Phantasmal Killer": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Project Image": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Rope Trick": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Shadow Door": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Shadow Magic": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Shadow Monsters": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Spectral Force": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Summon Shadow": {
+    "Speed": "Normal"
+  },
+  "Illusionist/Wall of Fog": {
+    "Speed": "TBD"
+  },
+  "Magic User/Affect Normal Fires": {
+    "Speed": "Normal"
+  },
+  "Magic User/Airy Water": {
+    "Speed": "Normal"
+  },
+  "Magic User/Animal Growth*": {
+    "Speed": "Normal"
+  },
+  "Magic User/Animate Dead": {
+    "Speed": "Normal"
+  },
+  "Magic User/Audible Glamour": {
+    "Speed": "Normal"
+  },
+  "Magic User/Blink": {
+    "Speed": "TBD"
+  },
+  "Magic User/Burning Hands": {
+    "Speed": "Normal"
+  },
+  "Magic User/Charm Monster": {
+    "Speed": "Normal"
+  },
+  "Magic User/Charm Person": {
+    "Speed": "Normal"
+  },
+  "Magic User/Clairaudience": {
+    "Speed": "Normal"
+  },
+  "Magic User/Clairvoyance": {
+    "Speed": "Normal"
+  },
+  "Magic User/Cloudkill": {
+    "Speed": "Normal"
+  },
+  "Magic User/Comprehend Languages*": {
+    "Speed": "Normal"
+  },
+  "Magic User/Cone of Cold": {
+    "Speed": "Normal"
+  },
+  "Magic User/Confusion": {
+    "Speed": "Normal"
+  },
+  "Magic User/Conjure Elemental": {
+    "Speed": "Normal"
+  },
+  "Magic User/Contact Other Plane": {
+    "Speed": "Normal"
+  },
+  "Magic User/Continual Light": {
+    "Speed": "Normal"
+  },
+  "Magic User/Dancing Lights": {
+    "Speed": "Normal"
+  },
+  "Magic User/Darkness, 15-ft Radius": {
+    "Speed": "Normal"
+  },
+  "Magic User/Detect Alignment": {
+    "OSRIC Name": "Detect Evil*"
+  },
+  "Magic User/Detect Invisibility": {
+    "Speed": "Normal"
+  },
+  "Magic User/Detect Magic": {
+    "Speed": "Normal"
+  },
+  "Magic User/Dig": {
+    "Speed": "Normal"
+  },
+  "Magic User/Dimension Door": {
+    "Speed": "Normal"
+  },
+  "Magic User/Dispel Magic": {
+    "Speed": "TBD"
+  },
+  "Magic User/Distance Distortion": {
+    "Speed": "Normal"
+  },
+  "Magic User/ESP": {
+    "Speed": "Normal"
+  },
+  "Magic User/Enchanted Weapon*": {
+    "Speed": "Normal"
+  },
+  "Magic User/Enlarge*": {
+    "Speed": "Normal"
+  },
+  "Magic User/Erase": {
+    "Speed": "Normal"
+  },
+  "Magic User/Explosive Runes": {
+    "Speed": "Normal"
+  },
+  "Magic User/Extension I": {
+    "Speed": "Normal"
+  },
+  "Magic User/Extension II": {
+    "Speed": "Normal"
+  },
+  "Magic User/False Trap": {
+    "Speed": "Normal"
+  },
+  "Magic User/Fear": {
+    "Speed": "Normal"
+  },
+  "Magic User/Feather Fall": {
+    "Speed": "Fast (Special)"
+  },
+  "Magic User/Feeblemind": {
+    "Speed": "Normal"
+  },
+  "Magic User/Feign Death": {
+    "Speed": "Normal"
+  },
+  "Magic User/Find Familiar": {
+    "Speed": "Normal"
+  },
+  "Magic User/Fire Charm": {
+    "Speed": "Normal"
+  },
+  "Magic User/Fire Shield": {
+    "Speed": "Fast"
+  },
+  "Magic User/Fire Trap": {
+    "Speed": "Normal"
+  },
+  "Magic User/Fireball": {
+    "Speed": "Slow",
+    "Material Component": "Bag of Sulfur"
+  },
+  "Magic User/Flame Arrow": {
+    "Speed": "Normal"
+  },
+  "Magic User/Floating Disk": {
+    "Speed": "Normal"
+  },
+  "Magic User/Fly": {
+    "Speed": "Normal"
+  },
+  "Magic User/Fool's Gold": {
+    "Speed": "Normal"
+  },
+  "Magic User/Forget": {
+    "Speed": "TBD"
+  },
+  "Magic User/Friends": {
+    "Speed": "Normal"
+  },
+  "Magic User/Fumble": {
+    "Speed": "Normal"
+  },
+  "Magic User/Gust of Wind": {
+    "Speed": "Normal"
+  },
+  "Magic User/Hallucinatory Terrain": {
+    "Speed": "Normal"
+  },
+  "Magic User/Haste": {
+    "Speed": "Fast"
+  },
+  "Magic User/Hold Monster": {
+    "Speed": "Normal"
+  },
+  "Magic User/Hold Person": {
+    "Material Component": "Iron Rod"
+  },
+  "Magic User/Hold Portal": {
+    "Speed": "Normal*"
+  },
+  "Magic User/Ice Storm": {
+    "Speed": "Normal"
+  },
+  "Magic User/Identify": {
+    "Speed": "Normal"
+  },
+  "Magic User/Infravision": {
+    "Speed": "Normal"
+  },
+  "Magic User/Interposing Hand": {
+    "Speed": "Normal"
+  },
+  "Magic User/Invisibility": {
+    "Speed": "Normal"
+  },
+  "Magic User/Invisibility, 10-ft Radius": {
+    "Speed": "Normal"
+  },
+  "Magic User/Jump": {
+    "Speed": "Normal*"
+  },
+  "Magic User/Knock": {
+    "Speed": "Normal"
+  },
+  "Magic User/Levitate": {
+    "Speed": "Normal"
+  },
+  "Magic User/Light": {
+    "Speed": "Normal"
+  },
+  "Magic User/Lightning Bolt": {
+    "Speed": "Slow"
+  },
+  "Magic User/Locate Object": {
+    "Speed": "Normal"
+  },
+  "Magic User/Mage's Faithful Hound": {
+    "Speed": "Normal"
+  },
+  "Magic User/Magic Aura": {
+    "Speed": "Normal"
+  },
+  "Magic User/Magic Jar": {
+    "Speed": "Normal"
+  },
+  "Magic User/Magic Missile": {
+    "Speed": "Normal"
+  },
+  "Magic User/Magic Mouth": {
+    "Speed": "Normal"
+  },
+  "Magic User/Massmorph": {
+    "Speed": "Normal"
+  },
+  "Magic User/Mending": {
+    "Speed": "Normal"
+  },
+  "Magic User/Message": {
+    "Speed": "Normal"
+  },
+  "Magic User/Minor Globe of Invulnerability": {
+    "Speed": "Fast"
+  },
+  "Magic User/Mirror Image": {
+    "Speed": "TBD"
+  },
+  "Magic User/Mnemonic Enhancement": {
+    "Speed": "Normal"
+  },
+  "Magic User/Monster Summoning I": {
+    "Speed": "Normal"
+  },
+  "Magic User/Monster Summoning II": {
+    "Speed": "Normal"
+  },
+  "Magic User/Monster Summoning III": {
+    "Speed": "Normal"
+  },
+  "Magic User/Passwall": {
+    "Speed": "Normal"
+  },
+  "Magic User/Phantasmal Force": {
+    "Level": "2"
+  },
+  "Magic User/Plant Growth": {
+    "Speed": "Normal"
+  },
+  "Magic User/Polymorph Other": {
+    "Speed": "Normal"
+  },
+  "Magic User/Polymorph Self": {
+    "Speed": "Normal"
+  },
+  "Magic User/Pro. From Alignment, 10-ft Radius*": {
+    "Speed": "Fast",
+    "OSRIC Name": "Protection From Evil, 10-ft Radius*"
+  },
+  "Magic User/Protection From Normal Missiles": {
+    "Speed": "Fast"
+  },
+  "Magic User/Protection Vs Alignment": {
+    "Speed": "Fast",
+    "OSRIC Name": "Protection From Evil*"
+  },
+  "Magic User/Push": {
+    "Speed": "Normal"
+  },
+  "Magic User/Pyrotechnics": {
+    "Speed": "Normal"
+  },
+  "Magic User/Ray of Enfeeblement": {
+    "Speed": "Normal"
+  },
+  "Magic User/Read Magic*": {
+    "Speed": "Normal"
+  },
+  "Magic User/Remove Curse*": {
+    "Speed": "Normal"
+  },
+  "Magic User/Scare": {
+    "Speed": "Normal"
+  },
+  "Magic User/Secret Chest": {
+    "Speed": "Normal"
+  },
+  "Magic User/Shatter": {
+    "Speed": "Normal"
+  },
+  "Magic User/Shield": {
+    "Speed": "Fast"
+  },
+  "Magic User/Shocking Grasp": {
+    "Speed": "Normal"
+  },
+  "Magic User/Sleep": {
+    "Speed": "Normal"
+  },
+  "Magic User/Slow": {
+    "Speed": "Fast"
+  },
+  "Magic User/Spider Climb": {
+    "Speed": "Normal"
+  },
+  "Magic User/Stinking Cloud": {
+    "Speed": "Normal"
+  },
+  "Magic User/Stone Shape": {
+    "Speed": "Normal"
+  },
+  "Magic User/Strength": {
+    "Speed": "Normal"
+  },
+  "Magic User/Suggestion": {
+    "Speed": "Normal"
+  },
+  "Magic User/Telekinesis": {
+    "Speed": "Normal"
+  },
+  "Magic User/Teleport": {
+    "Speed": "Normal"
+  },
+  "Magic User/Tiny Hut": {
+    "Speed": "Normal"
+  },
+  "Magic User/Tongues*": {
+    "Speed": "Normal"
+  },
+  "Magic User/Transmute Rock to Mud": {
+    "Speed": "Normal"
+  },
+  "Magic User/Unseen Servant": {
+    "Speed": "Normal"
+  },
+  "Magic User/Ventriloquism": {
+    "Speed": "Normal"
+  },
+  "Magic User/Wall of Fire": {
+    "Speed": "Normal"
+  },
+  "Magic User/Wall of Force": {
+    "Speed": "Normal"
+  },
+  "Magic User/Wall of Ice": {
+    "Speed": "Normal"
+  },
+  "Magic User/Wall of Iron": {
+    "Speed": "Normal"
+  },
+  "Magic User/Wall of Stone": {
+    "Speed": "Normal"
+  },
+  "Magic User/Water Breathing*": {
+    "Speed": "Normal"
+  },
+  "Magic User/Web": {
+    "Speed": "Normal"
+  },
+  "Magic User/Wizard Eye": {
+    "Speed": "Normal"
+  },
+  "Magic User/Wizard Lock": {
+    "Speed": "TBD"
+  },
+  "Magic User/Write": {
+    "Speed": "Normal"
+  }
+}

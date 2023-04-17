@@ -1,860 +1,728 @@
 {
   "Alter Reality": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "7",
-      "Range": "Unlimited",
-      "Duration": "Varies (GM discretion",
-      "Area of Effect": "Varies (GM discretion)",
-      "Components": "Varies (GM discretion)",
-      "Casting Time": "Varies (GM discretion)",
-      "Saving Throw": "Varies (GM discretion)"
-    },
-    "details": "This spell has the same effect as the magic user spell limited wish, but requires the creation of a phantasmal force prior to casting, which serves as a focus for the spell."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell has the same effect as the magic user spell limited wish, but requires the creation of a phantasmal force prior to casting, which serves as a focus for the spell.",
+    "Level": "7",
+    "Range": "Unlimited",
+    "Duration": "Varies (GM discretion",
+    "Area of Effect": "Varies (GM discretion)",
+    "Components": "Varies (GM discretion)",
+    "Casting Time": "Varies (GM discretion)",
+    "Saving Throw": "Varies (GM discretion)"
   },
   "Arcane Spells, Level 1": {
-    "type": "Various",
-    "table": {
-      "Level": "7",
-      "Range": "See below",
-      "Duration": "See below",
-      "Area of Effect": "See below",
-      "Components": "See below",
-      "Casting Time": "See below",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell enables the illusionist to memorise several first level magic user spells in place of one seventh level illusionist spell. The illusionist may substitute a number of magic user spells equal to his or her level minus ten (4 at 14th level, 5 at 15th level, etc.). The mage spells must be chosen at the same time as the Arcane Spells, Level 1 spell is memorised."
+    "Type": "Various",
+    "Details": "This spell enables the illusionist to memorise several first level magic user spells in place of one seventh level illusionist spell. The illusionist may substitute a number of magic user spells equal to his or her level minus ten (4 at 14th level, 5 at 15th level, etc.). The mage spells must be chosen at the same time as the Arcane Spells, Level 1 spell is memorised.",
+    "Level": "7",
+    "Range": "See below",
+    "Duration": "See below",
+    "Area of Effect": "See below",
+    "Components": "See below",
+    "Casting Time": "See below",
+    "Saving Throw": "See below"
   },
   "Astral Spell": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "7",
-      "Range": "Touch",
-      "Duration": "See below",
-      "Area of Effect": "One to six creatures",
-      "Components": "VS",
-      "Casting Time": "3 turns",
-      "Saving Throw": "None"
-    },
-    "details": "Astral spell allows the caster and up to five companions to leave their material bodies and travel through the astral plane to other planes of existence. As the spell is cast, the character's material body enters a trance-like state of suspended animation while his or her consciousness enters the astral plane. The astral plane is a nexus with other planes of existence beyond, and the caster may choose to enter these other planes of existence. If a character does transcend from the astral into another plane, he or she becomes a physical manifestation in that existence, forming a duplicate body identical to the one left in stasis back in the material plane. It is possible to travel astrally to other locations in the material plane, but a new body cannot be formed in a plane where the character already has a physical manifestation. While travelling in the astral plane, and after a new physical manifestation has formed on a plane beyond the astral, the character remains connected to his or her original body by a “silver cord,” an invisible, mystical link. If the silver cord is broken or severed (some threats in the astral plane can cause this to happen), the character dies, both on the material plane and in astral form.\n\n\n\n\nMost magic items lose some or all of their power on the astral plane. Unless an item's magical qualities are imbued so deeply as to exist in many planes, an astral traveller's physical manifestation on another plane will be equipped with only the unenchanted substance of otherwise magic items and weapons."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "Astral spell allows the caster and up to five companions to leave their material bodies and travel through the astral plane to other planes of existence. As the spell is cast, the character's material body enters a trance-like state of suspended animation while his or her consciousness enters the astral plane. The astral plane is a nexus with other planes of existence beyond, and the caster may choose to enter these other planes of existence. If a character does transcend from the astral into another plane, he or she becomes a physical manifestation in that existence, forming a duplicate body identical to the one left in stasis back in the material plane. It is possible to travel astrally to other locations in the material plane, but a new body cannot be formed in a plane where the character already has a physical manifestation. While travelling in the astral plane, and after a new physical manifestation has formed on a plane beyond the astral, the character remains connected to his or her original body by a \u201csilver cord,\u201d an invisible, mystical link. If the silver cord is broken or severed (some threats in the astral plane can cause this to happen), the character dies, both on the material plane and in astral form.\n\n\n\n\nMost magic items lose some or all of their power on the astral plane. Unless an item's magical qualities are imbued so deeply as to exist in many planes, an astral traveller's physical manifestation on another plane will be equipped with only the unenchanted substance of otherwise magic items and weapons.",
+    "Level": "7",
+    "Range": "Touch",
+    "Duration": "See below",
+    "Area of Effect": "One to six creatures",
+    "Components": "VS",
+    "Casting Time": "3 turns",
+    "Saving Throw": "None"
   },
   "Audible Glamour": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "1",
-      "Range": "60-ft+10-ft/level",
-      "Duration": "3 rounds/level",
-      "Area of Effect": "Hearing range",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell is, as its name suggests, the creation of illusory sounds. The caster designates a focal point for the spell, which must, of course, be within the spell's range. The focal point can be moved by the caster at will until the spell's duration expires. The spell can create any type of sound, but the maximum volume of the noise depends upon the caster's level. A third level caster can produce the noise of 4 people shouting (or acting more quietly). Each additional caster level allows the caster to add the sound of four more people into the illusion. As a benchmark, the sound of an explosion or landslide would require a caster level of approximately 8th. Listeners are only entitled to saving throws if they have cause to doubt the apparent sounds. Players must state such disbelief, while the GM will make such determinations for monsters and NPCs based on the plausibility of the audible glamour."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell is, as its name suggests, the creation of illusory sounds. The caster designates a focal point for the spell, which must, of course, be within the spell's range. The focal point can be moved by the caster at will until the spell's duration expires. The spell can create any type of sound, but the maximum volume of the noise depends upon the caster's level. A third level caster can produce the noise of 4 people shouting (or acting more quietly). Each additional caster level allows the caster to add the sound of four more people into the illusion. As a benchmark, the sound of an explosion or landslide would require a caster level of approximately 8th. Listeners are only entitled to saving throws if they have cause to doubt the apparent sounds. Players must state such disbelief, while the GM will make such determinations for monsters and NPCs based on the plausibility of the audible glamour.",
+    "Level": "1",
+    "Range": "60-ft+10-ft/level",
+    "Duration": "3 rounds/level",
+    "Area of Effect": "Hearing range",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "See below"
   },
   "Blindness": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "30-ft",
-      "Duration": "Permanent",
-      "Area of Effect": "One creature",
-      "Components": "VS",
-      "Casting Time": "2 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "This spell causes the subject to become blind, but causes no damage to the eyes themselves. The effect cannot be removed by any spell that restores physical health (such as a healing spell, cure disease, etc), but may be dispelled normally. The caster can end the condition at will."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell causes the subject to become blind, but causes no damage to the eyes themselves. The effect cannot be removed by any spell that restores physical health (such as a healing spell, cure disease, etc), but may be dispelled normally. The caster can end the condition at will.",
+    "Level": "2",
+    "Range": "30-ft",
+    "Duration": "Permanent",
+    "Area of Effect": "One creature",
+    "Components": "VS",
+    "Casting Time": "2 segments",
+    "Saving Throw": "Negates"
   },
   "Blur": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "Caster",
-      "Duration": "3 rounds+1 round/level",
-      "Area of Effect": "Caster",
-      "Components": "VS",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "The illusionist's outline becomes blurred, as if seen through shimmering waves of heat. In consequence, the illusionist gains a bonus of +1 against any targeted magical attack. Additionally, any opponent's first attack against the illusionist will incur a penalty of -4, and subsequent attacks incur a penalty of -2 (after one attack, the opponent has become accustomed to the spell's distorting effect)."
+    "Type": "Phantasmal Illusion",
+    "Details": "The illusionist's outline becomes blurred, as if seen through shimmering waves of heat. In consequence, the illusionist gains a bonus of +1 against any targeted magical attack. Additionally, any opponent's first attack against the illusionist will incur a penalty of -4, and subsequent attacks incur a penalty of -2 (after one attack, the opponent has become accustomed to the spell's distorting effect).",
+    "Level": "2",
+    "Range": "Caster",
+    "Duration": "3 rounds+1 round/level",
+    "Area of Effect": "Caster",
+    "Components": "VS",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
   "Change Self": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "1",
-      "Range": "Caster",
-      "Duration": "2d6 rounds+2rounds/level",
-      "Area of Effect": "Caster",
-      "Components": "VS",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "By means of this spell, the illusionist changes his or her appearance into any bipedal humanoid form (although size and weight can only be altered by one foot and 50 lbs, respectively). The illusionist's face, of course, may be changed as desired, including alterations to make him or her appear identical to an existing person."
+    "Type": "Phantasmal Illusion",
+    "Details": "By means of this spell, the illusionist changes his or her appearance into any bipedal humanoid form (although size and weight can only be altered by one foot and 50 lbs, respectively). The illusionist's face, of course, may be changed as desired, including alterations to make him or her appear identical to an existing person.",
+    "Level": "1",
+    "Range": "Caster",
+    "Duration": "2d6 rounds+2rounds/level",
+    "Area of Effect": "Caster",
+    "Components": "VS",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Chaos": {
-    "type": "Phantasmal Enchantment/Charm",
-    "table": {
-      "Level": "5",
-      "Range": "5-ft/level",
-      "Duration": "1 round/level",
-      "Area of Effect": "Up to 40-ft×40-ft",
-      "Components": "VSM",
-      "Casting Time": "5 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell causes a number of creatures in the spell's area of effect to behave strangely and unpredictably. All creatures in the spell's area of effect become confused (see below for effect), and only illusionists, fighters, and creatures with an intelligence of 4 or lower are entitled to a saving throw at all. Those entitled to a saving throw must check each round to avoid becoming confused. Creatures that fail their saving throws (if entitled to one at all) act randomly in accordance with the following table:\n\n\n\n\n\n d%  Action \n\n\n  01-10    Attacks the illusionist or his or her allies  \n\n\n  11-20    Acts normally  \n\n\n  21-50    Babbles incoherently  \n\n\n  51-70    Meanders away from caster for a full turn  \n\n\n  71-00    Attacks nearest creature  \n\n\n\n\n\nNote: A creature that meanders away is not entitled to further saving throws, but will be freed from the spell's effects after taking a full turn of movement (at normal speed) away from the caster."
+    "Type": "Phantasmal Enchantment/Charm",
+    "Details": "This spell causes a number of creatures in the spell's area of effect to behave strangely and unpredictably. All creatures in the spell's area of effect become confused (see below for effect), and only illusionists, fighters, and creatures with an intelligence of 4 or lower are entitled to a saving throw at all. Those entitled to a saving throw must check each round to avoid becoming confused. Creatures that fail their saving throws (if entitled to one at all) act randomly in accordance with the following table:\n\n\n\n\n\n d%  Action \n\n\n  01-10    Attacks the illusionist or his or her allies  \n\n\n  11-20    Acts normally  \n\n\n  21-50    Babbles incoherently  \n\n\n  51-70    Meanders away from caster for a full turn  \n\n\n  71-00    Attacks nearest creature  \n\n\n\n\n\nNote: A creature that meanders away is not entitled to further saving throws, but will be freed from the spell's effects after taking a full turn of movement (at normal speed) away from the caster.",
+    "Level": "5",
+    "Range": "5-ft/level",
+    "Duration": "1 round/level",
+    "Area of Effect": "Up to 40-ft\u00d740-ft",
+    "Components": "VSM",
+    "Casting Time": "5 segments",
+    "Saving Throw": "See below"
   },
   "Colour Spray": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "0",
-      "Duration": "1 segment",
-      "Area of Effect": "Cone, 5-ft wide at origin, 45% arc, 10-ft/level long",
-      "Components": "VSM",
-      "Casting Time": "1 segment",
-      "Saving Throw": "See below"
-    },
-    "details": "The caster fans out his or her fingers, and a sheet of unearthly-coloured light springs forth. 1d6 creatures caught within the light may be affected, and the spell can only affect 1 hit die of creatures per caster level. Creatures with HD equal to or less than the caster's are rendered unconscious by the burst of colours. If the creature's hit dice exceed the caster's by 1-2, the creature is blinded for 1d4 rounds. If the creature has 3+ hit dice in excess of the caster's, it is merely stunned for 2d4 segments. Any creature with hit dice exceeding the caster's (and creatures or 6+ HD regardless of the caster's level) are entitled to a saving throw."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "The caster fans out his or her fingers, and a sheet of unearthly-coloured light springs forth. 1d6 creatures caught within the light may be affected, and the spell can only affect 1 hit die of creatures per caster level. Creatures with HD equal to or less than the caster's are rendered unconscious by the burst of colours. If the creature's hit dice exceed the caster's by 1-2, the creature is blinded for 1d4 rounds. If the creature has 3+ hit dice in excess of the caster's, it is merely stunned for 2d4 segments. Any creature with hit dice exceeding the caster's (and creatures or 6+ HD regardless of the caster's level) are entitled to a saving throw.",
+    "Level": "1",
+    "Range": "0",
+    "Duration": "1 segment",
+    "Area of Effect": "Cone, 5-ft wide at origin, 45% arc, 10-ft/level long",
+    "Components": "VSM",
+    "Casting Time": "1 segment",
+    "Saving Throw": "See below"
   },
   "Confusion": {
-    "type": "Phantasmal Enchantment/Charm",
-    "table": {
-      "Level": "4",
-      "Range": "80-ft",
-      "Duration": "1 round/level",
-      "Area of Effect": "Up to 40-ft×40-ft",
-      "Components": "VSM",
-      "Casting Time": "4 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell causes creatures to behave strangely and unpredictably. A certain number of creatures in the spell's area of effect must make a saving throw each round in order to avoid becoming confused. The base number of creatures is 2d8, but additional creatures may be affected; if the caster's level is higher than the HD of the strongest opponent, the difference is the number of additional creatures that must make saving throws. This spell is extremely powerful; all saving throws are made with a penalty of -2. Creatures that fail their saving throws (check each round) act randomly in accordance with the following table:\n\n\n\n\n\n d% Action\n\n\n  01-10  Attacks the druid or his or her allies\n\n\n  11-20  Acts normally\n\n\n  21-50  Babbles incoherently\n\n\n  51-70  Meanders away from caster for a full turn\n\n\n  71-00  Attacks nearest creature\n\n\n\n\n\nNote:   A creature that meanders away is not entitled to further saving throws, but will be freed from the spell's effects after taking a full turn of movement (at normal speed) away from the caster."
+    "Type": "Phantasmal Enchantment/Charm",
+    "Details": "This spell causes creatures to behave strangely and unpredictably. A certain number of creatures in the spell's area of effect must make a saving throw each round in order to avoid becoming confused. The base number of creatures is 2d8, but additional creatures may be affected; if the caster's level is higher than the HD of the strongest opponent, the difference is the number of additional creatures that must make saving throws. This spell is extremely powerful; all saving throws are made with a penalty of -2. Creatures that fail their saving throws (check each round) act randomly in accordance with the following table:\n\n\n\n\n\n d% Action\n\n\n  01-10  Attacks the druid or his or her allies\n\n\n  11-20  Acts normally\n\n\n  21-50  Babbles incoherently\n\n\n  51-70  Meanders away from caster for a full turn\n\n\n  71-00  Attacks nearest creature\n\n\n\n\n\nNote:   A creature that meanders away is not entitled to further saving throws, but will be freed from the spell's effects after taking a full turn of movement (at normal speed) away from the caster.",
+    "Level": "4",
+    "Range": "80-ft",
+    "Duration": "1 round/level",
+    "Area of Effect": "Up to 40-ft\u00d740-ft",
+    "Components": "VSM",
+    "Casting Time": "4 segments",
+    "Saving Throw": "See below"
   },
   "Conjure Animals": {
-    "type": "Phantasmal Conjuration/Summoning",
-    "table": {
-      "Level": "6",
-      "Range": "30-ft",
-      "Duration": "1 round/level",
-      "Area of Effect": "Conjured creatures",
-      "Components": "VS",
-      "Casting Time": "6 segments",
-      "Saving Throw": "None"
-    },
-    "details": "A caster may use this spell to conjure animal allies from thin air and order them into combat. The total hit dice of summoned animals cannot exceed the caster's level, and the animals must all be of the same type. This spell will only summon mammals, although giant or prehistoric forms of normal mammals may be conjured if these are present within a few miles of the caster. The GM determines the specific type of animal that appears."
+    "Type": "Phantasmal Conjuration/Summoning",
+    "Details": "A caster may use this spell to conjure animal allies from thin air and order them into combat. The total hit dice of summoned animals cannot exceed the caster's level, and the animals must all be of the same type. This spell will only summon mammals, although giant or prehistoric forms of normal mammals may be conjured if these are present within a few miles of the caster. The GM determines the specific type of animal that appears.",
+    "Level": "6",
+    "Range": "30-ft",
+    "Duration": "1 round/level",
+    "Area of Effect": "Conjured creatures",
+    "Components": "VS",
+    "Casting Time": "6 segments",
+    "Saving Throw": "None"
   },
   "Continual Darkness": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "3",
-      "Range": "60-ft",
-      "Duration": "Permanent",
-      "Area of Effect": "30-ft radius globe",
-      "Components": "VS",
-      "Casting Time": "3 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell creates an area of utter lightlessness, a magical darkness that prevents all natural vision, even infravision. The spell's effect is neutralised by (and neutralises) the counteracting effect of a light or continual light spell."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "This spell creates an area of utter lightlessness, a magical darkness that prevents all natural vision, even infravision. The spell's effect is neutralised by (and neutralises) the counteracting effect of a light or continual light spell.",
+    "Level": "3",
+    "Range": "60-ft",
+    "Duration": "Permanent",
+    "Area of Effect": "30-ft radius globe",
+    "Components": "VS",
+    "Casting Time": "3 segments",
+    "Saving Throw": "None"
   },
   "Continual Light": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "3",
-      "Range": "60-ft",
-      "Duration": "Permanent",
-      "Area of Effect": "60-ft radius globe",
-      "Components": "VS",
-      "Casting Time": "3 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell brings into being a bright, magical illumination almost sufficient to rival the light of day. In some respects the spell is identical to the spell light, but its effects are permanent until dispelled. The light cast is greater than that produced by a light spell, extending 60-ft into the darkness.\n\n\n\n\nBy casting the spell upon an enemy's eyes or other organs of sight, the caster may blind the spell's subject, causing the same penalties as if the creature were blinded by a light spell. In this instance, a saving throw is permitted, and if it is successful the spell's effect will centre upon the area immediately behind the targeted creature."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "This spell brings into being a bright, magical illumination almost sufficient to rival the light of day. In some respects the spell is identical to the spell light, but its effects are permanent until dispelled. The light cast is greater than that produced by a light spell, extending 60-ft into the darkness.\n\n\n\n\nBy casting the spell upon an enemy's eyes or other organs of sight, the caster may blind the spell's subject, causing the same penalties as if the creature were blinded by a light spell. In this instance, a saving throw is permitted, and if it is successful the spell's effect will centre upon the area immediately behind the targeted creature.",
+    "Level": "3",
+    "Range": "60-ft",
+    "Duration": "Permanent",
+    "Area of Effect": "60-ft radius globe",
+    "Components": "VS",
+    "Casting Time": "3 segments",
+    "Saving Throw": "None"
   },
   "Dancing Lights": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "40-ft+10-ft/level",
-      "Duration": "2 rounds/level",
-      "Area of Effect": "60-ft radius globe",
-      "Components": "VSM",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "This spell creates small lights at a chosen distance, under the caster's control. It may create 1-4 (at his or her option) torch-like lights, 1-4 (at his or her option) spherical lights, or a single, faintly human-like glow. The lights move at the caster's mental command, without any particular concentration required. If the caster allows the lights to move beyond the spell's range, the lights will disappear and the spell will end."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "This spell creates small lights at a chosen distance, under the caster's control. It may create 1-4 (at his or her option) torch-like lights, 1-4 (at his or her option) spherical lights, or a single, faintly human-like glow. The lights move at the caster's mental command, without any particular concentration required. If the caster allows the lights to move beyond the spell's range, the lights will disappear and the spell will end.",
+    "Level": "1",
+    "Range": "40-ft+10-ft/level",
+    "Duration": "2 rounds/level",
+    "Area of Effect": "60-ft radius globe",
+    "Components": "VSM",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Darkness": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "40-ft+10-ft/level",
-      "Duration": "2d4 rounds+1 round/level",
-      "Area of Effect": "15-ft radius globe",
-      "Components": "VS",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "This spell creates an area of utter lightlessness, a magical darkness that prevents all natural vision, even infravision. The spell's effect is neutralised by (and neutralises) the counteracting effect of a light or continual light spell."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "This spell creates an area of utter lightlessness, a magical darkness that prevents all natural vision, even infravision. The spell's effect is neutralised by (and neutralises) the counteracting effect of a light or continual light spell.",
+    "Level": "1",
+    "Range": "40-ft+10-ft/level",
+    "Duration": "2d4 rounds+1 round/level",
+    "Area of Effect": "15-ft radius globe",
+    "Components": "VS",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Deafness": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "60-ft",
-      "Duration": "Permanent",
-      "Area of Effect": "One creature",
-      "Components": "VSM",
-      "Casting Time": "2 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "This spell is similar to the illusionist's blindness spell, but causes deafness. The effect is permanent until removed by dispel magic, though it can be removed by the caster at any time."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell is similar to the illusionist's blindness spell, but causes deafness. The effect is permanent until removed by dispel magic, though it can be removed by the caster at any time.",
+    "Level": "2",
+    "Range": "60-ft",
+    "Duration": "Permanent",
+    "Area of Effect": "One creature",
+    "Components": "VSM",
+    "Casting Time": "2 segments",
+    "Saving Throw": "Negates"
   },
   "Demi-Shadow Magic": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "6",
-      "Range": "60-ft+10-ft/level",
-      "Duration": "See below",
-      "Area of Effect": "See below",
-      "Components": "VS",
-      "Casting Time": "6 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell allows the illusionist to “cast” a quasi-real version of any one of the following arcane spells: cloudkill, cone of cold, magic missile, fireball, lighting bolt, wall of fire, wall of ice. If a victim fails a saving throw vs spells, the illusion will function as a real version of that spell with regard to the victim. If the saving throw is successful, it will still have a lessened effect due to its quasi-real nature. The offensive spells will inflict 2 hit points per caster level, the wall spells will inflict 1d4 hit points per caster level, and the cloudkill will only kill creatures of fewer than 2 hit dice (no saving throw)."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell allows the illusionist to \u201ccast\u201d a quasi-real version of any one of the following arcane spells: cloudkill, cone of cold, magic missile, fireball, lighting bolt, wall of fire, wall of ice. If a victim fails a saving throw vs spells, the illusion will function as a real version of that spell with regard to the victim. If the saving throw is successful, it will still have a lessened effect due to its quasi-real nature. The offensive spells will inflict 2 hit points per caster level, the wall spells will inflict 1d4 hit points per caster level, and the cloudkill will only kill creatures of fewer than 2 hit dice (no saving throw).",
+    "Level": "6",
+    "Range": "60-ft+10-ft/level",
+    "Duration": "See below",
+    "Area of Effect": "See below",
+    "Components": "VS",
+    "Casting Time": "6 segments",
+    "Saving Throw": "See below"
   },
   "Demi-Shadow Monsters": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "5",
-      "Range": "30-ft",
-      "Duration": "1 round/level",
-      "Area of Effect": "20-ft×20-ft",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell creates partially-real illusory monsters in the same manner as the spell shadow monsters, but the demi-shadow monsters have 40% of normal hit points rather than 20%; if they are detected as only quasi-real, they inflict 40% of normal damage and are AC 8."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell creates partially-real illusory monsters in the same manner as the spell shadow monsters, but the demi-shadow monsters have 40% of normal hit points rather than 20%; if they are detected as only quasi-real, they inflict 40% of normal damage and are AC 8.",
+    "Level": "5",
+    "Range": "30-ft",
+    "Duration": "1 round/level",
+    "Area of Effect": "20-ft\u00d720-ft",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "See below"
   },
   "Detect Illusion": {
-    "type": "Phantasmal Divination",
-    "table": {
-      "Level": "1",
-      "Range": "Caster",
-      "Duration": "3 rounds+2 rounds/level",
-      "Area of Effect": "Path 10-ft wide, 10-ft/level long",
-      "Components": "VSM",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "By means of this spell, the caster sees any illusion for what it truly is. By touching an illusion, the caster can make its true form visible to any observer."
+    "Type": "Phantasmal Divination",
+    "Details": "By means of this spell, the caster sees any illusion for what it truly is. By touching an illusion, the caster can make its true form visible to any observer.",
+    "Level": "1",
+    "Range": "Caster",
+    "Duration": "3 rounds+2 rounds/level",
+    "Area of Effect": "Path 10-ft wide, 10-ft/level long",
+    "Components": "VSM",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Detect Invisibility": {
-    "type": "Phantasmal Divination",
-    "table": {
-      "Level": "1",
-      "Range": "10-ft/level",
-      "Duration": "5 rounds/level",
-      "Area of Effect": "Caster",
-      "Components": "VSM",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "This spell allows the caster to see that which is invisible or hidden, and also to perceive the astral and æthereal planes.\n\n\n\n\nThe spell's sight is limited to the stated range of 10-ft/caster level."
+    "Type": "Phantasmal Divination",
+    "Details": "This spell allows the caster to see that which is invisible or hidden, and also to perceive the astral and \u00e6thereal planes.\n\n\n\n\nThe spell's sight is limited to the stated range of 10-ft/caster level.",
+    "Level": "1",
+    "Range": "10-ft/level",
+    "Duration": "5 rounds/level",
+    "Area of Effect": "Caster",
+    "Components": "VSM",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Detect Magic": {
-    "type": "Phantasmal Divination",
-    "table": {
-      "Level": "2",
-      "Range": "Caster",
-      "Duration": "2 rounds/level",
-      "Area of Effect": "Path 10-ft wide, 60-ft long",
-      "Components": "VS",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Detect magic creates a tunnel of magical vision in a path 10-ft wide and 60-ft long, in which the caster sees the aura of any magic item as a glowing blue nimbus. The spell's effect is blocked by solid wood 3-ft thick, by stone 1-ft thick, and by solid metal 1 inch thick. The caster can only scan a 60° arc during the course of a round: turning more quickly does not allow magic auras enough time to form in their vision."
+    "Type": "Phantasmal Divination",
+    "Details": "Detect magic creates a tunnel of magical vision in a path 10-ft wide and 60-ft long, in which the caster sees the aura of any magic item as a glowing blue nimbus. The spell's effect is blocked by solid wood 3-ft thick, by stone 1-ft thick, and by solid metal 1 inch thick. The caster can only scan a 60\u00b0 arc during the course of a round: turning more quickly does not allow magic auras enough time to form in their vision.",
+    "Level": "2",
+    "Range": "Caster",
+    "Duration": "2 rounds/level",
+    "Area of Effect": "Path 10-ft wide, 60-ft long",
+    "Components": "VS",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
   "Dispel Exhaustion": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "4",
-      "Range": "Touch",
-      "Duration": "3 turns/level",
-      "Area of Effect": "Up to 4 creatures",
-      "Components": "VS",
-      "Casting Time": "4 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell creates a powerful illusion of physical health. Recipients “gain” 50% of any hit points that have been lost, and function for all intents and purposes as if these hit points are real. The illusory hit points are the first to be subtracted if the character sustains damage. At the end of the spell's duration, the remaining illusory hit points are lost. Additionally, any character under the influence of this spell can move (but not attack) at double the normal speed."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell creates a powerful illusion of physical health. Recipients \u201cgain\u201d 50% of any hit points that have been lost, and function for all intents and purposes as if these hit points are real. The illusory hit points are the first to be subtracted if the character sustains damage. At the end of the spell's duration, the remaining illusory hit points are lost. Additionally, any character under the influence of this spell can move (but not attack) at double the normal speed.",
+    "Level": "4",
+    "Range": "Touch",
+    "Duration": "3 turns/level",
+    "Area of Effect": "Up to 4 creatures",
+    "Components": "VS",
+    "Casting Time": "4 segments",
+    "Saving Throw": "None"
   },
   "Dispel Illusion": {
-    "type": "Phantasmal Abjuration",
-    "table": {
-      "Level": "3",
-      "Range": "10-ft/level",
-      "Duration": "Instantaneous",
-      "Area of Effect": "One illusion",
-      "Components": "VS",
-      "Casting Time": "3 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell automatically dispels phantasmal forces cast by non-illusionists. All other illusion spells are treated as if this spell were a dispel magic (i.e., with a 50% base chance to dispel, adjusted up or down by 2% or 5% respectively, based on relative caster levels)."
+    "Type": "Phantasmal Abjuration",
+    "Details": "This spell automatically dispels phantasmal forces cast by non-illusionists. All other illusion spells are treated as if this spell were a dispel magic (i.e., with a 50% base chance to dispel, adjusted up or down by 2% or 5% respectively, based on relative caster levels).",
+    "Level": "3",
+    "Range": "10-ft/level",
+    "Duration": "Instantaneous",
+    "Area of Effect": "One illusion",
+    "Components": "VS",
+    "Casting Time": "3 segments",
+    "Saving Throw": "None"
   },
   "Emotion": {
-    "type": "Phantasmal Enchantment/Charm",
-    "table": {
-      "Level": "4",
-      "Range": "10-ft/level",
-      "Duration": "Until concentration ceases",
-      "Area of Effect": "Up to 40-ft×40-ft",
-      "Components": "VS",
-      "Casting Time": "4 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "By casting this spell, the illusionist is able to instil others with one of four powerful emotions, each with a different effect, as described below:\n\n\n\n\nFear: If the illusionist chooses to instil fear, the spell's effect is similar to that of the fear spell, but with a -2 penalty applied to saving throws.\n\n\n\n\nHate: If the illusionist instils hate, the targets gain a +2 to saving throws, attacks, and damage.\n\n\n\n\nHopelessness: The illusionist causes despair in the target creatures, who will wander sadly away or surrender in the face of a challenge such as a combat.\n\n\n\n\nRage: Creatures affected by rage attack at +1, gain a damage bonus of +3, and gain a bonus of 5 temporary hit points. Temporary hit points are lost first if the creature incurs damage. The affected creature will not willingly retreat from any combat or any opponent."
+    "Type": "Phantasmal Enchantment/Charm",
+    "Details": "By casting this spell, the illusionist is able to instil others with one of four powerful emotions, each with a different effect, as described below:\n\n\n\n\nFear: If the illusionist chooses to instil fear, the spell's effect is similar to that of the fear spell, but with a -2 penalty applied to saving throws.\n\n\n\n\nHate: If the illusionist instils hate, the targets gain a +2 to saving throws, attacks, and damage.\n\n\n\n\nHopelessness: The illusionist causes despair in the target creatures, who will wander sadly away or surrender in the face of a challenge such as a combat.\n\n\n\n\nRage: Creatures affected by rage attack at +1, gain a damage bonus of +3, and gain a bonus of 5 temporary hit points. Temporary hit points are lost first if the creature incurs damage. The affected creature will not willingly retreat from any combat or any opponent.",
+    "Level": "4",
+    "Range": "10-ft/level",
+    "Duration": "Until concentration ceases",
+    "Area of Effect": "Up to 40-ft\u00d740-ft",
+    "Components": "VS",
+    "Casting Time": "4 segments",
+    "Saving Throw": "Negates"
   },
   "Fear": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "3",
-      "Range": "0",
-      "Duration": "See below",
-      "Area of Effect": "5-ft×30-ft×60-ft cone",
-      "Components": "VS",
-      "Casting Time": "3 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "This spell causes utter panic in the creatures exposed to the cone-shaped emanation of phantasmal terror the caster hurls forth. If any creature, of any level or hit dice, fails its saving throw against the spell, it will bolt away from the caster as fast as possible for as many rounds as the caster's level. There is a base 60% chance for a creature to drop whatever it is holding (immediately upon failing the saving throw), reduced by 5% per HD or level of the panicked creature."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell causes utter panic in the creatures exposed to the cone-shaped emanation of phantasmal terror the caster hurls forth. If any creature, of any level or hit dice, fails its saving throw against the spell, it will bolt away from the caster as fast as possible for as many rounds as the caster's level. There is a base 60% chance for a creature to drop whatever it is holding (immediately upon failing the saving throw), reduced by 5% per HD or level of the panicked creature.",
+    "Level": "3",
+    "Range": "0",
+    "Duration": "See below",
+    "Area of Effect": "5-ft\u00d730-ft\u00d760-ft cone",
+    "Components": "VS",
+    "Casting Time": "3 segments",
+    "Saving Throw": "Negates"
   },
   "Fog Cloud": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "2",
-      "Range": "10-ft",
-      "Duration": "4 rounds+1 round/level",
-      "Area of Effect": "40-ft×20-ft×20-ft cloud",
-      "Components": "VS",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell creates a roiling mass of gas and vapour, similar in appearance to a cloudkill spell. The fog cloud moves away from the caster at 10-ft/round. Vision into the fog is limited to 2-ft."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "This spell creates a roiling mass of gas and vapour, similar in appearance to a cloudkill spell. The fog cloud moves away from the caster at 10-ft/round. Vision into the fog is limited to 2-ft.",
+    "Level": "2",
+    "Range": "10-ft",
+    "Duration": "4 rounds+1 round/level",
+    "Area of Effect": "40-ft\u00d720-ft\u00d720-ft cloud",
+    "Components": "VS",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
   "Gaze Reflection": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "0",
-      "Duration": "1 round",
-      "Area of Effect": "Air in front of caster",
-      "Components": "VS",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "The air immediately in front of the caster takes on a mirror's ability to reflect gaze attacks back upon the attacker. The area does not create a reflective surface to normal sight, and it can be seen through by the caster and by other observers, except those using gaze attacks."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "The air immediately in front of the caster takes on a mirror's ability to reflect gaze attacks back upon the attacker. The area does not create a reflective surface to normal sight, and it can be seen through by the caster and by other observers, except those using gaze attacks.",
+    "Level": "1",
+    "Range": "0",
+    "Duration": "1 round",
+    "Area of Effect": "Air in front of caster",
+    "Components": "VS",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Hallucinatory Terrain": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "3",
-      "Range": "20-ft+20-ft/level",
-      "Duration": "See below",
-      "Area of Effect": "40-ft×40-ft square area+10-ft square/level",
-      "Components": "VSM",
-      "Casting Time": "5 rounds",
-      "Saving Throw": "None"
-    },
-    "details": "This spell masks the true appearance of an area, making it appear as something else. A road can be made to appear as a river, a forest can be made to appear as a ravine, etc. The spell's effect remains until some intelligent being touches the area (or until it is dispelled). The spell is particularly useful for hiding pits or making cliff edges seem to extend more than they actually do, but it has many other useful applications for the creative player."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell masks the true appearance of an area, making it appear as something else. A road can be made to appear as a river, a forest can be made to appear as a ravine, etc. The spell's effect remains until some intelligent being touches the area (or until it is dispelled). The spell is particularly useful for hiding pits or making cliff edges seem to extend more than they actually do, but it has many other useful applications for the creative player.",
+    "Level": "3",
+    "Range": "20-ft+20-ft/level",
+    "Duration": "See below",
+    "Area of Effect": "40-ft\u00d740-ft square area+10-ft square/level",
+    "Components": "VSM",
+    "Casting Time": "5 rounds",
+    "Saving Throw": "None"
   },
   "Hypnotic Pattern": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "0",
-      "Duration": "See below",
-      "Area of Effect": "30-ft×30-ft square",
-      "Components": "SM",
-      "Casting Time": "2 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "The illusionist traces magical patterns in the air with a lit stick of incense or other small light source. Any creature in the area of effect that looks at the traceries of light must make a saving throw or stay transfixed by the patterns. The spell can affect a maximum of 25 hit dice worth of creatures, and its effect persists for so long as the caster chooses to continue tracing the patterns in the air."
+    "Type": "Phantasmal Illusion",
+    "Details": "The illusionist traces magical patterns in the air with a lit stick of incense or other small light source. Any creature in the area of effect that looks at the traceries of light must make a saving throw or stay transfixed by the patterns. The spell can affect a maximum of 25 hit dice worth of creatures, and its effect persists for so long as the caster chooses to continue tracing the patterns in the air.",
+    "Level": "2",
+    "Range": "0",
+    "Duration": "See below",
+    "Area of Effect": "30-ft\u00d730-ft square",
+    "Components": "SM",
+    "Casting Time": "2 segments",
+    "Saving Throw": "Negates"
   },
   "Hypnotism": {
-    "type": "Phantasmal Enchantment/Charm",
-    "table": {
-      "Level": "1",
-      "Range": "30-ft",
-      "Duration": "1 round+1 round/level",
-      "Area of Effect": "1d6 creatures",
-      "Components": "VS",
-      "Casting Time": "1 segment",
-      "Saving Throw": "Negates"
-    },
-    "details": "The gestures of this spell weave a hypnotic power into the illusionist's words, affecting 1d6 creatures. Those not making their saving throws are subject to a suggestion made by the illusionist, identical to that made in the magic user spell suggestion (but with a much shorter duration). The only indication about whether a creature has been affected by the hypnotism is whether or not it responds to the suggestion."
+    "Type": "Phantasmal Enchantment/Charm",
+    "Details": "The gestures of this spell weave a hypnotic power into the illusionist's words, affecting 1d6 creatures. Those not making their saving throws are subject to a suggestion made by the illusionist, identical to that made in the magic user spell suggestion (but with a much shorter duration). The only indication about whether a creature has been affected by the hypnotism is whether or not it responds to the suggestion.",
+    "Level": "1",
+    "Range": "30-ft",
+    "Duration": "1 round+1 round/level",
+    "Area of Effect": "1d6 creatures",
+    "Components": "VS",
+    "Casting Time": "1 segment",
+    "Saving Throw": "Negates"
   },
   "Illusory Script": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "3",
-      "Range": "0",
-      "Duration": "Permanent",
-      "Area of Effect": "Enchanted script",
-      "Components": "VSM",
-      "Casting Time": "Time of writing",
-      "Saving Throw": "None"
-    },
-    "details": "This is an enchantment placed upon a piece of writing to guard its true contents from prying eyes. The illusionist may specify a particular person, group of people, type of person, etc., that will be allowed to read the script without risking the adverse effects of the spell. All others will perceive the script as an undecipherable language, which causes confusion (as per the spell) for 5d4 turns (minus one per hit die of the reader). An illusionist can recognize the script as illusory early enough to avoid the confusion effect, but cannot necessarily see past the illusion."
+    "Type": "Phantasmal Illusion",
+    "Details": "This is an enchantment placed upon a piece of writing to guard its true contents from prying eyes. The illusionist may specify a particular person, group of people, type of person, etc., that will be allowed to read the script without risking the adverse effects of the spell. All others will perceive the script as an undecipherable language, which causes confusion (as per the spell) for 5d4 turns (minus one per hit die of the reader). An illusionist can recognize the script as illusory early enough to avoid the confusion effect, but cannot necessarily see past the illusion.",
+    "Level": "3",
+    "Range": "0",
+    "Duration": "Permanent",
+    "Area of Effect": "Enchanted script",
+    "Components": "VSM",
+    "Casting Time": "Time of writing",
+    "Saving Throw": "None"
   },
   "Improved Invisibility": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "4",
-      "Range": "Touch",
-      "Duration": "4 rounds+1 round/level",
-      "Area of Effect": "One creature",
-      "Components": "VS",
-      "Casting Time": "4 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell functions in the same manner as the invisibility spell, but is not terminated if the invisible creature attacks."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell functions in the same manner as the invisibility spell, but is not terminated if the invisible creature attacks.",
+    "Level": "4",
+    "Range": "Touch",
+    "Duration": "4 rounds+1 round/level",
+    "Area of Effect": "One creature",
+    "Components": "VS",
+    "Casting Time": "4 segments",
+    "Saving Throw": "None"
   },
   "Improved Phantasmal Force": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "60-ft+10/level",
-      "Duration": "See below",
-      "Area of Effect": "40×40-ft square+10-ft square/level",
-      "Components": "VSM",
-      "Casting Time": "2 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell produces a phantasm as described in the phantasmal force spell description. This more powerful evocation of phantasmal magic allows the caster to weave vague sounds into the illusion and to maintain the illusion even if moving at up to half his or her normal movement rate. Speech cannot be created, but clanking noises, rumblings, and other such sounds can be incorporated into the illusion. The spell also allows the illusionist to force the illusion to remain in existence for up to two rounds after he or she ceases to concentrate upon it."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell produces a phantasm as described in the phantasmal force spell description. This more powerful evocation of phantasmal magic allows the caster to weave vague sounds into the illusion and to maintain the illusion even if moving at up to half his or her normal movement rate. Speech cannot be created, but clanking noises, rumblings, and other such sounds can be incorporated into the illusion. The spell also allows the illusionist to force the illusion to remain in existence for up to two rounds after he or she ceases to concentrate upon it.",
+    "Level": "2",
+    "Range": "60-ft+10/level",
+    "Duration": "See below",
+    "Area of Effect": "40\u00d740-ft square+10-ft square/level",
+    "Components": "VSM",
+    "Casting Time": "2 segments",
+    "Saving Throw": "See below"
   },
   "Invisibility": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "Touch",
-      "Duration": "See below",
-      "Area of Effect": "One creature",
-      "Components": "VS",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "When the words of this spell are completed, the recipient and all he or she carries fade from sight, becoming invisible. Even infravision cannot detect an invisible creature. The spell remains in effect until the invisible creature attacks someone, the caster ends the spell, or the magic is dispelled. Note that the spell does not make the recipient any more quiet than normal, nor does it eliminate scents. The invisible person can see him- or herself, but the caster (unless they are one and the same) cannot. The spell cannot be cast upon an unwilling subject."
+    "Type": "Phantasmal Illusion",
+    "Details": "When the words of this spell are completed, the recipient and all he or she carries fade from sight, becoming invisible. Even infravision cannot detect an invisible creature. The spell remains in effect until the invisible creature attacks someone, the caster ends the spell, or the magic is dispelled. Note that the spell does not make the recipient any more quiet than normal, nor does it eliminate scents. The invisible person can see him- or herself, but the caster (unless they are one and the same) cannot. The spell cannot be cast upon an unwilling subject.",
+    "Level": "2",
+    "Range": "Touch",
+    "Duration": "See below",
+    "Area of Effect": "One creature",
+    "Components": "VS",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
   "Invisibility, 10-ft Radius": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "3",
-      "Range": "Touch",
-      "Duration": "See below",
-      "Area of Effect": "10-ft radius of creature touched",
-      "Components": "VS",
-      "Casting Time": "3 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell operates as does the invisibility spell, but affects all creatures within 10-ft of the recipient at the time the final words of the spell are uttered. If the creature upon which the spell was cast makes an attack, the attack will negate the invisibility of all the others. However, if one of the creatures affected by the spell's radius (not the direct recipient) attacks, the invisibility only of that one creature is negated thereby. In order to remain invisible, those who were made invisible by virtue of the spell's radius must remain within 10-ft of the creature upon whom the spell is centred. All creatures affected can see each other."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell operates as does the invisibility spell, but affects all creatures within 10-ft of the recipient at the time the final words of the spell are uttered. If the creature upon which the spell was cast makes an attack, the attack will negate the invisibility of all the others. However, if one of the creatures affected by the spell's radius (not the direct recipient) attacks, the invisibility only of that one creature is negated thereby. In order to remain invisible, those who were made invisible by virtue of the spell's radius must remain within 10-ft of the creature upon whom the spell is centred. All creatures affected can see each other.",
+    "Level": "3",
+    "Range": "Touch",
+    "Duration": "See below",
+    "Area of Effect": "10-ft radius of creature touched",
+    "Components": "VS",
+    "Casting Time": "3 segments",
+    "Saving Throw": "None"
   },
   "Light": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "60-ft",
-      "Duration": "1 turn/level",
-      "Area of Effect": "20-ft radius",
-      "Components": "VS",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "The light spell creates a globe of light 20-ft in radius, centred upon whatever spot or object the caster indicates at the time of casting (including a location in thin air). The caster may extinguish the magical light at any time. If the spell is cast upon a living creature, the creature is entitled to a saving throw (success indicating that the spell affects the area just behind the creature). A light spell cast upon a creature's eyes will blind it for the spell's duration, causing it a penalty of -4 on all rolls “to hit” if sight is its primary sense. The light spell remains stationary if it was not originally cast upon a movable object or creature (in which case the target will bring the illumination with it as it moves)."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "The light spell creates a globe of light 20-ft in radius, centred upon whatever spot or object the caster indicates at the time of casting (including a location in thin air). The caster may extinguish the magical light at any time. If the spell is cast upon a living creature, the creature is entitled to a saving throw (success indicating that the spell affects the area just behind the creature). A light spell cast upon a creature's eyes will blind it for the spell's duration, causing it a penalty of -4 on all rolls \u201cto hit\u201d if sight is its primary sense. The light spell remains stationary if it was not originally cast upon a movable object or creature (in which case the target will bring the illumination with it as it moves).",
+    "Level": "1",
+    "Range": "60-ft",
+    "Duration": "1 turn/level",
+    "Area of Effect": "20-ft radius",
+    "Components": "VS",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Magic Mouth": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "2",
-      "Range": "See below",
-      "Duration": "Permanent until triggered",
-      "Area of Effect": "One object",
-      "Components": "VSM",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell is cast upon an object, so that when a set of particular conditions are met, a mouth will appear in the object and speak a specific message. The length of the message cannot exceed 25 words. The caster can set any condition for the appearance of the magic mouth, but the caster's power limits the range at which the mouth can detect the triggering events. The mouth can “perceive” events at a range of 5-ft/caster level, but cannot detect invisible creatures. It has no perceptions other than visual, although it does not actually see. Obviously, a player cannot try to phrase conditions using game terms such as “hit dice,” “class,” “level,” etc. but must use terms that would be familiar to the character."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "This spell is cast upon an object, so that when a set of particular conditions are met, a mouth will appear in the object and speak a specific message. The length of the message cannot exceed 25 words. The caster can set any condition for the appearance of the magic mouth, but the caster's power limits the range at which the mouth can detect the triggering events. The mouth can \u201cperceive\u201d events at a range of 5-ft/caster level, but cannot detect invisible creatures. It has no perceptions other than visual, although it does not actually see. Obviously, a player cannot try to phrase conditions using game terms such as \u201chit dice,\u201d \u201cclass,\u201d \u201clevel,\u201d etc. but must use terms that would be familiar to the character.",
+    "Level": "2",
+    "Range": "See below",
+    "Duration": "Permanent until triggered",
+    "Area of Effect": "One object",
+    "Components": "VSM",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
   "Major Creation": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "5",
-      "Range": "10-ft",
-      "Duration": "6 turns/level",
-      "Area of Effect": "1 cubic-ft/level",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "This spell is simply a more powerful version of minor creation, allowing the caster to create objects of mineral as well as of vegetable origin."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "This spell is simply a more powerful version of minor creation, allowing the caster to create objects of mineral as well as of vegetable origin.",
+    "Level": "5",
+    "Range": "10-ft",
+    "Duration": "6 turns/level",
+    "Area of Effect": "1 cubic-ft/level",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Mass Suggestion": {
-    "type": "Phantasmal Enchantment/Charm",
-    "table": {
-      "Level": "6",
-      "Range": "10-ft/level",
-      "Duration": "4 turns+4 turns/level",
-      "Area of Effect": "One creature/level",
-      "Components": "VM",
-      "Casting Time": "6 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "This spell functions in the same manner as suggestion, but influences multiple creatures. If all of the spell's power is concentrated upon a single creature, the spell simply functions as a powerful suggestion spell, with the saving throw made at -2."
+    "Type": "Phantasmal Enchantment/Charm",
+    "Details": "This spell functions in the same manner as suggestion, but influences multiple creatures. If all of the spell's power is concentrated upon a single creature, the spell simply functions as a powerful suggestion spell, with the saving throw made at -2.",
+    "Level": "6",
+    "Range": "10-ft/level",
+    "Duration": "4 turns+4 turns/level",
+    "Area of Effect": "One creature/level",
+    "Components": "VM",
+    "Casting Time": "6 segments",
+    "Saving Throw": "Negates"
   },
   "Massmorph": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "4",
-      "Range": "10-ft/level",
-      "Duration": "See below",
-      "Area of Effect": "Up to 10-ft×10-ft/level",
-      "Components": "VS",
-      "Casting Time": "4 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell causes creatures of man size or smaller to appear like an innocent grove of trees to any observers. Up to 10 creatures may be enchanted in this manner. The illusion is so powerful that it is maintained even if the massmorphed creatures are touched. The “tree's” reaction to being stabbed or hacked at is fairly likely to indicate that it is no normal tree, of course, although the illusion is not actually dispelled by a successful attack. The illusion persists until the caster dies or dismisses it (or it is dispelled)."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell causes creatures of man size or smaller to appear like an innocent grove of trees to any observers. Up to 10 creatures may be enchanted in this manner. The illusion is so powerful that it is maintained even if the massmorphed creatures are touched. The \u201ctree's\u201d reaction to being stabbed or hacked at is fairly likely to indicate that it is no normal tree, of course, although the illusion is not actually dispelled by a successful attack. The illusion persists until the caster dies or dismisses it (or it is dispelled).",
+    "Level": "4",
+    "Range": "10-ft/level",
+    "Duration": "See below",
+    "Area of Effect": "Up to 10-ft\u00d710-ft/level",
+    "Components": "VS",
+    "Casting Time": "4 segments",
+    "Saving Throw": "None"
   },
   "Maze": {
-    "type": "Phantasmal Conjuration/Summoning",
-    "table": {
-      "Level": "5",
-      "Range": "5-ft/level",
-      "Duration": "See below",
-      "Area of Effect": "One creature",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Other than as may be noted above, this spell is identical to the magic user spell of the same name."
+    "Type": "Phantasmal Conjuration/Summoning",
+    "Details": "Other than as may be noted above, this spell is identical to the magic user spell of the same name.",
+    "Level": "5",
+    "Range": "5-ft/level",
+    "Duration": "See below",
+    "Area of Effect": "One creature",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
   "Minor Creation": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "4",
-      "Range": "Touch",
-      "Duration": "6 turns/level",
-      "Area of Effect": "1 cubic-ft/level",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "With a small piece of material, the caster may use this spell to create an object made of that same material. The base material cannot be alive and must come from a plant. Thus, within the caster's limits on the item's volume, he or she could create a basket from a piece of straw, a door or club from a splinter of wood, a cloak from a piece of wool, etc. The item exists only for the duration of the spell."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "With a small piece of material, the caster may use this spell to create an object made of that same material. The base material cannot be alive and must come from a plant. Thus, within the caster's limits on the item's volume, he or she could create a basket from a piece of straw, a door or club from a splinter of wood, a cloak from a piece of wool, etc. The item exists only for the duration of the spell.",
+    "Level": "4",
+    "Range": "Touch",
+    "Duration": "6 turns/level",
+    "Area of Effect": "1 cubic-ft/level",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Mirror Image": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "Caster",
-      "Duration": "3 rounds/level",
-      "Area of Effect": "6-ft radius",
-      "Components": "VS",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Except for the duration and number of images (1d4+1), this spell is identical to the magic user spell of the same name."
+    "Type": "Phantasmal Illusion",
+    "Details": "Except for the duration and number of images (1d4+1), this spell is identical to the magic user spell of the same name.",
+    "Level": "2",
+    "Range": "Caster",
+    "Duration": "3 rounds/level",
+    "Area of Effect": "6-ft radius",
+    "Components": "VS",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
   "Misdirection": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "30-ft",
-      "Duration": "1 round/level",
-      "Area of Effect": "One object or creature",
-      "Components": "VS",
-      "Casting Time": "2 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "This spell is cast upon an object or creature to mislead any form of divination spells. If the caster or user of the divination magic fails a saving throw, he or she will obtain a false result from the divination; a lie will be detected as truth, the wrong alignment perceived, the wrong location divined, etc."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell is cast upon an object or creature to mislead any form of divination spells. If the caster or user of the divination magic fails a saving throw, he or she will obtain a false result from the divination; a lie will be detected as truth, the wrong alignment perceived, the wrong location divined, etc.",
+    "Level": "2",
+    "Range": "30-ft",
+    "Duration": "1 round/level",
+    "Area of Effect": "One object or creature",
+    "Components": "VS",
+    "Casting Time": "2 segments",
+    "Saving Throw": "Negates"
   },
   "Non-Detection": {
-    "type": "Phantasmal Abjuration",
-    "table": {
-      "Level": "3",
-      "Range": "Caster",
-      "Duration": "1 turn/level",
-      "Area of Effect": "5-ft radius",
-      "Components": "VSM",
-      "Casting Time": "3 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell shields the caster from the prying eyes of scrying magics, making him or her invisible to divination spells and other means of magical spying such as crystal balls and thought detection."
+    "Type": "Phantasmal Abjuration",
+    "Details": "This spell shields the caster from the prying eyes of scrying magics, making him or her invisible to divination spells and other means of magical spying such as crystal balls and thought detection.",
+    "Level": "3",
+    "Range": "Caster",
+    "Duration": "1 turn/level",
+    "Area of Effect": "5-ft radius",
+    "Components": "VSM",
+    "Casting Time": "3 segments",
+    "Saving Throw": "None"
   },
   "Paralysation": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "3",
-      "Range": "10-ft/level",
-      "Duration": "Permanent",
-      "Area of Effect": "20-ft×20-ft",
-      "Components": "VS",
-      "Casting Time": "3 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "A certain number of creatures within the spell's area of effect are frozen in place, magically convinced that they cannot move. The caster can affect creatures with a total number of hit dice equal to twice his caster level. Each creature is entitled to a saving throw against the spell. The illusionist can end the paralysis at any time; otherwise a dispel magic (or dispel illusion) spell is the only way to remove the paralysis."
+    "Type": "Phantasmal Illusion",
+    "Details": "A certain number of creatures within the spell's area of effect are frozen in place, magically convinced that they cannot move. The caster can affect creatures with a total number of hit dice equal to twice his caster level. Each creature is entitled to a saving throw against the spell. The illusionist can end the paralysis at any time; otherwise a dispel magic (or dispel illusion) spell is the only way to remove the paralysis.",
+    "Level": "3",
+    "Range": "10-ft/level",
+    "Duration": "Permanent",
+    "Area of Effect": "20-ft\u00d720-ft",
+    "Components": "VS",
+    "Casting Time": "3 segments",
+    "Saving Throw": "Negates"
   },
   "Permanent Illusion": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "6",
-      "Range": "30-ft",
-      "Duration": "Permanent",
-      "Area of Effect": "40×40-ft square+10×10-ft square/level",
-      "Components": "VSM",
-      "Casting Time": "6 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "Except as noted otherwise above, this spell functions as a spectral force spell requiring no concentration to maintain."
+    "Type": "Phantasmal Illusion",
+    "Details": "Except as noted otherwise above, this spell functions as a spectral force spell requiring no concentration to maintain.",
+    "Level": "6",
+    "Range": "30-ft",
+    "Duration": "Permanent",
+    "Area of Effect": "40\u00d740-ft square+10\u00d710-ft square/level",
+    "Components": "VSM",
+    "Casting Time": "6 segments",
+    "Saving Throw": "See below"
   },
   "Phantasmal Force": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "1",
-      "Range": "60-ft+10-ft/level",
-      "Duration": "See below",
-      "Area of Effect": "40-ft×40-ft square+10-ft×10-ft square/level",
-      "Components": "VSM",
-      "Casting Time": "1 segment",
-      "Saving Throw": "See below"
-    },
-    "details": "This extremely flexible spell allows the caster to craft a visual illusion of virtually anything that can fit within the spell's area of effect. The spell creates no sound whatsoever. The caster must maintain his or her concentration upon the illusion, or it will evaporate, but while concentrating the caster is able to make the illusion move and respond to events.\n\n\n\n\nThe illusion is dispelled if it is struck with a blow, a falling person, etc. There is no saving throw against the illusion if the observer believes it, and the illusion can actually cause damage to such a deceived victim. A demon wielding a sword can attack and do damage, and the appearance of a pit full of spikes can be fatal even though it is not real. If the observer doubts the reality of the illusion, he or she will be permitted a saving throw to see the illusion for what it really is. If one observer disbelieves the illusion and this disbelief is communicated to others, the others will also gain a saving throw at a bonus of +4.\n\n\n\n\nNote that the spell relies purely on a visual effect; it will have no effect upon a creature that does not see it. Furthermore, the lack of any audible component can make certain illusions completely non-credible. An explosion, for example, is not likely to be believed by anyone if it creates no sound. Various methods may be used by the GM to determine if an NPC or monster believes the effect of a phantasmal force, common sense being the first thing to consider. A player who takes care to craft a believable illusion should be rewarded for skilful use of the spell, not forced into a table of random results."
+    "Type": "Phantasmal Illusion",
+    "Details": "This extremely flexible spell allows the caster to craft a visual illusion of virtually anything that can fit within the spell's area of effect. The spell creates no sound whatsoever. The caster must maintain his or her concentration upon the illusion, or it will evaporate, but while concentrating the caster is able to make the illusion move and respond to events.\n\n\n\n\nThe illusion is dispelled if it is struck with a blow, a falling person, etc. There is no saving throw against the illusion if the observer believes it, and the illusion can actually cause damage to such a deceived victim. A demon wielding a sword can attack and do damage, and the appearance of a pit full of spikes can be fatal even though it is not real. If the observer doubts the reality of the illusion, he or she will be permitted a saving throw to see the illusion for what it really is. If one observer disbelieves the illusion and this disbelief is communicated to others, the others will also gain a saving throw at a bonus of +4.\n\n\n\n\nNote that the spell relies purely on a visual effect; it will have no effect upon a creature that does not see it. Furthermore, the lack of any audible component can make certain illusions completely non-credible. An explosion, for example, is not likely to be believed by anyone if it creates no sound. Various methods may be used by the GM to determine if an NPC or monster believes the effect of a phantasmal force, common sense being the first thing to consider. A player who takes care to craft a believable illusion should be rewarded for skilful use of the spell, not forced into a table of random results.",
+    "Level": "1",
+    "Range": "60-ft+10-ft/level",
+    "Duration": "See below",
+    "Area of Effect": "40-ft\u00d740-ft square+10-ft\u00d710-ft square/level",
+    "Components": "VSM",
+    "Casting Time": "1 segment",
+    "Saving Throw": "See below"
   },
   "Phantasmal Killer": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "4",
-      "Range": "5-ft/level",
-      "Duration": "1 round/level",
-      "Area of Effect": "One creature",
-      "Components": "VS",
-      "Casting Time": "4 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "The caster creates a personal nightmare creature for the spell's victim, drawn from the victim's own worst fears. The creature is visible only to the victim and the caster. When the phantasmal killer takes shape, the victim is entitled to roll 3d6 and compare the result to his or her intelligence ability score. If the die roll is less than the victim's intelligence, the victim realizes that the killer is actually an illusion and cannot be harmed by it. Certain modifiers apply to this roll (note that a negative modifier increases the chance for successfully disbelieving the apparition):\n\n\n\n\n(A) -2 if the target is an illusionist;\n\n\n\n\n(B) +1 if the target is caught by surprise;\n\n\n\n\n(C) -1 if the target has previously been attacked by a phantasmal killer.\n\n\n\n\nThe wisdom bonus against mental attacks applies (subtract the bonus from the die roll instead of adding it, of course).\n\n\n\n\nProvided that the victim fails his or her saving throw, the phantasmal killer proceeds to attack as a 4 HD monster. If it hits the target, he or she will automatically die from fright. The apparition is not vulnerable to damage and cannot be escaped. It disappears at the end of the spell's duration, or at any time the caster dismisses it, or when the caster is killed or rendered unconscious."
+    "Type": "Phantasmal Illusion",
+    "Details": "The caster creates a personal nightmare creature for the spell's victim, drawn from the victim's own worst fears. The creature is visible only to the victim and the caster. When the phantasmal killer takes shape, the victim is entitled to roll 3d6 and compare the result to his or her intelligence ability score. If the die roll is less than the victim's intelligence, the victim realizes that the killer is actually an illusion and cannot be harmed by it. Certain modifiers apply to this roll (note that a negative modifier increases the chance for successfully disbelieving the apparition):\n\n\n\n\n(A) -2 if the target is an illusionist;\n\n\n\n\n(B) +1 if the target is caught by surprise;\n\n\n\n\n(C) -1 if the target has previously been attacked by a phantasmal killer.\n\n\n\n\nThe wisdom bonus against mental attacks applies (subtract the bonus from the die roll instead of adding it, of course).\n\n\n\n\nProvided that the victim fails his or her saving throw, the phantasmal killer proceeds to attack as a 4 HD monster. If it hits the target, he or she will automatically die from fright. The apparition is not vulnerable to damage and cannot be escaped. It disappears at the end of the spell's duration, or at any time the caster dismisses it, or when the caster is killed or rendered unconscious.",
+    "Level": "4",
+    "Range": "5-ft/level",
+    "Duration": "1 round/level",
+    "Area of Effect": "One creature",
+    "Components": "VS",
+    "Casting Time": "4 segments",
+    "Saving Throw": "See below"
   },
   "Prismatic Spray": {
-    "type": "Phantasmal Abjuration",
-    "table": {
-      "Level": "7",
-      "Range": "0",
-      "Duration": "Instantaneous",
-      "Area of Effect": "70-ft×15-ft×5-ft spray",
-      "Components": "VS",
-      "Casting Time": "7 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "Holding out his or her hand, fingers fanned out, the caster evokes a spray of colours identical to those of the prismatic wall. All creatures in the path of the spell will be struck by one of the rays, determined randomly.\n\n\n\n\n\n Colour  Effect of Colour \n\n\n  1 Red    Deals 20 points of damage (saving throw for half damage).  \n\n\n  2 Orange    Deals 40 points of damage (saving throw for half).  \n\n\n  3 Yellow    Deals 80 points of damage (saving throw for half).  \n\n\n  4 Green    Poison (saving throw or die).  \n\n\n  5 Blue    Turns to stone (saving throw negates).  \n\n\n  6 Indigo    Causes insanity (saving throw negates)  \n\n\n  7 Violet    Creatures sent to another plane (saving throw negates).  \n\n\n  8 Two colours    Roll twice, ignoring this result"
+    "Type": "Phantasmal Abjuration",
+    "Details": "Holding out his or her hand, fingers fanned out, the caster evokes a spray of colours identical to those of the prismatic wall. All creatures in the path of the spell will be struck by one of the rays, determined randomly.\n\n\n\n\n\n Colour  Effect of Colour \n\n\n  1 Red    Deals 20 points of damage (saving throw for half damage).  \n\n\n  2 Orange    Deals 40 points of damage (saving throw for half).  \n\n\n  3 Yellow    Deals 80 points of damage (saving throw for half).  \n\n\n  4 Green    Poison (saving throw or die).  \n\n\n  5 Blue    Turns to stone (saving throw negates).  \n\n\n  6 Indigo    Causes insanity (saving throw negates)  \n\n\n  7 Violet    Creatures sent to another plane (saving throw negates).  \n\n\n  8 Two colours    Roll twice, ignoring this result",
+    "Level": "7",
+    "Range": "0",
+    "Duration": "Instantaneous",
+    "Area of Effect": "70-ft\u00d715-ft\u00d75-ft spray",
+    "Components": "VS",
+    "Casting Time": "7 segments",
+    "Saving Throw": "See below"
   },
   "Prismatic Wall": {
-    "type": "Phantasmal Abjuration",
-    "table": {
-      "Level": "7",
-      "Range": "10-ft",
-      "Duration": "1 turn/level",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "7 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell is similar to the magic user spell prismatic sphere, but it creates a wall rather than a sphere, up to 40-ft/caster level in length and 20-ft/caster level in height."
+    "Type": "Phantasmal Abjuration",
+    "Details": "This spell is similar to the magic user spell prismatic sphere, but it creates a wall rather than a sphere, up to 40-ft/caster level in length and 20-ft/caster level in height.",
+    "Level": "7",
+    "Range": "10-ft",
+    "Duration": "1 turn/level",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "7 segments",
+    "Saving Throw": "None"
   },
   "Programmed Illusion": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "6",
-      "Range": "10-ft /level",
-      "Duration": "See below",
-      "Area of Effect": "40-ft×40-ft square+10-ft×10-ft square/level",
-      "Components": "VSM",
-      "Casting Time": "6 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell specifies a particular trigger event (in the same manner as the magic user spell magic mouth). When the trigger event occurs, an illusion prepared in advance by the caster, identical to a spectral force, comes into being. The illusion lasts 1 round/caster level."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell specifies a particular trigger event (in the same manner as the magic user spell magic mouth). When the trigger event occurs, an illusion prepared in advance by the caster, identical to a spectral force, comes into being. The illusion lasts 1 round/caster level.",
+    "Level": "6",
+    "Range": "10-ft /level",
+    "Duration": "See below",
+    "Area of Effect": "40-ft\u00d740-ft square+10-ft\u00d710-ft square/level",
+    "Components": "VSM",
+    "Casting Time": "6 segments",
+    "Saving Throw": "See below"
   },
   "Project Image": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "5",
-      "Range": "5-ft/level",
-      "Duration": "1 round/level",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Other than as may be noted above, this spell is identical to the magic user spell of the same name."
+    "Type": "Phantasmal Illusion",
+    "Details": "Other than as may be noted above, this spell is identical to the magic user spell of the same name.",
+    "Level": "5",
+    "Range": "5-ft/level",
+    "Duration": "1 round/level",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
   "Rope Trick": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "3",
-      "Range": "Touch",
-      "Duration": "2 turns/level",
-      "Area of Effect": "One piece of rope",
-      "Components": "VSM",
-      "Casting Time": "3 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell enchants a rope to become a portal into an extra-dimensional pocket of unreality opened by the spell. The rope rises in the air and then hangs, suspended by its connection to the extra-dimensional hideaway. Up to six medium-size people can hide in the space (five, if the rope is to be pulled up and into the space as well). At the spell's expiration, the inhabitants or contents of the space will fall into normal reality if they have not already departed. True reality is visible through the portal, but cannot be affected from within."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "This spell enchants a rope to become a portal into an extra-dimensional pocket of unreality opened by the spell. The rope rises in the air and then hangs, suspended by its connection to the extra-dimensional hideaway. Up to six medium-size people can hide in the space (five, if the rope is to be pulled up and into the space as well). At the spell's expiration, the inhabitants or contents of the space will fall into normal reality if they have not already departed. True reality is visible through the portal, but cannot be affected from within.",
+    "Level": "3",
+    "Range": "Touch",
+    "Duration": "2 turns/level",
+    "Area of Effect": "One piece of rope",
+    "Components": "VSM",
+    "Casting Time": "3 segments",
+    "Saving Throw": "None"
   },
   "Shades": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "6",
-      "Range": "30-ft",
-      "Duration": "1 round/level",
-      "Area of Effect": "20-ft×20-ft",
-      "Components": "VS",
-      "Casting Time": "6 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell creates partially-real, illusory monsters in the same manner as the spell shadow monsters, but shades have 60% of normal hit points rather than 20%. If they are detected as only quasi-real, they inflict 60% of normal damage and are AC 6."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell creates partially-real, illusory monsters in the same manner as the spell shadow monsters, but shades have 60% of normal hit points rather than 20%. If they are detected as only quasi-real, they inflict 60% of normal damage and are AC 6.",
+    "Level": "6",
+    "Range": "30-ft",
+    "Duration": "1 round/level",
+    "Area of Effect": "20-ft\u00d720-ft",
+    "Components": "VS",
+    "Casting Time": "6 segments",
+    "Saving Throw": "See below"
   },
   "Shadow Door": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "5",
-      "Range": "10-ft",
-      "Duration": "1 round/level",
-      "Area of Effect": "Magic door",
-      "Components": "S",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "With a mystical gesture, the illusionist creates an illusory door (either in a wall or free-standing). If the illusionist steps through, he or she disappears from sight and may go where he or she pleases. If anyone else opens the door, they will perceive a small empty room. The caster's invisibility after passing through the shadow door is particularly powerful and cannot be seen by use of detect invisibility, although he or she can be seen with more powerful divination magic."
+    "Type": "Phantasmal Illusion",
+    "Details": "With a mystical gesture, the illusionist creates an illusory door (either in a wall or free-standing). If the illusionist steps through, he or she disappears from sight and may go where he or she pleases. If anyone else opens the door, they will perceive a small empty room. The caster's invisibility after passing through the shadow door is particularly powerful and cannot be seen by use of detect invisibility, although he or she can be seen with more powerful divination magic.",
+    "Level": "5",
+    "Range": "10-ft",
+    "Duration": "1 round/level",
+    "Area of Effect": "Magic door",
+    "Components": "S",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
   "Shadow Magic": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "5",
-      "Range": "50-ft+10-ft/level",
-      "Duration": "See below",
-      "Area of Effect": "See below",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "The caster employs his or her ability to draw upon the shadow planes, adding an element of quasi-reality to an illusory spell. The “spell” may be one of a limited group: cone of cold, fireball, lightning bolt, or magic missile. The illusory spell will inflict normal damage upon creatures in the area of effect for that spell unless a saving throw is successful (note that the targets only receive a saving throw against the illusion, and do not obtain an additional saving throw for the illusory spell's effect). If the saving throw against the illusion is successful, the target will take only 1 hit point of damage per caster level."
+    "Type": "Phantasmal Illusion",
+    "Details": "The caster employs his or her ability to draw upon the shadow planes, adding an element of quasi-reality to an illusory spell. The \u201cspell\u201d may be one of a limited group: cone of cold, fireball, lightning bolt, or magic missile. The illusory spell will inflict normal damage upon creatures in the area of effect for that spell unless a saving throw is successful (note that the targets only receive a saving throw against the illusion, and do not obtain an additional saving throw for the illusory spell's effect). If the saving throw against the illusion is successful, the target will take only 1 hit point of damage per caster level.",
+    "Level": "5",
+    "Range": "50-ft+10-ft/level",
+    "Duration": "See below",
+    "Area of Effect": "See below",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "See below"
   },
   "Shadow Monsters": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "4",
-      "Range": "30-ft",
-      "Duration": "1 round/level",
-      "Area of Effect": "20-ft×20-ft",
-      "Components": "VS",
-      "Casting Time": "4 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This is the first spell an illusionist can learn that draws upon the power of shadow planes behind the material plane of existence. This sort of magic is the hallmark of the truly powerful illusionist, for by tapping the power of the shadow planes an illusionist can weave quasi-reality into his or her phantasms. At this level of power, the illusionist can begin to reshape reality by the power of his or her mind. The shadow monsters created by the spell are selected by the caster (subject to the GM's discretion). The total hit dice of the monsters cannot exceed the caster's level, and all of them must be the same kind of monster. Shadow monsters have only 20% of normal hit dice (multiply by .2 and round up). Anyone seeing a shadow monster is entitled to a saving throw to realize that the creature is only partially real. If shadow creatures attack someone who fails the saving throw, they strike and inflict damage as the type of creature they appear to be (excluding magical attacks such as breath weapons). If they attack someone who has succeeded in making a saving throw, they are treated as AC 10 and inflict only 20% (multiply by .2 and round up) of normal damage for that sort of creature."
+    "Type": "Phantasmal Illusion",
+    "Details": "This is the first spell an illusionist can learn that draws upon the power of shadow planes behind the material plane of existence. This sort of magic is the hallmark of the truly powerful illusionist, for by tapping the power of the shadow planes an illusionist can weave quasi-reality into his or her phantasms. At this level of power, the illusionist can begin to reshape reality by the power of his or her mind. The shadow monsters created by the spell are selected by the caster (subject to the GM's discretion). The total hit dice of the monsters cannot exceed the caster's level, and all of them must be the same kind of monster. Shadow monsters have only 20% of normal hit dice (multiply by .2 and round up). Anyone seeing a shadow monster is entitled to a saving throw to realize that the creature is only partially real. If shadow creatures attack someone who fails the saving throw, they strike and inflict damage as the type of creature they appear to be (excluding magical attacks such as breath weapons). If they attack someone who has succeeded in making a saving throw, they are treated as AC 10 and inflict only 20% (multiply by .2 and round up) of normal damage for that sort of creature.",
+    "Level": "4",
+    "Range": "30-ft",
+    "Duration": "1 round/level",
+    "Area of Effect": "20-ft\u00d720-ft",
+    "Components": "VS",
+    "Casting Time": "4 segments",
+    "Saving Throw": "See below"
   },
   "Spectral Force": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "3",
-      "Range": "60-ft+10-ft/level",
-      "Duration": "See below",
-      "Area of Effect": "40-ft×40-ft square+10-ft×10-ft square/level",
-      "Components": "VSM",
-      "Casting Time": "3 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell functions in the same manner as improved phantasmal force, but it is a more powerful evocation of the same magic. The illusionist can include sounds, smells, and heat (or cold) into the illusion, making it very believable. The spectral force can linger for 3 rounds after the illusionist ceases to concentrate upon it."
+    "Type": "Phantasmal Illusion",
+    "Details": "This spell functions in the same manner as improved phantasmal force, but it is a more powerful evocation of the same magic. The illusionist can include sounds, smells, and heat (or cold) into the illusion, making it very believable. The spectral force can linger for 3 rounds after the illusionist ceases to concentrate upon it.",
+    "Level": "3",
+    "Range": "60-ft+10-ft/level",
+    "Duration": "See below",
+    "Area of Effect": "40-ft\u00d740-ft square+10-ft\u00d710-ft square/level",
+    "Components": "VSM",
+    "Casting Time": "3 segments",
+    "Saving Throw": "See below"
   },
   "Suggestion": {
-    "type": "Phantasmal Enchantment/Charm",
-    "table": {
-      "Level": "3",
-      "Range": "30-ft",
-      "Duration": "4 turns+4 turns/level",
-      "Area of Effect": "One creature",
-      "Components": "VM",
-      "Casting Time": "3 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "This spell empowers the caster to suggest facts or courses of action with an almost unavoidable power of persuasion. Factual suggestions (“These are not the halflings you seek”), suggestions of a course of action (“You won't mention you saw us, I have no doubt”), or a combination of both are possible. Even a victim who has failed a saving throw against the spell will not undertake a course of action that is palpably unreasonable, but the experienced caster can easily phrase his or her requests in such a way as to avoid this problem. No creature will leap off a cliff for no reason; but the caster might need to scout the bottom of a chasm and promise to cast a feather fall spell, or hand the victim a “magical” torch that supposedly permits the power of flight. The creature to be influenced must be able to hear and understand the language spoken by the caster."
+    "Type": "Phantasmal Enchantment/Charm",
+    "Details": "This spell empowers the caster to suggest facts or courses of action with an almost unavoidable power of persuasion. Factual suggestions (\u201cThese are not the halflings you seek\u201d), suggestions of a course of action (\u201cYou won't mention you saw us, I have no doubt\u201d), or a combination of both are possible. Even a victim who has failed a saving throw against the spell will not undertake a course of action that is palpably unreasonable, but the experienced caster can easily phrase his or her requests in such a way as to avoid this problem. No creature will leap off a cliff for no reason; but the caster might need to scout the bottom of a chasm and promise to cast a feather fall spell, or hand the victim a \u201cmagical\u201d torch that supposedly permits the power of flight. The creature to be influenced must be able to hear and understand the language spoken by the caster.",
+    "Level": "3",
+    "Range": "30-ft",
+    "Duration": "4 turns+4 turns/level",
+    "Area of Effect": "One creature",
+    "Components": "VM",
+    "Casting Time": "3 segments",
+    "Saving Throw": "Negates"
   },
   "Summon Shadow": {
-    "type": "Phantasmal Conjuration/Summoning",
-    "table": {
-      "Level": "5",
-      "Range": "10-ft",
-      "Duration": "1 round+1 round/level",
-      "Area of Effect": "Summoned shadows",
-      "Components": "VSM",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell summons 1 undead shadow per caster level from the shadow planes. The shadows are under the illusionist's command and will do his or her bidding. If turned, they will return to the shadow plane whence they came."
+    "Type": "Phantasmal Conjuration/Summoning",
+    "Details": "This spell summons 1 undead shadow per caster level from the shadow planes. The shadows are under the illusionist's command and will do his or her bidding. If turned, they will return to the shadow plane whence they came.",
+    "Level": "5",
+    "Range": "10-ft",
+    "Duration": "1 round+1 round/level",
+    "Area of Effect": "Summoned shadows",
+    "Components": "VSM",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
   "True Sight": {
-    "type": "Phantasmal Divination",
-    "table": {
-      "Level": "6",
-      "Range": "Touch",
-      "Duration": "1 round/level",
-      "Area of Effect": "60-ft",
-      "Components": "VS",
-      "Casting Time": "3 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell is identical in function (other than as may be noted above) to the clerical spell true seeing, except that the illusionist cannot discern alignments, for this spell is not of a spiritual nature."
+    "Type": "Phantasmal Divination",
+    "Details": "This spell is identical in function (other than as may be noted above) to the clerical spell true seeing, except that the illusionist cannot discern alignments, for this spell is not of a spiritual nature.",
+    "Level": "6",
+    "Range": "Touch",
+    "Duration": "1 round/level",
+    "Area of Effect": "60-ft",
+    "Components": "VS",
+    "Casting Time": "3 segments",
+    "Saving Throw": "None"
   },
   "Veil": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "6",
-      "Range": "10-ft/level",
-      "Duration": "1 turn/level",
-      "Area of Effect": "20×20-ft/level",
-      "Components": "VS",
-      "Casting Time": "3 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Veil is an extremely powerful spell of the same type as hallucinatory terrain, which alters the appearance of an area and everything in it, including people and other creatures. The illusion will fool even the sense of touch."
+    "Type": "Phantasmal Illusion",
+    "Details": "Veil is an extremely powerful spell of the same type as hallucinatory terrain, which alters the appearance of an area and everything in it, including people and other creatures. The illusion will fool even the sense of touch.",
+    "Level": "6",
+    "Range": "10-ft/level",
+    "Duration": "1 turn/level",
+    "Area of Effect": "20\u00d720-ft/level",
+    "Components": "VS",
+    "Casting Time": "3 segments",
+    "Saving Throw": "None"
   },
   "Ventriloquism": {
-    "type": "Phantasmal Illusion",
-    "table": {
-      "Level": "2",
-      "Range": "10-ft/level, to a maximum of 90-ft",
-      "Duration": "4 rounds+1 round/level",
-      "Area of Effect": "One object",
-      "Components": "VM",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "The caster makes his or her voice (or any sound he or she can vocalize) seem to issue from someplace else, such as from another creature, a statue, from behind a door, down a passage, etc. For each point of intelligence of the listener over 12, there is a cumulative 10% chance to correctly perceive the source of the sound."
+    "Type": "Phantasmal Illusion",
+    "Details": "The caster makes his or her voice (or any sound he or she can vocalize) seem to issue from someplace else, such as from another creature, a statue, from behind a door, down a passage, etc. For each point of intelligence of the listener over 12, there is a cumulative 10% chance to correctly perceive the source of the sound.",
+    "Level": "2",
+    "Range": "10-ft/level, to a maximum of 90-ft",
+    "Duration": "4 rounds+1 round/level",
+    "Area of Effect": "One object",
+    "Components": "VM",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
   "Vision": {
-    "type": "Phantasmal Divination",
-    "table": {
-      "Level": "7",
-      "Range": "Caster",
-      "Duration": "See below",
-      "Area of Effect": "Caster",
-      "Components": "VSM",
-      "Casting Time": "7 segments",
-      "Saving Throw": "None"
-    },
-    "details": "By means of this spell, the illusionist gazes beyond reality itself, seeking patterns that will give him or her the answer to a question. 3d6 are rolled, and if the result is 10 or higher, he or she gains significant insights about the answer to the question. Gazing into the patterns beyond reality is a risky proposition, however; if the result of the die roll is from 2-6, the illusionist becomes obsessed with performing a task, and is treated as being under a geas spell until the random task is completed. If the roll is from 7-9 there is no result at all from the divination; the illusionist discerns no useful patterns, and suffers no ill effects from the attempt."
+    "Type": "Phantasmal Divination",
+    "Details": "By means of this spell, the illusionist gazes beyond reality itself, seeking patterns that will give him or her the answer to a question. 3d6 are rolled, and if the result is 10 or higher, he or she gains significant insights about the answer to the question. Gazing into the patterns beyond reality is a risky proposition, however; if the result of the die roll is from 2-6, the illusionist becomes obsessed with performing a task, and is treated as being under a geas spell until the random task is completed. If the roll is from 7-9 there is no result at all from the divination; the illusionist discerns no useful patterns, and suffers no ill effects from the attempt.",
+    "Level": "7",
+    "Range": "Caster",
+    "Duration": "See below",
+    "Area of Effect": "Caster",
+    "Components": "VSM",
+    "Casting Time": "7 segments",
+    "Saving Throw": "None"
   },
   "Wall of Fog": {
-    "type": "Phantasmal Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "30-ft",
-      "Duration": "2d4 rounds+1round/level",
-      "Area of Effect": "20-ft/level cube",
-      "Components": "VSM",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "The illusionist creates a curtain of obscuring fog in the area of effect. Vision of all kinds is reduced to 2-ft through the swirling vapour. The fog can be affected by normal or magical wind and breezes."
+    "Type": "Phantasmal Transmutation/Alteration",
+    "Details": "The illusionist creates a curtain of obscuring fog in the area of effect. Vision of all kinds is reduced to 2-ft through the swirling vapour. The fog can be affected by normal or magical wind and breezes.",
+    "Level": "1",
+    "Range": "30-ft",
+    "Duration": "2d4 rounds+1round/level",
+    "Area of Effect": "20-ft/level cube",
+    "Components": "VSM",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   }
 }

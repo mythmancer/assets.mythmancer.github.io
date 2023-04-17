@@ -1,990 +1,838 @@
 {
   "Aerial Servant": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "6",
-      "Range": "10-ft",
-      "Duration": "1 day/caster level",
-      "Area of Effect": "See below",
-      "Components": "VS",
-      "Casting Time": "9 segments",
-      "Saving Throw": "None"
-    },
-    "details": "By casting this spell, the cleric summons an aerial servant to do his or her bidding. The aerial servant will not fight, but will find and bring to the caster whatever creature or object the caster describes (provided the task is within the aerial servant's capacity to complete). The aerial servant will return to its native plane of existence at the end of the spell's duration, and earlier if the cleric who summoned it is slain, if the cleric releases the creature from its bondage, or if the servant is banished. When summoning an aerial servant, the cleric must be protected by a protection from evil spell or a holy symbol, or must stand within a magic circle. If the summoner does not take these precautions, the aerial servant will not be subject to any sort of control and will immediately attack the one who called it forth.\n\n\n\n\nWhen fetching forth a living subject, the aerial servant always gains the benefit of surprise on its first attack for 4 surprise segments (unless it is detected). When the aerial servant scores a hit, it has successfully grabbed hold of its target and may bring it back to the cleric if the aerial servant is stronger than its victim. To determine the result of this test of strength, both the aerial servant and its victim roll their hit dice (using the proper die type), and the higher number wins."
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "By casting this spell, the cleric summons an aerial servant to do his or her bidding. The aerial servant will not fight, but will find and bring to the caster whatever creature or object the caster describes (provided the task is within the aerial servant's capacity to complete). The aerial servant will return to its native plane of existence at the end of the spell's duration, and earlier if the cleric who summoned it is slain, if the cleric releases the creature from its bondage, or if the servant is banished. When summoning an aerial servant, the cleric must be protected by a protection from evil spell or a holy symbol, or must stand within a magic circle. If the summoner does not take these precautions, the aerial servant will not be subject to any sort of control and will immediately attack the one who called it forth.\n\n\n\n\nWhen fetching forth a living subject, the aerial servant always gains the benefit of surprise on its first attack for 4 surprise segments (unless it is detected). When the aerial servant scores a hit, it has successfully grabbed hold of its target and may bring it back to the cleric if the aerial servant is stronger than its victim. To determine the result of this test of strength, both the aerial servant and its victim roll their hit dice (using the proper die type), and the higher number wins.",
+    "Level": "6",
+    "Range": "10-ft",
+    "Duration": "1 day/caster level",
+    "Area of Effect": "See below",
+    "Components": "VS",
+    "Casting Time": "9 segments",
+    "Saving Throw": "None"
   },
   "Animate Dead": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "3",
-      "Range": "10-ft",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "By casting this spell, the cleric calls the bones or bodies of dead humans or humanoids to rise and become lesser undead (skeletons or zombies). The undead will obey their creator's simple commands, following him or her, or perhaps guarding a location he or she designates against any creature (or not guarding it against certain creatures) that might enter. The spell's effects are permanent, but can be dispelled by the use of dispel magic. Use of this spell is inherently not in accordance with the good alignments and is seldom used by good clerics unless there is pressing need. Moreover, casting the spell in the confines of a city may subject the caster to inquiry by secular and religious authorities alike. A cleric may animate one zombie or skeleton per caster level."
+    "Type": "Clerical Necromancy",
+    "Details": "By casting this spell, the cleric calls the bones or bodies of dead humans or humanoids to rise and become lesser undead (skeletons or zombies). The undead will obey their creator's simple commands, following him or her, or perhaps guarding a location he or she designates against any creature (or not guarding it against certain creatures) that might enter. The spell's effects are permanent, but can be dispelled by the use of dispel magic. Use of this spell is inherently not in accordance with the good alignments and is seldom used by good clerics unless there is pressing need. Moreover, casting the spell in the confines of a city may subject the caster to inquiry by secular and religious authorities alike. A cleric may animate one zombie or skeleton per caster level.",
+    "Level": "3",
+    "Range": "10-ft",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
   "Animate Object": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "6",
-      "Range": "30-ft",
-      "Duration": "1 round/caster level",
-      "Area of Effect": "1 cubic-ft/caster level",
-      "Components": "VS",
-      "Casting Time": "9 segments",
-      "Saving Throw": "None"
-    },
-    "details": "By means of this spell, the cleric “brings to life” an inanimate object, allowing it to move and follow the cleric's simple commands. The GM will determine an object's speed and combat specifics. An object's mode of locomotion will determine its speed: rocking (a pedestal or bookshelf) at 10-ft/round, slithering (rope, carpet) at 10-30-ft per round, walking (statue, table) at 40-ft to 80-ft/round, scampering (footstool) at 120-ft/round. The object's mode of attack (binding, striking, falling upon) and damage must be adjudicated by the GM's common sense, although as a guideline, an item of approximately human weight will be able to strike for 2d4 hit points of damage."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "By means of this spell, the cleric \u201cbrings to life\u201d an inanimate object, allowing it to move and follow the cleric's simple commands. The GM will determine an object's speed and combat specifics. An object's mode of locomotion will determine its speed: rocking (a pedestal or bookshelf) at 10-ft/round, slithering (rope, carpet) at 10-30-ft per round, walking (statue, table) at 40-ft to 80-ft/round, scampering (footstool) at 120-ft/round. The object's mode of attack (binding, striking, falling upon) and damage must be adjudicated by the GM's common sense, although as a guideline, an item of approximately human weight will be able to strike for 2d4 hit points of damage.",
+    "Level": "6",
+    "Range": "30-ft",
+    "Duration": "1 round/caster level",
+    "Area of Effect": "1 cubic-ft/caster level",
+    "Components": "VS",
+    "Casting Time": "9 segments",
+    "Saving Throw": "None"
   },
   "Astral Spell": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "7",
-      "Range": "Touch",
-      "Duration": "See below",
-      "Area of Effect": "See below",
-      "Components": "VS",
-      "Casting Time": "3 turns",
-      "Saving Throw": "None"
-    },
-    "details": "Casting an astral spell allows the cleric and up to five companions to leave their material bodies and travel through the astral plane to other planes of existence. As the spell is cast, the character's material body enters a trance-like state of suspended animation while his or her consciousness enters the astral plane. The astral plane is a nexus with other planes of existence beyond, and the cleric may choose to enter these other planes of existence. If a character does transcend from the astral into another plane, he or she becomes a physical manifestation in that existence, forming a duplicate body identical to the one left in stasis back in the material plane. It is possible to travel astrally to other locations in the material plane, but a new body cannot be formed in a plane where the character already has a physical manifestation. While travelling in the astral plane, and after a new physical manifestation has formed on a plane beyond the astral, the character remains connected to his or her original body by a “silver cord,” an invisible, mystical link. If the silver cord is broken or severed (some threats in the astral plane can cause this to happen), the character dies, both on the material plane and in astral form.\n\n\n\n\nMost magic items lose some or all of their power on the astral plane. Unless an item's magical qualities are imbued so deeply as to exist in many planes, an astral traveller's physical manifestation on another plane will be equipped with only the unenchanted substance of otherwise magic items and weapons."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "Casting an astral spell allows the cleric and up to five companions to leave their material bodies and travel through the astral plane to other planes of existence. As the spell is cast, the character's material body enters a trance-like state of suspended animation while his or her consciousness enters the astral plane. The astral plane is a nexus with other planes of existence beyond, and the cleric may choose to enter these other planes of existence. If a character does transcend from the astral into another plane, he or she becomes a physical manifestation in that existence, forming a duplicate body identical to the one left in stasis back in the material plane. It is possible to travel astrally to other locations in the material plane, but a new body cannot be formed in a plane where the character already has a physical manifestation. While travelling in the astral plane, and after a new physical manifestation has formed on a plane beyond the astral, the character remains connected to his or her original body by a \u201csilver cord,\u201d an invisible, mystical link. If the silver cord is broken or severed (some threats in the astral plane can cause this to happen), the character dies, both on the material plane and in astral form.\n\n\n\n\nMost magic items lose some or all of their power on the astral plane. Unless an item's magical qualities are imbued so deeply as to exist in many planes, an astral traveller's physical manifestation on another plane will be equipped with only the unenchanted substance of otherwise magic items and weapons.",
+    "Level": "7",
+    "Range": "Touch",
+    "Duration": "See below",
+    "Area of Effect": "See below",
+    "Components": "VS",
+    "Casting Time": "3 turns",
+    "Saving Throw": "None"
   },
   "Atonement": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "5",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "1 person",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "The atonement spell is a form of spiritual cleansing, removing the stain of actions contrary to a character's moral alignment, but only for actions that the penitent took unwillingly or unwittingly. The penitent must be truly repentant of the deed, unless he or she is affected in such a way that would preclude repentance (such as in the case of someone whose alignment has been magically altered, or who is unconscious, charmed, or insane). In addition to removing the effects and supernatural consequences of evil actions, this spell may be used to negate, undo, or dispel a magical alignment change. Intentional misdeeds cannot be cleansed away by this spell. A cleric can, of course, use this spell to perform atonements for unintentional acts of goodness as well as evil, or for violations of neutral alignment. However, unless the GM rules otherwise based on circumstances, a cleric who is not true neutral cannot perform atonements for an alignment that the cleric does not, in some part, share."
+    "Type": "Clerical Abjuration",
+    "Details": "The atonement spell is a form of spiritual cleansing, removing the stain of actions contrary to a character's moral alignment, but only for actions that the penitent took unwillingly or unwittingly. The penitent must be truly repentant of the deed, unless he or she is affected in such a way that would preclude repentance (such as in the case of someone whose alignment has been magically altered, or who is unconscious, charmed, or insane). In addition to removing the effects and supernatural consequences of evil actions, this spell may be used to negate, undo, or dispel a magical alignment change. Intentional misdeeds cannot be cleansed away by this spell. A cleric can, of course, use this spell to perform atonements for unintentional acts of goodness as well as evil, or for violations of neutral alignment. However, unless the GM rules otherwise based on circumstances, a cleric who is not true neutral cannot perform atonements for an alignment that the cleric does not, in some part, share.",
+    "Level": "5",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "1 person",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Augury": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "2",
-      "Range": "Caster",
-      "Duration": "Instantaneous",
-      "Area of Effect": "Caster",
-      "Components": "VSM",
-      "Casting Time": "2 rounds",
-      "Saving Throw": "None"
-    },
-    "details": "Casting an augury allows the cleric to discern minor omens, indications of what might be in the future. The spell requires a focal point that will allow the omens to manifest–a set of sticks made from dragon's bone or gold is the most common focus for the spell. It is possible to derive omens from tea leaves, but a pearl worth 100 gp must be crushed into the infusion. The divination power of an augury is not strong; it will only gather omens from the pattern of the next 3 turns (30 minutes), and can only indicate whether a future action will result in weal or woe to the party. The base chance for correctly interpreting the omens is 70% plus an additional 1% per level of the caster."
+    "Type": "Clerical Divination",
+    "Details": "Casting an augury allows the cleric to discern minor omens, indications of what might be in the future. The spell requires a focal point that will allow the omens to manifest\u2013a set of sticks made from dragon's bone or gold is the most common focus for the spell. It is possible to derive omens from tea leaves, but a pearl worth 100 gp must be crushed into the infusion. The divination power of an augury is not strong; it will only gather omens from the pattern of the next 3 turns (30 minutes), and can only indicate whether a future action will result in weal or woe to the party. The base chance for correctly interpreting the omens is 70% plus an additional 1% per level of the caster.",
+    "Level": "2",
+    "Range": "Caster",
+    "Duration": "Instantaneous",
+    "Area of Effect": "Caster",
+    "Components": "VSM",
+    "Casting Time": "2 rounds",
+    "Saving Throw": "None"
   },
   "Blade Barrier": {
-    "type": "Clerical Evocation",
-    "table": {
-      "Level": "6",
-      "Range": "30-ft",
-      "Duration": "3 rounds/caster level",
-      "Area of Effect": "Circular path 2-10-ft in radius",
-      "Components": "VS",
-      "Casting Time": "9 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This enchantment brings into being a whirling wall of steel blades that circle around a fixed point with blinding speed. Any creature stepping through the circle will suffer 8d8 points of damage. The cleric sets the focal point and the radius of the barrier at the time of casting, and these parameters cannot be changed thereafter (short of dismissing the spell entirely, of course)."
+    "Type": "Clerical Evocation",
+    "Details": "This enchantment brings into being a whirling wall of steel blades that circle around a fixed point with blinding speed. Any creature stepping through the circle will suffer 8d8 points of damage. The cleric sets the focal point and the radius of the barrier at the time of casting, and these parameters cannot be changed thereafter (short of dismissing the spell entirely, of course).",
+    "Level": "6",
+    "Range": "30-ft",
+    "Duration": "3 rounds/caster level",
+    "Area of Effect": "Circular path 2-10-ft in radius",
+    "Components": "VS",
+    "Casting Time": "9 segments",
+    "Saving Throw": "None"
   },
-  "Bless (Reversible)": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "1",
-      "Range": "60-ft",
-      "Duration": "6 rounds",
-      "Area of Effect": "50×50-ft",
-      "Components": "VSM",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "This minor benison raises the morale and attack rolls of any creatures allied with the casting cleric by +1 or +5% as appropriate. Any creatures already engaged in melee combat will not gain the spell's benefits. The spell is reversible, allowing the cleric to curse his or her enemies with -5% morale and -1 to hit.\n\n\n\n\nThe spell's area of effect is a circular area centred at the target point, which cannot be more than 60-ft from the cleric. Holy water is required to cast the spell (unholy water for the reverse)."
+  "Bless*": {
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "This minor benison raises the morale and attack rolls of any creatures allied with the casting cleric by +1 or +5% as appropriate. Any creatures already engaged in melee combat will not gain the spell's benefits. The spell is reversible, allowing the cleric to curse his or her enemies with -5% morale and -1 to hit.\n\n\n\n\nThe spell's area of effect is a circular area centred at the target point, which cannot be more than 60-ft from the cleric. Holy water is required to cast the spell (unholy water for the reverse).",
+    "Level": "1",
+    "Range": "60-ft",
+    "Duration": "6 rounds",
+    "Area of Effect": "50\u00d750-ft",
+    "Components": "VSM",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
   "Chant": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "2",
-      "Range": "0",
-      "Duration": "Indefinite (duration of chant)",
-      "Area of Effect": "30-ft radius centred on caster",
-      "Components": "VS",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "Once the spell is cast, the cleric must maintain a sonorous chanting of holy words and prayers, which not only lend divine favour to the cleric and his or her allies but also bring disfavour to their foes. For so long as the cleric remains stationary and continues to chant, his or her allies (within the area of effect) gain a bonus of +1 to all attack rolls, damage rolls, and saving throws. Enemies within the spell's area of effect also suffer a -1 to all such die rolls. If the cleric sustains damage, is grappled, or is in some way silenced, the effect of the spell will end."
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "Once the spell is cast, the cleric must maintain a sonorous chanting of holy words and prayers, which not only lend divine favour to the cleric and his or her allies but also bring disfavour to their foes. For so long as the cleric remains stationary and continues to chant, his or her allies (within the area of effect) gain a bonus of +1 to all attack rolls, damage rolls, and saving throws. Enemies within the spell's area of effect also suffer a -1 to all such die rolls. If the cleric sustains damage, is grappled, or is in some way silenced, the effect of the spell will end.",
+    "Level": "2",
+    "Range": "0",
+    "Duration": "Indefinite (duration of chant)",
+    "Area of Effect": "30-ft radius centred on caster",
+    "Components": "VS",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Command": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "1",
-      "Range": "10-ft",
-      "Duration": "1 round",
-      "Area of Effect": "1 living creature",
-      "Components": "V",
-      "Casting Time": "1 segment",
-      "Saving Throw": "See below"
-    },
-    "details": "By speaking a single word of command with the force of divine power behind it, the cleric may force a creature to obey an order. The creature must be able to hear the cleric and understand the language in which he or she utters the command. The command may be only one word, must be a verb, and must be completely unambiguous. “Halt,” “flee” and “sleep” are typical commands, but many others are possible. The effects may not extend beyond a single round, and the command “die” has the same effect as the command to “sleep.”\n\n\n\n\nCreatures with intelligence of 13+ and/or hit dice of 6+ gain a saving throw against the spell's influence."
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "By speaking a single word of command with the force of divine power behind it, the cleric may force a creature to obey an order. The creature must be able to hear the cleric and understand the language in which he or she utters the command. The command may be only one word, must be a verb, and must be completely unambiguous. \u201cHalt,\u201d \u201cflee\u201d and \u201csleep\u201d are typical commands, but many others are possible. The effects may not extend beyond a single round, and the command \u201cdie\u201d has the same effect as the command to \u201csleep.\u201d\n\n\n\n\nCreatures with intelligence of 13+ and/or hit dice of 6+ gain a saving throw against the spell's influence.",
+    "Level": "1",
+    "Range": "10-ft",
+    "Duration": "1 round",
+    "Area of Effect": "1 living creature",
+    "Components": "V",
+    "Casting Time": "1 segment",
+    "Saving Throw": "See below"
   },
   "Commune": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "5",
-      "Range": "Caster",
-      "Duration": "3 rounds (limited number of questions)",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "The commune spell establishes a mystical link between the cleric and his or her deity, permitting the cleric to ask one yes or no question per caster level. This extraordinarily powerful divination spell does not involve any chance of the cleric's misinterpretation of omens, for the spiritual communion with the deity is direct and not conveyed through symbols or portents. It is likely that a cleric who resorts to this spell too frequently, or for matters not worthy of the god's attention, may fall from divine favour enough that he or she loses the ability to cast the spell, at least for a time."
+    "Type": "Clerical Divination",
+    "Details": "The commune spell establishes a mystical link between the cleric and his or her deity, permitting the cleric to ask one yes or no question per caster level. This extraordinarily powerful divination spell does not involve any chance of the cleric's misinterpretation of omens, for the spiritual communion with the deity is direct and not conveyed through symbols or portents. It is likely that a cleric who resorts to this spell too frequently, or for matters not worthy of the god's attention, may fall from divine favour enough that he or she loses the ability to cast the spell, at least for a time.",
+    "Level": "5",
+    "Range": "Caster",
+    "Duration": "3 rounds (limited number of questions)",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Conjure Animals": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "6",
-      "Range": "30-ft",
-      "Duration": "2 rounds/caster level",
-      "Area of Effect": "Conjured creatures",
-      "Components": "VS",
-      "Casting Time": "9 segments",
-      "Saving Throw": "None"
-    },
-    "details": "A cleric may use this spell to conjure animal allies from thin air and order them into combat. The total hit dice of summoned animals cannot exceed the cleric's level, and the animals must all be of the same type. This spell will only summon mammals, although giant or prehistoric forms of normal mammals may be conjured if these are present within a few miles of the caster. The GM determines the specific type of animal that appears."
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "A cleric may use this spell to conjure animal allies from thin air and order them into combat. The total hit dice of summoned animals cannot exceed the cleric's level, and the animals must all be of the same type. This spell will only summon mammals, although giant or prehistoric forms of normal mammals may be conjured if these are present within a few miles of the caster. The GM determines the specific type of animal that appears.",
+    "Level": "6",
+    "Range": "30-ft",
+    "Duration": "2 rounds/caster level",
+    "Area of Effect": "Conjured creatures",
+    "Components": "VS",
+    "Casting Time": "9 segments",
+    "Saving Throw": "None"
   },
-  "Continual Light (Reversible)": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "3",
-      "Range": "120-ft",
-      "Duration": "Permanent",
-      "Area of Effect": "60-ft radius globe",
-      "Components": "VS",
-      "Casting Time": "6 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell brings into being a bright, magical illumination almost sufficient to rival the light of day. In some respects the spell is identical to the first level cleric spell light, but its effects are permanent until dispelled. The light cast is greater than that produced by a light spell, extending 60-ft into the darkness. The reverse of the spell, continual darkness, produces an ink-like darkness in the same 60-ft area and negates the illumination of a continual light spell if one is present.\n\n\n\n\nBy casting the spell upon an enemy's eyes or other organs of sight, the caster may blind the spell's subject, causing the same penalties as if the creature were blinded by a light spell. In this instance, a saving throw is permitted, and if it is successful the spell's effect will centre upon the area immediately behind the targeted creature."
+  "Continual Light*": {
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "This spell brings into being a bright, magical illumination almost sufficient to rival the light of day. In some respects the spell is identical to the first level cleric spell light, but its effects are permanent until dispelled. The light cast is greater than that produced by a light spell, extending 60-ft into the darkness. The reverse of the spell, continual darkness, produces an ink-like darkness in the same 60-ft area and negates the illumination of a continual light spell if one is present.\n\n\n\n\nBy casting the spell upon an enemy's eyes or other organs of sight, the caster may blind the spell's subject, causing the same penalties as if the creature were blinded by a light spell. In this instance, a saving throw is permitted, and if it is successful the spell's effect will centre upon the area immediately behind the targeted creature.",
+    "Level": "3",
+    "Range": "120-ft",
+    "Duration": "Permanent",
+    "Area of Effect": "60-ft radius globe",
+    "Components": "VS",
+    "Casting Time": "6 segments",
+    "Saving Throw": "See below"
   },
   "Control Weather": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "7",
-      "Range": "0",
-      "Duration": "4d12 hours",
-      "Area of Effect": "4d4 square miles",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "The control weather spell brings about a rapid change in the weather for several square miles surrounding the point where the spell is cast. It requires no more than 10-40 minutes for the spell to take its full effect across the vast area it covers. The spell affects precipitation, temperature, and wind speed. Existing weather conditions cannot be utterly changed by the force of this spell; a clear day cannot be made cloudy, for instance, but it can be made partly cloudy. Hot weather can be made merely warm, and only a light breeze can be raised from calm weather.\n\n\n\n\nThis spell may be cast successively to bring about a dramatic change, moving, for example, from a calm to a light breeze, from the breeze to a strong wind, and on the third casting to transform the strong wind into a gale."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "The control weather spell brings about a rapid change in the weather for several square miles surrounding the point where the spell is cast. It requires no more than 10-40 minutes for the spell to take its full effect across the vast area it covers. The spell affects precipitation, temperature, and wind speed. Existing weather conditions cannot be utterly changed by the force of this spell; a clear day cannot be made cloudy, for instance, but it can be made partly cloudy. Hot weather can be made merely warm, and only a light breeze can be raised from calm weather.\n\n\n\n\nThis spell may be cast successively to bring about a dramatic change, moving, for example, from a calm to a light breeze, from the breeze to a strong wind, and on the third casting to transform the strong wind into a gale.",
+    "Level": "7",
+    "Range": "0",
+    "Duration": "4d12 hours",
+    "Area of Effect": "4d4 square miles",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Create Food and Water": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "3",
-      "Range": "10-ft",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "A day's ration per caster level",
-      "Components": "VS",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "Upon completion of the ritual words of this spell, food and/ or water will appear from thin air. A caster of fifth level can conjure up enough food and water to sustain a person or even a horse for five full days. The volume of food and water produced by the spell is approximately one cubic-ft per level of the caster."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "Upon completion of the ritual words of this spell, food and/ or water will appear from thin air. A caster of fifth level can conjure up enough food and water to sustain a person or even a horse for five full days. The volume of food and water produced by the spell is approximately one cubic-ft per level of the caster.",
+    "Level": "3",
+    "Range": "10-ft",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "A day's ration per caster level",
+    "Components": "VS",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
-  "Create Water (Reversible)": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "10-ft",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "Up to 30 cubic-ft",
-      "Components": "VSM",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "This spell creates potable water, four gallons per level of the caster. The water may be created in a receptacle or in thin air (whence it will, of course, fall). Water cannot be created inside a creature, nor can it be created in any place the caster cannot see. The reverse of the spell destroys water (including fog, steam, mist, etc.) in the same quantities as create water."
+  "Create Water*": {
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "This spell creates potable water, four gallons per level of the caster. The water may be created in a receptacle or in thin air (whence it will, of course, fall). Water cannot be created inside a creature, nor can it be created in any place the caster cannot see. The reverse of the spell destroys water (including fog, steam, mist, etc.) in the same quantities as create water.",
+    "Level": "1",
+    "Range": "10-ft",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "Up to 30 cubic-ft",
+    "Components": "VSM",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
-  "Cure Blindness (Reversible)": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "3",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "Creature touched",
-      "Components": "VS",
-      "Casting Time": "1 round",
-      "Saving Throw": "None (Neg.)"
-    },
-    "details": "This powerful spell allows the cleric permanently to remove virtually all forms of blindness. The reverse of the spell permits a saving throw, and the cleric must successfully touch the spell's intended target to inflict blindness (permanent duration)."
+  "Cure Blindness*": {
+    "Type": "Clerical Abjuration",
+    "Details": "This powerful spell allows the cleric permanently to remove virtually all forms of blindness. The reverse of the spell permits a saving throw, and the cleric must successfully touch the spell's intended target to inflict blindness (permanent duration).",
+    "Level": "3",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "Creature touched",
+    "Components": "VS",
+    "Casting Time": "1 round",
+    "Saving Throw": "None (Neg.)"
   },
-  "Cure Critical Wounds (Reversible)": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "5",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "Creature touched",
-      "Components": "VS",
-      "Casting Time": "8 segments",
-      "Saving Throw": "None (Neg.)"
-    },
-    "details": "This powerful spell is similar in nature to cure light wounds, operating in the same fashion but healing 3d8+3 hit points of damage. The reverse of the spell functions as cause critical wounds, but delivers 3d8+3 points of damage."
+  "Cure Critical Wounds*": {
+    "Type": "Clerical Necromancy",
+    "Details": "This powerful spell is similar in nature to cure light wounds, operating in the same fashion but healing 3d8+3 hit points of damage. The reverse of the spell functions as cause critical wounds, but delivers 3d8+3 points of damage.",
+    "Level": "5",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "Creature touched",
+    "Components": "VS",
+    "Casting Time": "8 segments",
+    "Saving Throw": "None (Neg.)"
   },
-  "Cure Disease (Reversible)": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "3",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "Creature touched",
-      "Components": "VS",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None (Neg.)"
-    },
-    "details": "By means of this spell, the cleric may cure most diseases by laying hands upon the afflicted creature. Depending upon the nature of the disease, full recovery may require as little time as a single turn, or as long as a week. The spell's reverse, cause disease, requires that the cleric successfully touch the intended victim, who is permitted a saving throw against the spell's insidious effects. If the saving throw is failed, the effects of the disease will manifest within 1d6 turns, inflicting 1 hit point of damage per turn thereafter and one point of lost strength per hour (6 turns) until the victim is reduced to 10% of his or her original hit points and strength. Until the disease is cured or runs its course, the afflicted person will not be able to naturally recover either strength or hit points over and above 10%. The disease runs its course in 1d6 days."
+  "Cure Disease*": {
+    "Type": "Clerical Abjuration",
+    "Details": "By means of this spell, the cleric may cure most diseases by laying hands upon the afflicted creature. Depending upon the nature of the disease, full recovery may require as little time as a single turn, or as long as a week. The spell's reverse, cause disease, requires that the cleric successfully touch the intended victim, who is permitted a saving throw against the spell's insidious effects. If the saving throw is failed, the effects of the disease will manifest within 1d6 turns, inflicting 1 hit point of damage per turn thereafter and one point of lost strength per hour (6 turns) until the victim is reduced to 10% of his or her original hit points and strength. Until the disease is cured or runs its course, the afflicted person will not be able to naturally recover either strength or hit points over and above 10%. The disease runs its course in 1d6 days.",
+    "Level": "3",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "Creature touched",
+    "Components": "VS",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None (Neg.)"
   },
-  "Cure Light Wounds (Reversible)": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "1",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "Creature touched",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None (Neg.)"
-    },
-    "details": "Cure light wounds allows the cleric to lay hands upon a wounded creature, restoring 1d8 hit points to the spell's beneficiary. The reverse of the spell operates in the same manner (although requiring a “to hit” roll), but inflicts 1d8 hit points rather than healing. If the cleric fails to hit while casting cause light wounds, the spell is lost. This spell does not heal disease, reattach limbs, or bring back the dead, nor can it add hit points beyond a character's normal number. Non-corporeal creatures are not affected by this spell, nor are undead, nor are creatures that are harmed only by iron, silver, or magical weapons."
+  "Cure Light Wounds*": {
+    "Type": "Clerical Necromancy",
+    "Details": "Cure light wounds allows the cleric to lay hands upon a wounded creature, restoring 1d8 hit points to the spell's beneficiary. The reverse of the spell operates in the same manner (although requiring a \u201cto hit\u201d roll), but inflicts 1d8 hit points rather than healing. If the cleric fails to hit while casting cause light wounds, the spell is lost. This spell does not heal disease, reattach limbs, or bring back the dead, nor can it add hit points beyond a character's normal number. Non-corporeal creatures are not affected by this spell, nor are undead, nor are creatures that are harmed only by iron, silver, or magical weapons.",
+    "Level": "1",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "Creature touched",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None (Neg.)"
   },
-  "Cure Serious Wounds (Reversible)": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "4",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "One creature",
-      "Components": "VS",
-      "Casting Time": "7 segments",
-      "Saving Throw": "None (Neg.)"
-    },
-    "details": "A benison similar to cure light wounds, cure serious wounds permits the cleric to lay on hands for 2d8+1 hit points of healing. The spell's limits are otherwise similar to those of cure light wounds. The reverse of the spell causes damage rather than healing, requiring that the cleric successfully touch the target."
+  "Cure Serious Wounds*": {
+    "Type": "Clerical Necromancy",
+    "Details": "A benison similar to cure light wounds, cure serious wounds permits the cleric to lay on hands for 2d8+1 hit points of healing. The spell's limits are otherwise similar to those of cure light wounds. The reverse of the spell causes damage rather than healing, requiring that the cleric successfully touch the target.",
+    "Level": "4",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "One creature",
+    "Components": "VS",
+    "Casting Time": "7 segments",
+    "Saving Throw": "None (Neg.)"
   },
-  "Detect Charm (Reversible)": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "2",
-      "Range": "30-ft",
-      "Duration": "1 turn",
-      "Area of Effect": "See below",
-      "Components": "VS",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "This spell reveals to the cleric whether a creature is subject to a charm spell. The spell's magic can discern a charm (or lack thereof) on up to ten creatures. The reverse of the spell conceals the existence of a charm, but affects only one creature."
+  "Detect Charm*": {
+    "Type": "Clerical Divination",
+    "Details": "This spell reveals to the cleric whether a creature is subject to a charm spell. The spell's magic can discern a charm (or lack thereof) on up to ten creatures. The reverse of the spell conceals the existence of a charm, but affects only one creature.",
+    "Level": "2",
+    "Range": "30-ft",
+    "Duration": "1 turn",
+    "Area of Effect": "See below",
+    "Components": "VS",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
-  "Detect Evil (Reversible)": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "1",
-      "Range": "Caster",
-      "Duration": "1 turn+5 rounds/level",
-      "Area of Effect": "Path 10-ft wide, 120-ft long",
-      "Components": "VSM",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "This spell allows the cleric to discern emanations of evil (or good, in the case of the spell's reverse) within the spell's area of effect, a beam-like pathway. The spell detects evil, not danger, so it will be useless to discover such things as a mindless trap or a poisoned wineglass. Neither will it detect a cursed item unless the nature of the curse is such that the cursed item becomes inherently evil."
+  "Detect Evil*": {
+    "Type": "Clerical Divination",
+    "Details": "This spell allows the cleric to discern emanations of evil (or good, in the case of the spell's reverse) within the spell's area of effect, a beam-like pathway. The spell detects evil, not danger, so it will be useless to discover such things as a mindless trap or a poisoned wineglass. Neither will it detect a cursed item unless the nature of the curse is such that the cursed item becomes inherently evil.",
+    "Level": "1",
+    "Range": "Caster",
+    "Duration": "1 turn+5 rounds/level",
+    "Area of Effect": "Path 10-ft wide, 120-ft long",
+    "Components": "VSM",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
-  "Detect Lie (Reversible)": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "4",
-      "Range": "30-ft",
-      "Duration": "1 round/caster level",
-      "Area of Effect": "One person",
-      "Components": "VSM",
-      "Casting Time": "7 segments",
-      "Saving Throw": "None"
-    },
-    "details": "The subject of this spell (not necessarily the caster) gains the ability to discern whether the truth is being told, for the duration of the spell. The reverse of the spell allows the spell recipient's most brazen falsehoods to seem logical and believable. The spell's reverse may also be used to ward against the effects of a detect lie spell."
+  "Detect Lie*": {
+    "Type": "Clerical Divination",
+    "Details": "The subject of this spell (not necessarily the caster) gains the ability to discern whether the truth is being told, for the duration of the spell. The reverse of the spell allows the spell recipient's most brazen falsehoods to seem logical and believable. The spell's reverse may also be used to ward against the effects of a detect lie spell.",
+    "Level": "4",
+    "Range": "30-ft",
+    "Duration": "1 round/caster level",
+    "Area of Effect": "One person",
+    "Components": "VSM",
+    "Casting Time": "7 segments",
+    "Saving Throw": "None"
   },
   "Detect Magic": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "1",
-      "Range": "Caster",
-      "Duration": "1 turn",
-      "Area of Effect": "Path 10-ft wide, 30-ft long",
-      "Components": "VSM",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "Detect magic creates a tunnel of magical vision in a path 10-ft wide and 30-ft long, in which the cleric sees the aura of any magic item as a glowing blue nimbus. The spell's effect is blocked by solid wood 3-ft thick, by stone 1-ft thick, and by solid metal 1 inch thick. The cleric can only scan a 60° arc during the course of a round: turning more quickly does not allow magic auras enough time to form in the cleric's vision."
+    "Type": "Clerical Divination",
+    "Details": "Detect magic creates a tunnel of magical vision in a path 10-ft wide and 30-ft long, in which the cleric sees the aura of any magic item as a glowing blue nimbus. The spell's effect is blocked by solid wood 3-ft thick, by stone 1-ft thick, and by solid metal 1 inch thick. The cleric can only scan a 60\u00b0 arc during the course of a round: turning more quickly does not allow magic auras enough time to form in the cleric's vision.",
+    "Level": "1",
+    "Range": "Caster",
+    "Duration": "1 turn",
+    "Area of Effect": "Path 10-ft wide, 30-ft long",
+    "Components": "VSM",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
-  "Dispel Evil (Reversible)": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "5",
-      "Range": "Touch",
-      "Duration": "1 round/caster level",
-      "Area of Effect": "Creature touched",
-      "Components": "VSM",
-      "Casting Time": "8 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell banishes summoned creatures of evil, or those summoned for evil purposes, to their home planes of existence. Although a saving throw negates the spell's banishing effect, any creature that would otherwise have been banished will suffer a penalty of -7 “to hit” the caster for the extent of the spell's duration.\n\n\n\n\nCreatures affected by this spell include, but are certainly not limited to, afreets, demons, devils, genies (either evil or working toward evil purposes under duress), and elementals summoned for evil purposes. The reverse of the spell has the same effects, but upon summoned creatures of good alignment or those summoned for the purposes of good."
+  "Dispel Evil*": {
+    "Type": "Clerical Abjuration",
+    "Details": "This spell banishes summoned creatures of evil, or those summoned for evil purposes, to their home planes of existence. Although a saving throw negates the spell's banishing effect, any creature that would otherwise have been banished will suffer a penalty of -7 \u201cto hit\u201d the caster for the extent of the spell's duration.\n\n\n\n\nCreatures affected by this spell include, but are certainly not limited to, afreets, demons, devils, genies (either evil or working toward evil purposes under duress), and elementals summoned for evil purposes. The reverse of the spell has the same effects, but upon summoned creatures of good alignment or those summoned for the purposes of good.",
+    "Level": "5",
+    "Range": "Touch",
+    "Duration": "1 round/caster level",
+    "Area of Effect": "Creature touched",
+    "Components": "VSM",
+    "Casting Time": "8 segments",
+    "Saving Throw": "See below"
   },
   "Dispel Magic": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "3",
-      "Range": "60-ft",
-      "Duration": "Instantaneous",
-      "Area of Effect": "30-ft radius sphere",
-      "Components": "VS",
-      "Casting Time": "6 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Dispel magic has a base chance of 50% permanently to negate magic–both the magical properties of potions and the ongoing effects of certain spells. All spell effects and relevant items within the stated area of effect are subject to dispelling. Permanent magical items are not disenchanted by the spell, with the exception of potions, which are treated as 12th level for purposes of resolution. However, even a permanently enchanted item must make a saving throw or become non-operational for one round. Any spells in the process of being cast in the spell's area of effect will be lost, and any ongoing spell effects (such as invisibility) will be dispelled.\n\n\n\n\nWith respect to each potion, casting, or ongoing spell effect, the base chance of successful dispelling is increased 5% for every level by which the caster's level exceeds the caster level of the potion, the casting, or the spell effect. The base chance is conversely reduced by 2% per level of difference if the caster is lower level than the caster of the magic to be dispelled. The spell will automatically negate the caster's own spells if it is used for this purpose or if the caster has previously cast a spell into the same area."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "Dispel magic has a base chance of 50% permanently to negate magic\u2013both the magical properties of potions and the ongoing effects of certain spells. All spell effects and relevant items within the stated area of effect are subject to dispelling. Permanent magical items are not disenchanted by the spell, with the exception of potions, which are treated as 12th level for purposes of resolution. However, even a permanently enchanted item must make a saving throw or become non-operational for one round. Any spells in the process of being cast in the spell's area of effect will be lost, and any ongoing spell effects (such as invisibility) will be dispelled.\n\n\n\n\nWith respect to each potion, casting, or ongoing spell effect, the base chance of successful dispelling is increased 5% for every level by which the caster's level exceeds the caster level of the potion, the casting, or the spell effect. The base chance is conversely reduced by 2% per level of difference if the caster is lower level than the caster of the magic to be dispelled. The spell will automatically negate the caster's own spells if it is used for this purpose or if the caster has previously cast a spell into the same area.",
+    "Level": "3",
+    "Range": "60-ft",
+    "Duration": "Instantaneous",
+    "Area of Effect": "30-ft radius sphere",
+    "Components": "VS",
+    "Casting Time": "6 segments",
+    "Saving Throw": "None"
   },
   "Divination": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "4",
-      "Range": "Caster",
-      "Duration": "See below",
-      "Area of Effect": "Caster",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "A divination spell gives the caster divine insight about a particular place, examples being a ruined castle, a particular region in a dungeon, or a small vale. The location of the place must be known to the cleric (e.g., the “Red Mausoleum,” if a legendary location, cannot be the focus of the spell, but if the cleric has seen the doorway of the tomb, the spell will be effective). The spell yields rich information compared to an augury, although it may be couched in rather vague and approximate terms.\n\n\n\n\nThe spell reveals the relative power of the creatures in the area, the treasure (“low,” “moderate,” or “rich”), and chances of incurring the wrath of gods or similar beings if the place is disturbed. There is a chance that the cleric will fail to interpret the omens properly; the base chance to succeed in gaining truthful information is 60%, and rises by another 1% per caster level. The chance may also be adjusted by the GM as necessary.\n\n\n\n\nIf the cleric's reading of the omens is not correct, of course, he or she will be operating on completely false and useless “insights.” The casting of a divination spell is quite dramatic, involving the sacrifice of a dove or other such creature appropriate to the religion in question. Valuable items may also be sacrificed, and such may increase the chance of the cleric receiving clear omens that are easily interpreted."
+    "Type": "Clerical Divination",
+    "Details": "A divination spell gives the caster divine insight about a particular place, examples being a ruined castle, a particular region in a dungeon, or a small vale. The location of the place must be known to the cleric (e.g., the \u201cRed Mausoleum,\u201d if a legendary location, cannot be the focus of the spell, but if the cleric has seen the doorway of the tomb, the spell will be effective). The spell yields rich information compared to an augury, although it may be couched in rather vague and approximate terms.\n\n\n\n\nThe spell reveals the relative power of the creatures in the area, the treasure (\u201clow,\u201d \u201cmoderate,\u201d or \u201crich\u201d), and chances of incurring the wrath of gods or similar beings if the place is disturbed. There is a chance that the cleric will fail to interpret the omens properly; the base chance to succeed in gaining truthful information is 60%, and rises by another 1% per caster level. The chance may also be adjusted by the GM as necessary.\n\n\n\n\nIf the cleric's reading of the omens is not correct, of course, he or she will be operating on completely false and useless \u201cinsights.\u201d The casting of a divination spell is quite dramatic, involving the sacrifice of a dove or other such creature appropriate to the religion in question. Valuable items may also be sacrificed, and such may increase the chance of the cleric receiving clear omens that are easily interpreted.",
+    "Level": "4",
+    "Range": "Caster",
+    "Duration": "See below",
+    "Area of Effect": "Caster",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Earthquake": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "7",
-      "Range": "120-ft",
-      "Duration": "1 round",
-      "Area of Effect": "5-ft diameter/level",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "The cleric invokes a small but intensely powerful earthquake within this spell's area of effect. The spell may be used to create landslides, drain marshes, cave in tunnels, and collapse buildings. Yawning cracks in the earth have a good chance to swallow creatures in the area: the chance of falling into such a crevice (by creature size) is 1 in 4 (small), 1 in 6 (medium) and 1 in 8 (large). Being swallowed up in such fashion is, of course, fatal. Trees standing in the area of an earthquake spell have a 1 in 3 chance of being uprooted."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "The cleric invokes a small but intensely powerful earthquake within this spell's area of effect. The spell may be used to create landslides, drain marshes, cave in tunnels, and collapse buildings. Yawning cracks in the earth have a good chance to swallow creatures in the area: the chance of falling into such a crevice (by creature size) is 1 in 4 (small), 1 in 6 (medium) and 1 in 8 (large). Being swallowed up in such fashion is, of course, fatal. Trees standing in the area of an earthquake spell have a 1 in 3 chance of being uprooted.",
+    "Level": "7",
+    "Range": "120-ft",
+    "Duration": "1 round",
+    "Area of Effect": "5-ft diameter/level",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Exorcise": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "4",
-      "Range": "10-ft",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "One creature or object",
-      "Components": "VSM",
-      "Casting Time": "See below",
-      "Saving Throw": "None"
-    },
-    "details": "Exorcism is a powerful abjuration that casts out demons, devils, or any supernatural inhabitant or influence from a creature or object that has been possessed or otherwise controlled. Exorcism banishes all charms and enchantments, removes curses, and will cast any possessing demon or other creature back into its nearest physical body other than the one being exorcised. The base chance for the cleric to perform a successful exorcism is randomly determined on a d% if the GM has not previously assigned a specific number to represent the relative difficulty of the exorcism. To the base chance is added a modifier of +1/-1 for each level of difference between the cleric's caster level and the level or hit dice of the opposing supernatural force (determined by the GM in the case of supernatural forces with no stated level or HD). The cleric begins the exorcism, rolling a d% for each turn. If the cleric's die roll is equal to or less than the modified chance of success, the exorcism is successful. The process cannot be halted once it has begun, and if the cleric is forced to pause before successfully casting out the supernatural force, the spell will fail."
+    "Type": "Clerical Abjuration",
+    "Details": "Exorcism is a powerful abjuration that casts out demons, devils, or any supernatural inhabitant or influence from a creature or object that has been possessed or otherwise controlled. Exorcism banishes all charms and enchantments, removes curses, and will cast any possessing demon or other creature back into its nearest physical body other than the one being exorcised. The base chance for the cleric to perform a successful exorcism is randomly determined on a d% if the GM has not previously assigned a specific number to represent the relative difficulty of the exorcism. To the base chance is added a modifier of +1/-1 for each level of difference between the cleric's caster level and the level or hit dice of the opposing supernatural force (determined by the GM in the case of supernatural forces with no stated level or HD). The cleric begins the exorcism, rolling a d% for each turn. If the cleric's die roll is equal to or less than the modified chance of success, the exorcism is successful. The process cannot be halted once it has begun, and if the cleric is forced to pause before successfully casting out the supernatural force, the spell will fail.",
+    "Level": "4",
+    "Range": "10-ft",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "One creature or object",
+    "Components": "VSM",
+    "Casting Time": "See below",
+    "Saving Throw": "None"
   },
   "Feign Death": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "3",
-      "Range": "Touch",
-      "Duration": "1 turn+1 round/level",
-      "Area of Effect": "One willing creature",
-      "Components": "VSM",
-      "Casting Time": "2 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell magically slows the recipient's metabolism into a state so close to death that it is impossible to distinguish the enspelled person from a corpse by any means other than magical. The recipient can hear, smell, and think; the senses of touch and sight no longer function. Damage caused to the pseudo-corpse is reduced by one half, and the spell's recipient will not even know that the damage has been caused–potentially a dangerous situation. A person under the influence of this spell is not subject to level draining by the undead and will not be affected by poisons until the spell wears off or is otherwise removed; the caster can remove the catalepsy at will, and the spell is subject to being dispelled. The clerical version of the spell is not subject to a limit on the character level it can affect. Note that the spell cannot be cast upon an unwilling subject."
+    "Type": "Clerical Necromancy",
+    "Details": "This spell magically slows the recipient's metabolism into a state so close to death that it is impossible to distinguish the enspelled person from a corpse by any means other than magical. The recipient can hear, smell, and think; the senses of touch and sight no longer function. Damage caused to the pseudo-corpse is reduced by one half, and the spell's recipient will not even know that the damage has been caused\u2013potentially a dangerous situation. A person under the influence of this spell is not subject to level draining by the undead and will not be affected by poisons until the spell wears off or is otherwise removed; the caster can remove the catalepsy at will, and the spell is subject to being dispelled. The clerical version of the spell is not subject to a limit on the character level it can affect. Note that the spell cannot be cast upon an unwilling subject.",
+    "Level": "3",
+    "Range": "Touch",
+    "Duration": "1 turn+1 round/level",
+    "Area of Effect": "One willing creature",
+    "Components": "VSM",
+    "Casting Time": "2 segments",
+    "Saving Throw": "None"
   },
-  "Find the Path (Reversible)": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "6",
-      "Range": "Touch",
-      "Duration": "1 turn/level",
-      "Area of Effect": "Creature touched",
-      "Components": "VSM",
-      "Casting Time": "3 rounds",
-      "Saving Throw": "None"
-    },
-    "details": "This spell imbues one creature with an uncanny sense for the shortest route into or out of a chosen locale. The spell imparts only a visceral intuition of the right direction and shortest distance, so it is impossible to use the spell either to circumvent dangers or to draw a map. This spell may be used to escape from a maze spell (q.v.) in one round and will continue to function thereafter. The spell's reverse makes a creature unable to make any significant movement beyond aimless wandering."
+  "Find the Path*": {
+    "Type": "Clerical Divination",
+    "Details": "This spell imbues one creature with an uncanny sense for the shortest route into or out of a chosen locale. The spell imparts only a visceral intuition of the right direction and shortest distance, so it is impossible to use the spell either to circumvent dangers or to draw a map. This spell may be used to escape from a maze spell (q.v.) in one round and will continue to function thereafter. The spell's reverse makes a creature unable to make any significant movement beyond aimless wandering.",
+    "Level": "6",
+    "Range": "Touch",
+    "Duration": "1 turn/level",
+    "Area of Effect": "Creature touched",
+    "Components": "VSM",
+    "Casting Time": "3 rounds",
+    "Saving Throw": "None"
   },
   "Find Traps": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "2",
-      "Range": "30-ft",
-      "Duration": "3 turns",
-      "Area of Effect": "10-ft wide path",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell permits the cleric to discern the existence of traps, both of magical and mechanical nature. The cleric must be looking at a trap in order to perceive it."
+    "Type": "Clerical Divination",
+    "Details": "This spell permits the cleric to discern the existence of traps, both of magical and mechanical nature. The cleric must be looking at a trap in order to perceive it.",
+    "Level": "2",
+    "Range": "30-ft",
+    "Duration": "3 turns",
+    "Area of Effect": "10-ft wide path",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
   "Flame Strike": {
-    "type": "Clerical Evocation",
-    "table": {
-      "Level": "5",
-      "Range": "60-ft",
-      "Duration": "1 segment",
-      "Area of Effect": "10-ft diameter column, 30-ft high",
-      "Components": "VSM",
-      "Casting Time": "8 segments",
-      "Saving Throw": "Half"
-    },
-    "details": "Upon the casting of this spell, a blazing column of fire descends from the air. Its searing flames engulf an area 10-ft in diameter, as set by the caster. Each creature caught within the flames will suffer 6d8 points of damage, halved if the creature makes a successful saving throw."
+    "Type": "Clerical Evocation",
+    "Details": "Upon the casting of this spell, a blazing column of fire descends from the air. Its searing flames engulf an area 10-ft in diameter, as set by the caster. Each creature caught within the flames will suffer 6d8 points of damage, halved if the creature makes a successful saving throw.",
+    "Level": "5",
+    "Range": "60-ft",
+    "Duration": "1 segment",
+    "Area of Effect": "10-ft diameter column, 30-ft high",
+    "Components": "VSM",
+    "Casting Time": "8 segments",
+    "Saving Throw": "Half"
   },
   "Gate": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "7",
-      "Range": "30-ft",
-      "Duration": "See below",
-      "Area of Effect": "One summoned creature",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "A gate spell creates an opening between the material plane and another plane of existence, summoning forth a being from the other plane. The caster must know the name of the creature he or she is attempting to summon, or the spell will fail. The particular creature named in the spell's casting might choose not to step through the gate into the material plane. Summoning Thor is unlikely to bring the thunder god from the halls of Valhalla–however, a being of some kind will certainly respond to the summons. Thor, if summoned, might choose to send a Valkyrie, for instance. Casting this spell can be risky, for the caster has no control over the summoned creature unless proper precautions are taken, such as a protection from evil spell, the drawing of appropriate magical circles, etc. Beings summoned from distant planes of existence, particularly beings with individual names of their own, can be powerful and irascible."
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "A gate spell creates an opening between the material plane and another plane of existence, summoning forth a being from the other plane. The caster must know the name of the creature he or she is attempting to summon, or the spell will fail. The particular creature named in the spell's casting might choose not to step through the gate into the material plane. Summoning Thor is unlikely to bring the thunder god from the halls of Valhalla\u2013however, a being of some kind will certainly respond to the summons. Thor, if summoned, might choose to send a Valkyrie, for instance. Casting this spell can be risky, for the caster has no control over the summoned creature unless proper precautions are taken, such as a protection from evil spell, the drawing of appropriate magical circles, etc. Beings summoned from distant planes of existence, particularly beings with individual names of their own, can be powerful and irascible.",
+    "Level": "7",
+    "Range": "30-ft",
+    "Duration": "See below",
+    "Area of Effect": "One summoned creature",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
   "Glyph of Warding": {
-    "type": "Clerical Abjuration/Evocation",
-    "table": {
-      "Level": "3",
-      "Range": "Touch",
-      "Duration": "Permanent (until discharged)",
-      "Area of Effect": "25 square-ft/caster level",
-      "Components": "VSM",
-      "Casting Time": "See below",
-      "Saving Throw": "See below"
-    },
-    "details": "The glyph of warding is a magically charged sigil or rune, scribed and enchanted to serve as the focal point of a powerful magical trap. The enchantment affects surfaces, with the caster being able to ward up to 5-ft×5-ft of wall, floor, door, etc., per caster level. The cleric writes or otherwise inscribes the surface to be protected with the glyph of his choice, thereby defining what effect the glyph will have when discharged. He or she then traces the area to be affected with incense and, if the area to be covered exceeds 50 sq ft, he or she must also sprinkle it with at least 2,000 gp worth of powdered gems to bind the spell over such a large area. When the spell is completed, the glyph and the tracery of its area fade from sight and remain invisible thereafter until the spell is discharged. Any being touching the protected surface without speaking the name of the glyph will discharge the glyph's power. Depending upon the nature of the glyph, a successful saving throw will either reduce the damage by one-half or negate the glyph's effects entirely. The amount of power that can be held within a glyph depends upon the caster's level. Most glyphs cause physical damage from fire or other elemental energies, causing 2 hit points of damage per caster level. More powerful glyphs are known that can induce paralysis or drain experience levels, although these are clearly the province only of the most powerful clerics. The GM must determine what glyphs may be within the capabilities of such formidable individuals."
+    "Type": "Clerical Abjuration/Evocation",
+    "Details": "The glyph of warding is a magically charged sigil or rune, scribed and enchanted to serve as the focal point of a powerful magical trap. The enchantment affects surfaces, with the caster being able to ward up to 5-ft\u00d75-ft of wall, floor, door, etc., per caster level. The cleric writes or otherwise inscribes the surface to be protected with the glyph of his choice, thereby defining what effect the glyph will have when discharged. He or she then traces the area to be affected with incense and, if the area to be covered exceeds 50 sq ft, he or she must also sprinkle it with at least 2,000 gp worth of powdered gems to bind the spell over such a large area. When the spell is completed, the glyph and the tracery of its area fade from sight and remain invisible thereafter until the spell is discharged. Any being touching the protected surface without speaking the name of the glyph will discharge the glyph's power. Depending upon the nature of the glyph, a successful saving throw will either reduce the damage by one-half or negate the glyph's effects entirely. The amount of power that can be held within a glyph depends upon the caster's level. Most glyphs cause physical damage from fire or other elemental energies, causing 2 hit points of damage per caster level. More powerful glyphs are known that can induce paralysis or drain experience levels, although these are clearly the province only of the most powerful clerics. The GM must determine what glyphs may be within the capabilities of such formidable individuals.",
+    "Level": "3",
+    "Range": "Touch",
+    "Duration": "Permanent (until discharged)",
+    "Area of Effect": "25 square-ft/caster level",
+    "Components": "VSM",
+    "Casting Time": "See below",
+    "Saving Throw": "See below"
   },
-  "Heal (Reversible)": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "6",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "Creature touched",
-      "Components": "VS",
-      "Casting Time": "1 round",
-      "Saving Throw": "None (Neg.)"
-    },
-    "details": "This spell affects the same general variety of creatures as the cure light wounds spell (q.v.), but it is necromancy on an entirely different level than the various cure spells. Heal removes all hit point damage with the exception of the last 1d4 points, removes blindness, cures disease, and will negates the effects of a feeblemind spell. The reverse, harm, causes damage sufficient to reduce the target to 1d4 remaining hit points, and also causes disease."
+  "Heal*": {
+    "Type": "Clerical Necromancy",
+    "Details": "This spell affects the same general variety of creatures as the cure light wounds spell (q.v.), but it is necromancy on an entirely different level than the various cure spells. Heal removes all hit point damage with the exception of the last 1d4 points, removes blindness, cures disease, and will negates the effects of a feeblemind spell. The reverse, harm, causes damage sufficient to reduce the target to 1d4 remaining hit points, and also causes disease.",
+    "Level": "6",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "Creature touched",
+    "Components": "VS",
+    "Casting Time": "1 round",
+    "Saving Throw": "None (Neg.)"
   },
   "Hold Person": {
-    "type": "Clerical Enchantment/Charm",
-    "table": {
-      "Level": "2",
-      "Range": "60-ft",
-      "Duration": "4 rounds+1 round/level",
-      "Area of Effect": "1-3 creatures",
-      "Components": "VSM",
-      "Casting Time": "5 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "A hold person spell completely immobilises up to three medium-sized or smaller persons for the spell's duration. The cleric decides how many of his or her foes he or she will target with the spell. If there is only one target, the saving throw is made at -2; if two, each makes the saving throw at -1; and if the cleric seeks to hold three enemies, each makes its saving throw with no penalty. If a magic item or spell operates partially to negate the effects of paralysis, failing the save will have the effect of a slow spell rather than completely immobilising the target. Creatures affected by this spell include humans, Demi-humans and humanoids. Ultimately, it is in the discretion of the GM to decide if a creature is considered a “person” for the purposes of this spell. Persons held by this spell may be killed or bound at a rate of one per round, or, if the attacker chooses, may be attacked at twice the normal rate with an automatic hit, for maximum damage."
+    "Type": "Clerical Enchantment/Charm",
+    "Details": "A hold person spell completely immobilises up to three medium-sized or smaller persons for the spell's duration. The cleric decides how many of his or her foes he or she will target with the spell. If there is only one target, the saving throw is made at -2; if two, each makes the saving throw at -1; and if the cleric seeks to hold three enemies, each makes its saving throw with no penalty. If a magic item or spell operates partially to negate the effects of paralysis, failing the save will have the effect of a slow spell rather than completely immobilising the target. Creatures affected by this spell include humans, Demi-humans and humanoids. Ultimately, it is in the discretion of the GM to decide if a creature is considered a \u201cperson\u201d for the purposes of this spell. Persons held by this spell may be killed or bound at a rate of one per round, or, if the attacker chooses, may be attacked at twice the normal rate with an automatic hit, for maximum damage.",
+    "Level": "2",
+    "Range": "60-ft",
+    "Duration": "4 rounds+1 round/level",
+    "Area of Effect": "1-3 creatures",
+    "Components": "VSM",
+    "Casting Time": "5 segments",
+    "Saving Throw": "Negates"
   },
-  "Holy Word (Reversible)": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "7",
-      "Range": "0",
-      "Duration": "See below",
-      "Area of Effect": "30-ft radius",
-      "Components": "V",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "Holy word is a spell of intrinsically good alignment. The intonation of a holy word utterly banishes evil creatures not native to the caster's plane, hurling them back to their respective planes of existence. Additionally, creatures not of good alignment (including those evil creatures which are native to the caster's plane, as well as neutral creatures not of good alignment) will suffer effects from the holy word in accordance with the creature's hit dice:\n\n\n\n\n Less than 4 HD\tKills\n\n 4-7 HD\tParalyses (duration 10-40 rounds)\n\n 8-11 HD\tStuns, reduces move by 50%, causes -4 to attack rolls (duration 2-8 rounds)\n\n 12+ HD\tDeafens, reduces move by 25%, causes -2 to attack rolls, causes 50% chance of spell failure (duration 1-4 rounds)\n\n\n\n\n\nThe spell's reverse is unholy word, which functions in the same manner as holy word but against creatures of good alignment rather than evil. Both spells have the same effect upon creatures that are neither of good nor evil alignment."
+  "Holy Word*": {
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "Holy word is a spell of intrinsically good alignment. The intonation of a holy word utterly banishes evil creatures not native to the caster's plane, hurling them back to their respective planes of existence. Additionally, creatures not of good alignment (including those evil creatures which are native to the caster's plane, as well as neutral creatures not of good alignment) will suffer effects from the holy word in accordance with the creature's hit dice:\n\n\n\n\n Less than 4 HD\tKills\n\n 4-7 HD\tParalyses (duration 10-40 rounds)\n\n 8-11 HD\tStuns, reduces move by 50%, causes -4 to attack rolls (duration 2-8 rounds)\n\n 12+ HD\tDeafens, reduces move by 25%, causes -2 to attack rolls, causes 50% chance of spell failure (duration 1-4 rounds)\n\n\n\n\n\nThe spell's reverse is unholy word, which functions in the same manner as holy word but against creatures of good alignment rather than evil. Both spells have the same effect upon creatures that are neither of good nor evil alignment.",
+    "Level": "7",
+    "Range": "0",
+    "Duration": "See below",
+    "Area of Effect": "30-ft radius",
+    "Components": "V",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Insect Plague": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "5",
-      "Range": "360-ft",
-      "Duration": "1 turn/level",
-      "Area of Effect": "Cloud of 180-ft radius, 60-ft high",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "While casting this spell, the cleric designates a central point for the spell's origin up to 360-ft from where he or she stands. When the cleric utters the final words of the incantation, this focal point belches forth a massive cloud of stinging insects, which boils outward almost instantly to fill the spell's area of effect. Within the area of this massive cloud, visibility is limited to 30-ft, and all creatures automatically sustain 1 hit point of damage per round from the stings and bites of the numberless flying vermin. All creatures caught in the cloud with 4 or fewer hit dice must check morale, and those with 2 or fewer hit dice will automatically flee until they are 240-ft away from the edge of the roiling cloud. Fire and smoke will keep the swarm at bay (as will walls of force, etc.), but virtually the only way to disperse a swarm before the spell duration expires is to cast dispel magic upon the swarm's focal point. Even a fireball or flame strike will do nothing other than temporarily (1 turn) to clear the insects out of the area affected by their flames."
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "While casting this spell, the cleric designates a central point for the spell's origin up to 360-ft from where he or she stands. When the cleric utters the final words of the incantation, this focal point belches forth a massive cloud of stinging insects, which boils outward almost instantly to fill the spell's area of effect. Within the area of this massive cloud, visibility is limited to 30-ft, and all creatures automatically sustain 1 hit point of damage per round from the stings and bites of the numberless flying vermin. All creatures caught in the cloud with 4 or fewer hit dice must check morale, and those with 2 or fewer hit dice will automatically flee until they are 240-ft away from the edge of the roiling cloud. Fire and smoke will keep the swarm at bay (as will walls of force, etc.), but virtually the only way to disperse a swarm before the spell duration expires is to cast dispel magic upon the swarm's focal point. Even a fireball or flame strike will do nothing other than temporarily (1 turn) to clear the insects out of the area affected by their flames.",
+    "Level": "5",
+    "Range": "360-ft",
+    "Duration": "1 turn/level",
+    "Area of Effect": "Cloud of 180-ft radius, 60-ft high",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
-  "Know Alignment (Reversible)": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "2",
-      "Range": "Touch",
-      "Duration": "1 turn",
-      "Area of Effect": "1 creature/round",
-      "Components": "VS",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "All creatures are surrounded by an aura that can indicate their alignment, and this spell allows the caster to perceive and read such auras. The auras of up to ten creatures may be examined by use of the spell, and the cleric will be able to identify the exact alignment of each. The reverse of the spell obscures alignment (even against the use of this spell) with respect to one creature for a period of 1 turn, two people for a period of 5 rounds, and so on."
+  "Know Alignment*": {
+    "Type": "Clerical Divination",
+    "Details": "All creatures are surrounded by an aura that can indicate their alignment, and this spell allows the caster to perceive and read such auras. The auras of up to ten creatures may be examined by use of the spell, and the cleric will be able to identify the exact alignment of each. The reverse of the spell obscures alignment (even against the use of this spell) with respect to one creature for a period of 1 turn, two people for a period of 5 rounds, and so on.",
+    "Level": "2",
+    "Range": "Touch",
+    "Duration": "1 turn",
+    "Area of Effect": "1 creature/round",
+    "Components": "VS",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
-  "Light (Reversible)": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "120-ft",
-      "Duration": "6 turns+1 turn/caster level (half for darkness)",
-      "Area of Effect": "20-ft radius globe",
-      "Components": "VS",
-      "Casting Time": "4 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "The light spell creates a globe of light 20-ft in radius, centered upon whatever spot or object the caster indicates at the time of casting (including a location in thin air). The caster may extinguish the magical light at any time. The reverse of the spell, darkness, creates an area of utter darkness just as the light spell creates light, with the only distinction being that the darkness spell has half the duration of a light spell. If either spell is cast upon a living creature, the creature is entitled to a saving throw (success indicating that the spell affects the area just behind the creature). A light spell cast upon a creature's eyes will blind it for the spell's duration, causing it a penalty of -4 on all rolls “to hit” if sight is its primary sense. The light spell remains stationary if it was not originally cast upon a movable object or creature (in which case the target will bring the illumination with it as it moves)."
+  "Light*": {
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "The light spell creates a globe of light 20-ft in radius, centered upon whatever spot or object the caster indicates at the time of casting (including a location in thin air). The caster may extinguish the magical light at any time. The reverse of the spell, darkness, creates an area of utter darkness just as the light spell creates light, with the only distinction being that the darkness spell has half the duration of a light spell. If either spell is cast upon a living creature, the creature is entitled to a saving throw (success indicating that the spell affects the area just behind the creature). A light spell cast upon a creature's eyes will blind it for the spell's duration, causing it a penalty of -4 on all rolls \u201cto hit\u201d if sight is its primary sense. The light spell remains stationary if it was not originally cast upon a movable object or creature (in which case the target will bring the illumination with it as it moves).",
+    "Level": "1",
+    "Range": "120-ft",
+    "Duration": "6 turns+1 turn/caster level (half for darkness)",
+    "Area of Effect": "20-ft radius globe",
+    "Components": "VS",
+    "Casting Time": "4 segments",
+    "Saving Throw": "See below"
   },
-  "Locate Object (Reversible)": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "3",
-      "Range": "60-ft+10-ft/caster level",
-      "Duration": "1 round/caster level",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "Any object (not creature) known or familiar to the caster may be located within the spell's range. It is not necessary for the caster to have seen the precise object that the spell will locate: if the caster is familiar with ladders in general, he or she may cast the spell successfully to locate any ladder within the spell's range. The spell is directional, requiring the cleric to turn in different directions in order to sense an object in his or her path. The cleric may move after casting the spell to search a broader area, and need not be in actual line of sight of the object. (In other words, the spell's effect is not hindered by walls or other such obstacles.) The reverse of the spell may be used to obscure one object from magical detection of virtually all kinds (including such means as a crystal ball as well as divination spells)."
+  "Locate Object*": {
+    "Type": "Clerical Divination",
+    "Details": "Any object (not creature) known or familiar to the caster may be located within the spell's range. It is not necessary for the caster to have seen the precise object that the spell will locate: if the caster is familiar with ladders in general, he or she may cast the spell successfully to locate any ladder within the spell's range. The spell is directional, requiring the cleric to turn in different directions in order to sense an object in his or her path. The cleric may move after casting the spell to search a broader area, and need not be in actual line of sight of the object. (In other words, the spell's effect is not hindered by walls or other such obstacles.) The reverse of the spell may be used to obscure one object from magical detection of virtually all kinds (including such means as a crystal ball as well as divination spells).",
+    "Level": "3",
+    "Range": "60-ft+10-ft/caster level",
+    "Duration": "1 round/caster level",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
-  "Lower Water (Reversible)": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "4",
-      "Range": "120-ft",
-      "Duration": "1 turn/caster level",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "With a majestic gesture, the cleric forces an area of water to sink downward by 5% of its original depth per caster level. Despite its name, the spell's power is not limited to water; it can affect other non-living fluid substances as well, including gases and materials slightly more viscous than water. The GM may adjust the amount by which the spell affects other substances based upon the difference of their material properties from those of water. The spell's area of effect is a square with sides measuring 10-ft per level of the cleric. For example, a cleric of 7th level can affect a square area up to 70-ft×70-ft. The reverse of the spell raises water in an area of effect similar to that of lower water, but not to the same degree of height, returning water to its natural level plus one foot per caster level."
+  "Lower Water*": {
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "With a majestic gesture, the cleric forces an area of water to sink downward by 5% of its original depth per caster level. Despite its name, the spell's power is not limited to water; it can affect other non-living fluid substances as well, including gases and materials slightly more viscous than water. The GM may adjust the amount by which the spell affects other substances based upon the difference of their material properties from those of water. The spell's area of effect is a square with sides measuring 10-ft per level of the cleric. For example, a cleric of 7th level can affect a square area up to 70-ft\u00d770-ft. The reverse of the spell raises water in an area of effect similar to that of lower water, but not to the same degree of height, returning water to its natural level plus one foot per caster level.",
+    "Level": "4",
+    "Range": "120-ft",
+    "Duration": "1 turn/caster level",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
-  "Neutralise Poison (Reversible)": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "4",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "1-ft cube/ 2 caster levels or 1 creature",
-      "Components": "VS",
-      "Casting Time": "7 segments",
-      "Saving Throw": "None (neg.)"
-    },
-    "details": "This spell detoxifies any sort of venom in a creature or object touched by the cleric. An opponent (a venomous spider, for example) must be successfully touched by the cleric, but is not entitled to a saving throw if the attack succeeds. Note that if the venomous creature produces new venom (normally a process that takes time), the new venom will be toxic, but any venom that is stored up in the creature will be affected and detoxified. The spell may also be used to prevent a poisoned character from suffering the poison's effects. The reverse of the spell allows the cleric to deliver a lethally poisonous touch, requiring a successful roll to hit, and allowing a saving throw against the poison."
+  "Neutralise Poison*": {
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "This spell detoxifies any sort of venom in a creature or object touched by the cleric. An opponent (a venomous spider, for example) must be successfully touched by the cleric, but is not entitled to a saving throw if the attack succeeds. Note that if the venomous creature produces new venom (normally a process that takes time), the new venom will be toxic, but any venom that is stored up in the creature will be affected and detoxified. The spell may also be used to prevent a poisoned character from suffering the poison's effects. The reverse of the spell allows the cleric to deliver a lethally poisonous touch, requiring a successful roll to hit, and allowing a saving throw against the poison.",
+    "Level": "4",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "1-ft cube/ 2 caster levels or 1 creature",
+    "Components": "VS",
+    "Casting Time": "7 segments",
+    "Saving Throw": "None (neg.)"
   },
   "Part Water": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "6",
-      "Range": "20-ft/caster level",
-      "Duration": "1 turn/caster level",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "This spell causes water to draw apart, forming a trench. The depth and length of the water displacement is determined by the cleric's level. For each caster level, the cleric may displace an area of water 30-ft deep and 20-ft wide. The spell can affect other liquids besides water, but the more different the physical properties of the other liquid, the less the cleric may be capable of displacing."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "This spell causes water to draw apart, forming a trench. The depth and length of the water displacement is determined by the cleric's level. For each caster level, the cleric may displace an area of water 30-ft deep and 20-ft wide. The spell can affect other liquids besides water, but the more different the physical properties of the other liquid, the less the cleric may be capable of displacing.",
+    "Level": "6",
+    "Range": "20-ft/caster level",
+    "Duration": "1 turn/caster level",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Plane Shift": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "5",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "8 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "Up to seven people, in addition to the cleric, can travel from one plane of existence to another by means of a plane shift spell. All persons to make the journey must link hands in a circle, and when the cleric finishes the spell and completes the circle, the caster and his or her companions will be drawn beyond the boundaries of the material plane and into the supernatural regions beyond, the home realms of gods, demons, and elementals. An unwilling victim must be touched by the cleric in order for the cleric to send him or her to another plane, and a saving throw is also applicable. The casting of a plane shift spell provides one-way travel to the other plane; a second casting of the spell (or a similar spell of planar travel) is required in order to make the return journey. The cleric must possess a metal tuning fork attuned specifically to the plane of destination in order to cast the spell."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "Up to seven people, in addition to the cleric, can travel from one plane of existence to another by means of a plane shift spell. All persons to make the journey must link hands in a circle, and when the cleric finishes the spell and completes the circle, the caster and his or her companions will be drawn beyond the boundaries of the material plane and into the supernatural regions beyond, the home realms of gods, demons, and elementals. An unwilling victim must be touched by the cleric in order for the cleric to send him or her to another plane, and a saving throw is also applicable. The casting of a plane shift spell provides one-way travel to the other plane; a second casting of the spell (or a similar spell of planar travel) is required in order to make the return journey. The cleric must possess a metal tuning fork attuned specifically to the plane of destination in order to cast the spell.",
+    "Level": "5",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "8 segments",
+    "Saving Throw": "See below"
   },
   "Prayer": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "3",
-      "Range": "0",
-      "Duration": "1 round/caster level",
-      "Area of Effect": "60-ft radius",
-      "Components": "VSM",
-      "Casting Time": "6 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Casting prayer is a matter of intoning an invocation to the cleric's god(s), following which any of the cleric's allies who were in the spell's area of effect will gain, for the duration of the spell, the same benefits as if they were affected by an ongoing chant spell. Note that the cleric is able to move and take other actions while the prayer spell is in effect, which is not the case with the more restricted chant spell."
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "Casting prayer is a matter of intoning an invocation to the cleric's god(s), following which any of the cleric's allies who were in the spell's area of effect will gain, for the duration of the spell, the same benefits as if they were affected by an ongoing chant spell. Note that the cleric is able to move and take other actions while the prayer spell is in effect, which is not the case with the more restricted chant spell.",
+    "Level": "3",
+    "Range": "0",
+    "Duration": "1 round/caster level",
+    "Area of Effect": "60-ft radius",
+    "Components": "VSM",
+    "Casting Time": "6 segments",
+    "Saving Throw": "None"
   },
-  "Protection from Evil (Reversible)": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "1",
-      "Range": "Touch",
-      "Duration": "3 rounds/caster level",
-      "Area of Effect": "Creature touched",
-      "Components": "VSM",
-      "Casting Time": "4 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell surrounds the recipient with an invisible aura of divine protection, emanating from the recipient to a distance of one foot. The aura is not invulnerable, but it affords considerable protection against evil and summoned creatures, much as a powerful magic circle would. The power of the aura is such that, regardless of alignment, neither summoned nor conjured creatures, nor those not native to the material planes (such as demons or genies), can reach through it. It is possible, of course, for a weapon wielded by such a creature to breach the magical barrier, but the creature's physical presence is completely hedged out. Moreover, the attacks of evil creatures (with or without a weapon) incur a penalty of -2 to hit, and saving throws caused by such creatures will be made at a bonus of +2. The spell may be reversed into protection from good, and in this form it will still hedge out summoned, conjured, and extra-planar creatures regard less of alignment. To cast either form of the spell, the caster speaks the ritual words of the spell while describing a circle around the being to be warded, using holy water or incense (blood or smouldering dung for the reverse of the spell)."
+  "Protection from Evil*": {
+    "Type": "Clerical Abjuration",
+    "Details": "This spell surrounds the recipient with an invisible aura of divine protection, emanating from the recipient to a distance of one foot. The aura is not invulnerable, but it affords considerable protection against evil and summoned creatures, much as a powerful magic circle would. The power of the aura is such that, regardless of alignment, neither summoned nor conjured creatures, nor those not native to the material planes (such as demons or genies), can reach through it. It is possible, of course, for a weapon wielded by such a creature to breach the magical barrier, but the creature's physical presence is completely hedged out. Moreover, the attacks of evil creatures (with or without a weapon) incur a penalty of -2 to hit, and saving throws caused by such creatures will be made at a bonus of +2. The spell may be reversed into protection from good, and in this form it will still hedge out summoned, conjured, and extra-planar creatures regard less of alignment. To cast either form of the spell, the caster speaks the ritual words of the spell while describing a circle around the being to be warded, using holy water or incense (blood or smouldering dung for the reverse of the spell).",
+    "Level": "1",
+    "Range": "Touch",
+    "Duration": "3 rounds/caster level",
+    "Area of Effect": "Creature touched",
+    "Components": "VSM",
+    "Casting Time": "4 segments",
+    "Saving Throw": "None"
   },
-  "Protection from Evil, 10-ft Radius (Reversible)": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "4",
-      "Range": "Touch",
-      "Duration": "1 turn/caster level",
-      "Area of Effect": "10-ft radius sphere around creature touched",
-      "Components": "VS",
-      "Casting Time": "7 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell has effects and limitations identical to protection from evil, but the radius of divine protection extends a full 10-ft around the spell's recipient, allowing allies to shelter within the protective ambience. The duration of the spell is also longer."
+  "Protection from Evil, 10-ft Radius*": {
+    "Type": "Clerical Abjuration",
+    "Details": "This spell has effects and limitations identical to protection from evil, but the radius of divine protection extends a full 10-ft around the spell's recipient, allowing allies to shelter within the protective ambience. The duration of the spell is also longer.",
+    "Level": "4",
+    "Range": "Touch",
+    "Duration": "1 turn/caster level",
+    "Area of Effect": "10-ft radius sphere around creature touched",
+    "Components": "VS",
+    "Casting Time": "7 segments",
+    "Saving Throw": "None"
   },
-  "Purify Food and Drink (Reversible)": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "30-ft",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "1 cubic-ft/level",
-      "Components": "VS",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "This spell removes poison, rot, and other contaminants from all food and water within the spell's area of effect, also destroying the malignant properties of unholy water. The reverse of the spell contaminates food and water and will spoil holy water."
+  "Purify Food and Drink*": {
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "This spell removes poison, rot, and other contaminants from all food and water within the spell's area of effect, also destroying the malignant properties of unholy water. The reverse of the spell contaminates food and water and will spoil holy water.",
+    "Level": "1",
+    "Range": "30-ft",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "1 cubic-ft/level",
+    "Components": "VS",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
   "Quest": {
-    "type": "Clerical Enchantment/Charm",
-    "table": {
-      "Level": "5",
-      "Range": "60-ft",
-      "Duration": "See below",
-      "Area of Effect": "One creature",
-      "Components": "VSM",
-      "Casting Time": "8 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "By means of a quest spell, the cleric enslaves the subject into fulfilling a task the cleric sets, forcing him or her to perform the task and return to the cleric with proof of its completion. If the enchanted creature does not properly follow the letter and spirit of the quest, it will suffer a cumulative penalty of -1 to all saving throw rolls for each day the quest is neglected. This penalty, which is itself in the nature of a curse, remains with the creature until the quest is completed or the curse is removed by the caster or by some other agency. Possible objectives for a quest are legion; they might include finding and bringing some valuable item to the cleric, capturing a castle, slaying a monster, or any number of other tasks."
+    "Type": "Clerical Enchantment/Charm",
+    "Details": "By means of a quest spell, the cleric enslaves the subject into fulfilling a task the cleric sets, forcing him or her to perform the task and return to the cleric with proof of its completion. If the enchanted creature does not properly follow the letter and spirit of the quest, it will suffer a cumulative penalty of -1 to all saving throw rolls for each day the quest is neglected. This penalty, which is itself in the nature of a curse, remains with the creature until the quest is completed or the curse is removed by the caster or by some other agency. Possible objectives for a quest are legion; they might include finding and bringing some valuable item to the cleric, capturing a castle, slaying a monster, or any number of other tasks.",
+    "Level": "5",
+    "Range": "60-ft",
+    "Duration": "See below",
+    "Area of Effect": "One creature",
+    "Components": "VSM",
+    "Casting Time": "8 segments",
+    "Saving Throw": "Negates"
   },
-  "Raise Dead (Reversible)": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "5",
-      "Range": "30-ft",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "One person",
-      "Components": "VS",
-      "Casting Time": "1 round",
-      "Saving Throw": "See below"
-    },
-    "details": "The eerie, keening incantation of this spell calls a soul back from the afterlife, literally bringing the dead back to life. Elves, as they do not have souls, cannot be brought back to life in this manner, but humans, half-elves, half-orcs, gnomes, dwarfs, and halflings can all be raised from the dead by means of this spell. The longer a soul has been departed from the material plane, the more difficult it is to call it back; a cleric can summon back a soul that has been dead no more days than the cleric's level. In other words, a cleric of tenth level can raise a person who has been dead no more than ten days, but an eleventh level cleric can raise a person who has been dead eleven days. The raised person must survive a system shock saving throw in order to return to life, and he or she will be unable to engage in strenuous activity (such as combat, study, or spell casting) for a period of time equal to one day for each day that he or she was dead.\n\n\n\n\nPerhaps mercifully, the spell erases the returning character's memory concerning any places his or her soul may have visited following death.\n\n\n\n\nRaise dead can instantly destroy most kinds of corporeal undead creatures (exception: it does not destroy liches). Incorporeal undead, such as ghosts or spectres, are immune. This use is treated the same as the reverse of the spell in terms of saving throws and damage.\n\n\n\n\nThe reverse of the spell is referred to in hushed tones as slay living. The subject of this spell (which must be used with extreme caution by good clerics, lest their alignment be altered) is entitled to a saving throw, and if the throw fails, the subject dies. If the saving throw succeeds, the target will still sustain 2d8+1 points of damage."
+  "Raise Dead*": {
+    "Type": "Clerical Necromancy",
+    "Details": "The eerie, keening incantation of this spell calls a soul back from the afterlife, literally bringing the dead back to life. Elves, as they do not have souls, cannot be brought back to life in this manner, but humans, half-elves, half-orcs, gnomes, dwarfs, and halflings can all be raised from the dead by means of this spell. The longer a soul has been departed from the material plane, the more difficult it is to call it back; a cleric can summon back a soul that has been dead no more days than the cleric's level. In other words, a cleric of tenth level can raise a person who has been dead no more than ten days, but an eleventh level cleric can raise a person who has been dead eleven days. The raised person must survive a system shock saving throw in order to return to life, and he or she will be unable to engage in strenuous activity (such as combat, study, or spell casting) for a period of time equal to one day for each day that he or she was dead.\n\n\n\n\nPerhaps mercifully, the spell erases the returning character's memory concerning any places his or her soul may have visited following death.\n\n\n\n\nRaise dead can instantly destroy most kinds of corporeal undead creatures (exception: it does not destroy liches). Incorporeal undead, such as ghosts or spectres, are immune. This use is treated the same as the reverse of the spell in terms of saving throws and damage.\n\n\n\n\nThe reverse of the spell is referred to in hushed tones as slay living. The subject of this spell (which must be used with extreme caution by good clerics, lest their alignment be altered) is entitled to a saving throw, and if the throw fails, the subject dies. If the saving throw succeeds, the target will still sustain 2d8+1 points of damage.",
+    "Level": "5",
+    "Range": "30-ft",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "One person",
+    "Components": "VS",
+    "Casting Time": "1 round",
+    "Saving Throw": "See below"
   },
-  "Regenerate (Reversible)": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "7",
-      "Range": "Touch",
-      "Duration": "Instantaneous",
-      "Area of Effect": "One creature",
-      "Components": "VSM",
-      "Casting Time": "3 rounds",
-      "Saving Throw": "None"
-    },
-    "details": "The powerful regeneration spell causes severed body parts to reattach themselves in a single round, or to regrow within 2-8 turns. The spell's reverse causes a touched appendage to wither and fall away to dust within 2-8 turns. A successful attack must be made in order to cast the spell upon an unwilling victim, but the victim does not also receive a saving throw."
+  "Regenerate*": {
+    "Type": "Clerical Necromancy",
+    "Details": "The powerful regeneration spell causes severed body parts to reattach themselves in a single round, or to regrow within 2-8 turns. The spell's reverse causes a touched appendage to wither and fall away to dust within 2-8 turns. A successful attack must be made in order to cast the spell upon an unwilling victim, but the victim does not also receive a saving throw.",
+    "Level": "7",
+    "Range": "Touch",
+    "Duration": "Instantaneous",
+    "Area of Effect": "One creature",
+    "Components": "VSM",
+    "Casting Time": "3 rounds",
+    "Saving Throw": "None"
   },
-  "Remove Curse (Reversible)": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "3",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "See below",
-      "Components": "VS",
-      "Casting Time": "6 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "This spell allows the cleric to remove curses from persons and objects, and the spell can have a variety of other applications against evil manifestations. Magical items imbued with curses cannot be destroyed by the spell's power, but use of the spell upon a person under the influence of such an item will generally free the person from the curse and allow him or her to be rid of the item.\n\n\n\n\nThe spell's reverse, bestow curse, inflicts the subject with a magical curse, the exact nature of which is not entirely within the caster's control:\n\n\n\n\nReduce one ability score to 3:\t50%\nCause -4 penalty “to hit” and on saving throws:\t25%\nCause victim (50% chance per turn) to drop any objects it is holding \n(or in the case of an non-tool-using creature, not act for one round):\t25%\n\n\n\n\nWith the GM's agreement, the character may design a specific curse to use with this spell other than the random curse the spell normally unleashes. In order to bestow a curse, the cleric must successfully touch the intended victim, who is entitled to a saving throw. The duration of a bestowed curse is 1 turn/caster level."
+  "Remove Curse*": {
+    "Type": "Clerical Abjuration",
+    "Details": "This spell allows the cleric to remove curses from persons and objects, and the spell can have a variety of other applications against evil manifestations. Magical items imbued with curses cannot be destroyed by the spell's power, but use of the spell upon a person under the influence of such an item will generally free the person from the curse and allow him or her to be rid of the item.\n\n\n\n\nThe spell's reverse, bestow curse, inflicts the subject with a magical curse, the exact nature of which is not entirely within the caster's control:\n\n\n\n\nReduce one ability score to 3:\t50%\nCause -4 penalty \u201cto hit\u201d and on saving throws:\t25%\nCause victim (50% chance per turn) to drop any objects it is holding \n(or in the case of an non-tool-using creature, not act for one round):\t25%\n\n\n\n\nWith the GM's agreement, the character may design a specific curse to use with this spell other than the random curse the spell normally unleashes. In order to bestow a curse, the cleric must successfully touch the intended victim, who is entitled to a saving throw. The duration of a bestowed curse is 1 turn/caster level.",
+    "Level": "3",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "See below",
+    "Components": "VS",
+    "Casting Time": "6 segments",
+    "Saving Throw": "See below"
   },
-  "Remove Fear (Reversible)": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "1",
-      "Range": "Touch",
-      "Duration": "See below",
-      "Area of Effect": "Creature touched",
-      "Components": "VS",
-      "Casting Time": "4 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell is a divine warding against fear, and it can also banish magical terror in someone already affected. In the latter case, the spell grants a second saving throw at a bonus of +1 per caster level. To a person not already affected by magical fear, the spell grants a bonus of +4 to fear saving throws for 1 turn."
+  "Remove Fear*": {
+    "Type": "Clerical Abjuration",
+    "Details": "This spell is a divine warding against fear, and it can also banish magical terror in someone already affected. In the latter case, the spell grants a second saving throw at a bonus of +1 per caster level. To a person not already affected by magical fear, the spell grants a bonus of +4 to fear saving throws for 1 turn.",
+    "Level": "1",
+    "Range": "Touch",
+    "Duration": "See below",
+    "Area of Effect": "Creature touched",
+    "Components": "VS",
+    "Casting Time": "4 segments",
+    "Saving Throw": "None"
   },
   "Resist Cold": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "1",
-      "Range": "Touch",
-      "Duration": "1 turn/level",
-      "Area of Effect": "Creature touched",
-      "Components": "VSM",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "By touching the spell's intended recipient and casting the spell, the cleric instills the recipient with a supernatural resistance to the effects of extreme cold. Normal cold, temperatures ranging down to zero degrees Fahrenheit, is perceived as normal temperature. The subject also gains a saving throw bonus of +3 against magical cold, taking one half damage if the save is not successful and one quarter damage if the save is successful. The saving throw is permitted even against attacks that would not ordinarily permit a saving throw (such as a magically cold sword)."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "By touching the spell's intended recipient and casting the spell, the cleric instills the recipient with a supernatural resistance to the effects of extreme cold. Normal cold, temperatures ranging down to zero degrees Fahrenheit, is perceived as normal temperature. The subject also gains a saving throw bonus of +3 against magical cold, taking one half damage if the save is not successful and one quarter damage if the save is successful. The saving throw is permitted even against attacks that would not ordinarily permit a saving throw (such as a magically cold sword).",
+    "Level": "1",
+    "Range": "Touch",
+    "Duration": "1 turn/level",
+    "Area of Effect": "Creature touched",
+    "Components": "VSM",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
   "Resist Fire": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "2",
-      "Range": "Touch",
-      "Duration": "1 turn/caster level",
-      "Area of Effect": "Creature touched",
-      "Components": "VSM",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "When this spell is cast, the recipient gains resistance to fire and heat, being able to endure boiling temperatures without discomfort. A person under the influence of this spell can stand unharmed in the middle of a bonfire, and even gains a measure of resistance to magical fire. The subject gains a saving throw bonus of +3 against magical fire, taking one half damage if the save is not successful and one quarter damage if the save is successful. The saving throw is permitted even against attacks that would not ordinarily allow a saving throw."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "When this spell is cast, the recipient gains resistance to fire and heat, being able to endure boiling temperatures without discomfort. A person under the influence of this spell can stand unharmed in the middle of a bonfire, and even gains a measure of resistance to magical fire. The subject gains a saving throw bonus of +3 against magical fire, taking one half damage if the save is not successful and one quarter damage if the save is successful. The saving throw is permitted even against attacks that would not ordinarily allow a saving throw.",
+    "Level": "2",
+    "Range": "Touch",
+    "Duration": "1 turn/caster level",
+    "Area of Effect": "Creature touched",
+    "Components": "VSM",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
-  "Restoration (Reversible)": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "7",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "One creature",
-      "Components": "VS",
-      "Casting Time": "3 rounds",
-      "Saving Throw": "None"
-    },
-    "details": "By casting this spell, the cleric restores one lost level of experience to the spell's target. Not necessarily all lost experience points are restored; an afflicted character will only regain enough experience points to regain the lost level, no more. A cleric can only restore a level lost within as many days as the cleric's caster level. For example, a cleric of 12th level cannot restore an experience level lost 13 or more days prior to the casting of the spell. The spell's reverse causes the target to lose one experience level. No saving throw applies, but a successful attack is required. In addition to restoring lost levels, the spell can affect other sorts of magically-induced debilities. The effects of a feeblemind spell are reversed by restoration, for example.\n\n\n\n\nThe reverse of restoration, energy drain, removes one level of experience as well as the neccessary amount of experience points to take the victim to that level."
+  "Restoration*": {
+    "Type": "Clerical Necromancy",
+    "Details": "By casting this spell, the cleric restores one lost level of experience to the spell's target. Not necessarily all lost experience points are restored; an afflicted character will only regain enough experience points to regain the lost level, no more. A cleric can only restore a level lost within as many days as the cleric's caster level. For example, a cleric of 12th level cannot restore an experience level lost 13 or more days prior to the casting of the spell. The spell's reverse causes the target to lose one experience level. No saving throw applies, but a successful attack is required. In addition to restoring lost levels, the spell can affect other sorts of magically-induced debilities. The effects of a feeblemind spell are reversed by restoration, for example.\n\n\n\n\nThe reverse of restoration, energy drain, removes one level of experience as well as the neccessary amount of experience points to take the victim to that level.",
+    "Level": "7",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "One creature",
+    "Components": "VS",
+    "Casting Time": "3 rounds",
+    "Saving Throw": "None"
   },
-  "Resurrection (Reversible)": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "7",
-      "Range": "Touch",
-      "Duration": "Instantaneous (permanent)",
-      "Area of Effect": "One person",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "The awesome power of a resurrection spell brings the dead back to life. Unlike raise dead, a resurrection spell may be cast upon a person who has been dead for as many as 10 years per caster level. Casting the spell requires the cleric to rest for one day per level of the person raised. Elves cannot be resurrected, having no souls, but humans and the rest of their ilk (half-elves, dwarfs, etc.) can be affected. As with raise dead, the recipient's memory of whatever transpired between death and resurrection is erased.\n\n\n\n\nThe reverse of the spell kills the subject and turns him or her to dust, requiring a successful attack roll to touch."
+  "Resurrection*": {
+    "Type": "Clerical Necromancy",
+    "Details": "The awesome power of a resurrection spell brings the dead back to life. Unlike raise dead, a resurrection spell may be cast upon a person who has been dead for as many as 10 years per caster level. Casting the spell requires the cleric to rest for one day per level of the person raised. Elves cannot be resurrected, having no souls, but humans and the rest of their ilk (half-elves, dwarfs, etc.) can be affected. As with raise dead, the recipient's memory of whatever transpired between death and resurrection is erased.\n\n\n\n\nThe reverse of the spell kills the subject and turns him or her to dust, requiring a successful attack roll to touch.",
+    "Level": "7",
+    "Range": "Touch",
+    "Duration": "Instantaneous (permanent)",
+    "Area of Effect": "One person",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Sanctuary": {
-    "type": "Clerical Abjuration",
-    "table": {
-      "Level": "1",
-      "Range": "Personal",
-      "Duration": "2 rounds+1 round/level",
-      "Area of Effect": "Caster",
-      "Components": "VSM",
-      "Casting Time": "4 segments",
-      "Saving Throw": "None"
-    },
-    "details": "A sanctuary spell makes the cleric seem an irrelevant, non-hostile target, one that his or her enemies will ignore. In order for any foe to attack the caster of the spell, the enemy must make a successful saving throw against magic. Failing the saving throw permits the enemy to attack another target, but the cleric will be completely ignored. The spell does not prevent an enemy from including the cleric within the area of effect of a hostile spell, provided that the cleric is not the intended target. The cleric may not undertake any hostile actions while protected by a sanctuary, or the spell's power will be dissipated and end. However, the cleric may cast spells and otherwise act in ways that are not directly hostile, such as curing wounds, casting a spell such as bless, or even stealing an item if faith and alignment permit."
+    "Type": "Clerical Abjuration",
+    "Details": "A sanctuary spell makes the cleric seem an irrelevant, non-hostile target, one that his or her enemies will ignore. In order for any foe to attack the caster of the spell, the enemy must make a successful saving throw against magic. Failing the saving throw permits the enemy to attack another target, but the cleric will be completely ignored. The spell does not prevent an enemy from including the cleric within the area of effect of a hostile spell, provided that the cleric is not the intended target. The cleric may not undertake any hostile actions while protected by a sanctuary, or the spell's power will be dissipated and end. However, the cleric may cast spells and otherwise act in ways that are not directly hostile, such as curing wounds, casting a spell such as bless, or even stealing an item if faith and alignment permit.",
+    "Level": "1",
+    "Range": "Personal",
+    "Duration": "2 rounds+1 round/level",
+    "Area of Effect": "Caster",
+    "Components": "VSM",
+    "Casting Time": "4 segments",
+    "Saving Throw": "None"
   },
   "Silence, 15-ft Radius": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "2",
-      "Range": "120-ft",
-      "Duration": "2 rounds/caster level",
-      "Area of Effect": "30-ft diameter sphere",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "See below"
-    },
-    "details": "Casting this spell brings into being an area of complete and utter magical silence in which no sound can be heard. The spell may be cast upon a location in the air, upon a physical object (in which case it will move with the object), or upon a creature (in which case a saving throw is applicable). If the creature makes a saving throw, the area of silence will centre upon the space just behind the intended victim."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "Casting this spell brings into being an area of complete and utter magical silence in which no sound can be heard. The spell may be cast upon a location in the air, upon a physical object (in which case it will move with the object), or upon a creature (in which case a saving throw is applicable). If the creature makes a saving throw, the area of silence will centre upon the space just behind the intended victim.",
+    "Level": "2",
+    "Range": "120-ft",
+    "Duration": "2 rounds/caster level",
+    "Area of Effect": "30-ft diameter sphere",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "See below"
   },
   "Slow Poison": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "2",
-      "Range": "Touch",
-      "Duration": "6 turns/level",
-      "Area of Effect": "Creature touched",
-      "Components": "VSM",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "This spell is used to slow the progress of poison through the body. Even a person who has died from poison may be revived if he succumbed to the poison within a number of turns less than or equal to the caster's level of experience. The spell does not eliminate or neutralise poison; it merely slows it. A poisoned creature will lose 1 hit point per turn (but will not fall below 1) during the spell's duration; once the spell's protection expires, the victim will suffer the full potency of the poison. The spell is generally used to keep someone alive until the poison can be neutralised completely by other means, such as a neutralise poison spell."
+    "Type": "Clerical Necromancy",
+    "Details": "This spell is used to slow the progress of poison through the body. Even a person who has died from poison may be revived if he succumbed to the poison within a number of turns less than or equal to the caster's level of experience. The spell does not eliminate or neutralise poison; it merely slows it. A poisoned creature will lose 1 hit point per turn (but will not fall below 1) during the spell's duration; once the spell's protection expires, the victim will suffer the full potency of the poison. The spell is generally used to keep someone alive until the poison can be neutralised completely by other means, such as a neutralise poison spell.",
+    "Level": "2",
+    "Range": "Touch",
+    "Duration": "6 turns/level",
+    "Area of Effect": "Creature touched",
+    "Components": "VSM",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   },
   "Snake Charm": {
-    "type": "Clerical Enchantment/Charm",
-    "table": {
-      "Level": "2",
-      "Range": "30-ft",
-      "Duration": "See below",
-      "Area of Effect": "See below",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "A pattern of gestures made by the cleric in the course of casting this spell creates a hypnotic effect on snakes. Any snake affected by the spell will rise up and begin swaying back and forth, otherwise remaining motionless. A cleric can affect multiple serpents with the spell, up to a total number of hit points equal to the cleric's own. The spell's duration depends upon the existing emotions of the snake at the time the spell is cast. If the snake was asleep, the duration of the charm is 1d4+2 turns; if the snake was awake but not angry, the duration will be 1-3 turns; and if the snake was angry (or attacking), the spell will last 1d4+4 rounds."
+    "Type": "Clerical Enchantment/Charm",
+    "Details": "A pattern of gestures made by the cleric in the course of casting this spell creates a hypnotic effect on snakes. Any snake affected by the spell will rise up and begin swaying back and forth, otherwise remaining motionless. A cleric can affect multiple serpents with the spell, up to a total number of hit points equal to the cleric's own. The spell's duration depends upon the existing emotions of the snake at the time the spell is cast. If the snake was asleep, the duration of the charm is 1d4+2 turns; if the snake was awake but not angry, the duration will be 1-3 turns; and if the snake was angry (or attacking), the spell will last 1d4+4 rounds.",
+    "Level": "2",
+    "Range": "30-ft",
+    "Duration": "See below",
+    "Area of Effect": "See below",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
   "Speak with Animals": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "2",
-      "Range": "0",
-      "Duration": "2 rounds/caster level",
-      "Area of Effect": "One creature within 30-ft of the caster",
-      "Components": "VS",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "When the caster invokes this spell, he or she becomes able to communicate with and understand the “speech” of normal animals (with the exception of mindless creatures). While the spell lasts, the animal (and any other animals of the same type in its company) will refrain from attacking, even if they were initially hostile. Depending upon the nature of the conversation, if the animal's alignment is neutral or of the same tendency as the cleric's, the animal may be disposed to help the cleric in some manner. It is important to note that the spell does not permit speech with animals of monstrous or unnatural nature; communication with a monster such as a cockatrice, for example, is beyond the spell's power. Neither does the spell suddenly imbue an animal with intelligence; the observations and opinions of an animal such as a badger will be appropriate to the animal's own experiences, motives, and intellectual limitations."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "When the caster invokes this spell, he or she becomes able to communicate with and understand the \u201cspeech\u201d of normal animals (with the exception of mindless creatures). While the spell lasts, the animal (and any other animals of the same type in its company) will refrain from attacking, even if they were initially hostile. Depending upon the nature of the conversation, if the animal's alignment is neutral or of the same tendency as the cleric's, the animal may be disposed to help the cleric in some manner. It is important to note that the spell does not permit speech with animals of monstrous or unnatural nature; communication with a monster such as a cockatrice, for example, is beyond the spell's power. Neither does the spell suddenly imbue an animal with intelligence; the observations and opinions of an animal such as a badger will be appropriate to the animal's own experiences, motives, and intellectual limitations.",
+    "Level": "2",
+    "Range": "0",
+    "Duration": "2 rounds/caster level",
+    "Area of Effect": "One creature within 30-ft of the caster",
+    "Components": "VS",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
   "Speak with Dead": {
-    "type": "Clerical Necromancy",
-    "table": {
-      "Level": "3",
-      "Range": "10-ft",
-      "Duration": "See below",
-      "Area of Effect": "One dead creature",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "By casting speak with dead, the cleric opens a mystical channel to the afterworld, permitting him or her to ask a dead creature several questions. As with most spells that concern the afterlife, the length of time that the soul has departed is a factor–the longer the creature has been dead, the more powerful the casting cleric must be to initiate contact. The cleric must be able to speak the dead creature's language and must have some portion of its bodily remains available as the focus of the spell.\n\n\n\n\n\n Caster level  Spell duration  Max number \nof questions  Max time \nsince death \n\n\n  5-6    1 round    2    1 week  \n\n\n  7-8    3 rounds    3    1 month  \n\n\n  9-12    1 turn    4    1 year  \n\n\n  13-15    2 turns    5    1 decade  \n\n\n  16-20    3 turns    6    1 century  \n\n\n  21+    1 hour    7    1 æon"
+    "Type": "Clerical Necromancy",
+    "Details": "By casting speak with dead, the cleric opens a mystical channel to the afterworld, permitting him or her to ask a dead creature several questions. As with most spells that concern the afterlife, the length of time that the soul has departed is a factor\u2013the longer the creature has been dead, the more powerful the casting cleric must be to initiate contact. The cleric must be able to speak the dead creature's language and must have some portion of its bodily remains available as the focus of the spell.\n\n\n\n\n\n Caster level  Spell duration  Max number \nof questions  Max time \nsince death \n\n\n  5-6    1 round    2    1 week  \n\n\n  7-8    3 rounds    3    1 month  \n\n\n  9-12    1 turn    4    1 year  \n\n\n  13-15    2 turns    5    1 decade  \n\n\n  16-20    3 turns    6    1 century  \n\n\n  21+    1 hour    7    1 \u00e6on",
+    "Level": "3",
+    "Range": "10-ft",
+    "Duration": "See below",
+    "Area of Effect": "One dead creature",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Speak with Monsters": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "6",
-      "Range": "Caster",
-      "Duration": "1 round/caster level",
-      "Area of Effect": "30-ft radius",
-      "Components": "VS",
-      "Casting Time": "9 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Within the spell's area of effect, the caster becomes capable of communicating with any kind of creature provided it has some form of intelligence. The spell does not make the target friendly to the caster; for this, the caster must rely upon his or her charisma."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "Within the spell's area of effect, the caster becomes capable of communicating with any kind of creature provided it has some form of intelligence. The spell does not make the target friendly to the caster; for this, the caster must rely upon his or her charisma.",
+    "Level": "6",
+    "Range": "Caster",
+    "Duration": "1 round/caster level",
+    "Area of Effect": "30-ft radius",
+    "Components": "VS",
+    "Casting Time": "9 segments",
+    "Saving Throw": "None"
   },
   "Speak with Plants": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "4",
-      "Range": "Caster",
-      "Duration": "1 round/caster level",
-      "Area of Effect": "Caster",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "The cleric becomes able to hold converse with living plant matter. He or she may pose questions and understand the answers given, although any conclusions or opinions the plant provides will be based on the plant's level of intelligence. Even a normal plant, however, will be able to convey information about events that have transpired near it. If the plants are capable of motion, it will be possible for the cleric to persuade them into a course of action, such as drawing aside to allow passage, or even attacking an enemy citadel."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "The cleric becomes able to hold converse with living plant matter. He or she may pose questions and understand the answers given, although any conclusions or opinions the plant provides will be based on the plant's level of intelligence. Even a normal plant, however, will be able to convey information about events that have transpired near it. If the plants are capable of motion, it will be possible for the cleric to persuade them into a course of action, such as drawing aside to allow passage, or even attacking an enemy citadel.",
+    "Level": "4",
+    "Range": "Caster",
+    "Duration": "1 round/caster level",
+    "Area of Effect": "Caster",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Spiritual Weapon": {
-    "type": "Clerical Invocation",
-    "table": {
-      "Level": "2",
-      "Range": "30-ft",
-      "Duration": "1 round/level",
-      "Area of Effect": "Hammer-shaped divine force",
-      "Components": "VSM",
-      "Casting Time": "5 segments",
-      "Saving Throw": "None"
-    },
-    "details": "To cast this spell, the cleric throws a real war hammer into the air, invoking the power of his or her god(s). The real hammer disappears, replaced with a mist-like shape of divine force that attacks at the cleric's will while the cleric concentrates upon maintaining it (limited, of course, to the duration of the spell). The hammer strikes as a magical weapon for purposes of affecting creatures hit only by magic weapons (as if it were a +1 weapon, with an additional +1 per three levels of the caster), but it has no actual bonus on “to hit” rolls. The spiritual weapon attacks as if it were wielded by the cleric, at the cleric's level and with any appropriate “to hit” and damage bonuses (or penalties). The weapon does damage as a normal war hammer."
+    "Type": "Clerical Invocation",
+    "Details": "To cast this spell, the cleric throws a real war hammer into the air, invoking the power of his or her god(s). The real hammer disappears, replaced with a mist-like shape of divine force that attacks at the cleric's will while the cleric concentrates upon maintaining it (limited, of course, to the duration of the spell). The hammer strikes as a magical weapon for purposes of affecting creatures hit only by magic weapons (as if it were a +1 weapon, with an additional +1 per three levels of the caster), but it has no actual bonus on \u201cto hit\u201d rolls. The spiritual weapon attacks as if it were wielded by the cleric, at the cleric's level and with any appropriate \u201cto hit\u201d and damage bonuses (or penalties). The weapon does damage as a normal war hammer.",
+    "Level": "2",
+    "Range": "30-ft",
+    "Duration": "1 round/level",
+    "Area of Effect": "Hammer-shaped divine force",
+    "Components": "VSM",
+    "Casting Time": "5 segments",
+    "Saving Throw": "None"
   },
-  "Sticks to Snakes (Reversible)": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "4",
-      "Range": "30-ft",
-      "Duration": "2 rounds/caster level",
-      "Area of Effect": "10-ft cube",
-      "Components": "VSM",
-      "Casting Time": "7 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell enables the cleric to transform sticks into serpents that attack at the cleric's will. The snakes may be ordered to take other actions if the cleric can speak with them, but this spell alone does not grant the power to communicate with the snakes, only to will them to attack particular opponents. The spell transforms one stick per caster level, and each snake has a 5% chance per caster level of being venomous. The reverse of the spell will change snakes into harmless sticks and can work such a transformation upon snakes created by means of this spell. Sticks of a magical quality, such as wands or magic spears, are not affected by the spell."
+  "Sticks to Snakes*": {
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "This spell enables the cleric to transform sticks into serpents that attack at the cleric's will. The snakes may be ordered to take other actions if the cleric can speak with them, but this spell alone does not grant the power to communicate with the snakes, only to will them to attack particular opponents. The spell transforms one stick per caster level, and each snake has a 5% chance per caster level of being venomous. The reverse of the spell will change snakes into harmless sticks and can work such a transformation upon snakes created by means of this spell. Sticks of a magical quality, such as wands or magic spears, are not affected by the spell.",
+    "Level": "4",
+    "Range": "30-ft",
+    "Duration": "2 rounds/caster level",
+    "Area of Effect": "10-ft cube",
+    "Components": "VSM",
+    "Casting Time": "7 segments",
+    "Saving Throw": "None"
   },
   "Stone Tell": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "6",
-      "Range": "Touch",
-      "Duration": "1 turn",
-      "Area of Effect": "1 cubic yard of stone",
-      "Components": "VSM",
-      "Casting Time": "1 turn",
-      "Saving Throw": "None"
-    },
-    "details": "This spell causes stone to hear and speak. Rock and stones in the area of effect will answer any of the cleric's questions about what has transpired in their immediate vicinity, or what lies behind them."
+    "Type": "Clerical Divination",
+    "Details": "This spell causes stone to hear and speak. Rock and stones in the area of effect will answer any of the cleric's questions about what has transpired in their immediate vicinity, or what lies behind them.",
+    "Level": "6",
+    "Range": "Touch",
+    "Duration": "1 turn",
+    "Area of Effect": "1 cubic yard of stone",
+    "Components": "VSM",
+    "Casting Time": "1 turn",
+    "Saving Throw": "None"
   },
   "Symbol": {
-    "type": "Clerical Conjuration/Summoning",
-    "table": {
-      "Level": "7",
-      "Range": "Touch",
-      "Duration": "1 turn/level",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "3 segments",
-      "Saving Throw": "Negates"
-    },
-    "details": "To cast this spell, the cleric shapes a glowing symbol in the air. Any creature seeing the symbol closely enough to discern its shape (approximately 100-ft) will be affected by it. The clerical casting of this spell allows for three different symbols: Hopelessness, Pain, and Persuasion.\n\n\n\n\nHopelessness: The symbol of hopelessness causes despair. Any creature (other than those with no intelligence) failing the saving throw will wander sadly away or surrender in the face of a challenge such as a combat. The despair will persist for 3d4 turns.\n\n\n\n\nPain:   The symbol of pain inflicts terrible, shooting pains for a duration of 2-20 turns. Any creature so affected will suffer a -4 penalty on attack rolls and a temporary loss of 2 dexterity points.\n\n\n\n\nPersuasion:   Those viewing the symbol of persuasion and failing their saving throw will undergo a temporary change of alignment to the caster's alignment and become friendly to the caster for 1d20 turns."
+    "Type": "Clerical Conjuration/Summoning",
+    "Details": "To cast this spell, the cleric shapes a glowing symbol in the air. Any creature seeing the symbol closely enough to discern its shape (approximately 100-ft) will be affected by it. The clerical casting of this spell allows for three different symbols: Hopelessness, Pain, and Persuasion.\n\n\n\n\nHopelessness: The symbol of hopelessness causes despair. Any creature (other than those with no intelligence) failing the saving throw will wander sadly away or surrender in the face of a challenge such as a combat. The despair will persist for 3d4 turns.\n\n\n\n\nPain:   The symbol of pain inflicts terrible, shooting pains for a duration of 2-20 turns. Any creature so affected will suffer a -4 penalty on attack rolls and a temporary loss of 2 dexterity points.\n\n\n\n\nPersuasion:   Those viewing the symbol of persuasion and failing their saving throw will undergo a temporary change of alignment to the caster's alignment and become friendly to the caster for 1d20 turns.",
+    "Level": "7",
+    "Range": "Touch",
+    "Duration": "1 turn/level",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "3 segments",
+    "Saving Throw": "Negates"
   },
-  "Tongues (Reversible)": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "4",
-      "Range": "0",
-      "Duration": "1 turn",
-      "Area of Effect": "30-ft radius",
-      "Components": "VS",
-      "Casting Time": "7 segments",
-      "Saving Throw": "None"
-    },
-    "details": "Within the radius established by this spell, the caster, and the caster alone, will be able to speak and understand any verbal language. Note that the spell's area of effect does not move with the caster. The reverse of the spell makes verbal communication impossible for any person (not just the caster) in the spell's area, or may be used to cancel out the effects of the tongues spell."
+  "Tongues*": {
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "Within the radius established by this spell, the caster, and the caster alone, will be able to speak and understand any verbal language. Note that the spell's area of effect does not move with the caster. The reverse of the spell makes verbal communication impossible for any person (not just the caster) in the spell's area, or may be used to cancel out the effects of the tongues spell.",
+    "Level": "4",
+    "Range": "0",
+    "Duration": "1 turn",
+    "Area of Effect": "30-ft radius",
+    "Components": "VS",
+    "Casting Time": "7 segments",
+    "Saving Throw": "None"
   },
-  "True Seeing (Reversible)": {
-    "type": "Clerical Divination",
-    "table": {
-      "Level": "5",
-      "Range": "Touch",
-      "Duration": "1 round/level",
-      "Area of Effect": "Creature touched",
-      "Components": "VSM",
-      "Casting Time": "8 segments",
-      "Saving Throw": "None"
-    },
-    "details": "This spell imbues the recipient with the ability to see things as they truly are within a range of 120-ft. Illusions, displacements, astral or æthereal objects and beings, and secret doors are examples of the kinds of deception and unreality that the spell reveals. Alignment auras become visible so that the cleric can discern good from evil, law from chaos. Polymorphed items and creatures are seen in their true shape. The reverse of the spell, false seeing, is in the nature of a curse, making the subject's perception untrustworthy and contrary in what it reveals."
+  "True Seeing*": {
+    "Type": "Clerical Divination",
+    "Details": "This spell imbues the recipient with the ability to see things as they truly are within a range of 120-ft. Illusions, displacements, astral or \u00e6thereal objects and beings, and secret doors are examples of the kinds of deception and unreality that the spell reveals. Alignment auras become visible so that the cleric can discern good from evil, law from chaos. Polymorphed items and creatures are seen in their true shape. The reverse of the spell, false seeing, is in the nature of a curse, making the subject's perception untrustworthy and contrary in what it reveals.",
+    "Level": "5",
+    "Range": "Touch",
+    "Duration": "1 round/level",
+    "Area of Effect": "Creature touched",
+    "Components": "VSM",
+    "Casting Time": "8 segments",
+    "Saving Throw": "None"
   },
   "Wind Walk": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "7",
-      "Range": "Caster",
-      "Duration": "6 turns/caster level",
-      "Area of Effect": "See below",
-      "Components": "VSM",
-      "Casting Time": "1 round",
-      "Saving Throw": "None"
-    },
-    "details": "Upon completing the wording of this spell, the caster's body becomes insubstantial, resembling the misty substance of water vapour. Indeed, if the caster wears white garments, he or she is likely (80% chance) to be mistaken for a cloud of vapour or steam. Carried upon a magical wind controlled by the caster, the wind walker(s) may travel as rapidly as 600-ft per turn or as slowly as 60-ft per turn. The caster may carry another person for every 8 caster levels, transforming them into cloudlike wind walkers by his touch. The spell ends when the cleric cancels it or the duration expires."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "Upon completing the wording of this spell, the caster's body becomes insubstantial, resembling the misty substance of water vapour. Indeed, if the caster wears white garments, he or she is likely (80% chance) to be mistaken for a cloud of vapour or steam. Carried upon a magical wind controlled by the caster, the wind walker(s) may travel as rapidly as 600-ft per turn or as slowly as 60-ft per turn. The caster may carry another person for every 8 caster levels, transforming them into cloudlike wind walkers by his touch. The spell ends when the cleric cancels it or the duration expires.",
+    "Level": "7",
+    "Range": "Caster",
+    "Duration": "6 turns/caster level",
+    "Area of Effect": "See below",
+    "Components": "VSM",
+    "Casting Time": "1 round",
+    "Saving Throw": "None"
   },
   "Word of Recall": {
-    "type": "Clerical Transmutation/Alteration",
-    "table": {
-      "Level": "6",
-      "Range": "Caster",
-      "Duration": "See below",
-      "Area of Effect": "Caster and additional weight (see below)",
-      "Components": "V",
-      "Casting Time": "1 segment",
-      "Saving Throw": "None"
-    },
-    "details": "By the utterance of a single word of power, the cleric transports him- or herself infallibly to a prepared place of sanctuary. Before the spell can be cast with success, a place in the sanctuary must be inscribed with a rune corresponding to the cleric's word of recall; any later elimination of this rune by any person other than the cleric will not affect the proper functioning of the spell. Transportation by means of word of recall is instantaneous and not subject to error. The sanctuary may be of any distance from the cleric, and may be above or below ground. The cleric may also transport as much as 25 lbs of other material per level of experience, including equipment or even another living being."
+    "Type": "Clerical Transmutation/Alteration",
+    "Details": "By the utterance of a single word of power, the cleric transports him- or herself infallibly to a prepared place of sanctuary. Before the spell can be cast with success, a place in the sanctuary must be inscribed with a rune corresponding to the cleric's word of recall; any later elimination of this rune by any person other than the cleric will not affect the proper functioning of the spell. Transportation by means of word of recall is instantaneous and not subject to error. The sanctuary may be of any distance from the cleric, and may be above or below ground. The cleric may also transport as much as 25 lbs of other material per level of experience, including equipment or even another living being.",
+    "Level": "6",
+    "Range": "Caster",
+    "Duration": "See below",
+    "Area of Effect": "Caster and additional weight (see below)",
+    "Components": "V",
+    "Casting Time": "1 segment",
+    "Saving Throw": "None"
   }
 }
