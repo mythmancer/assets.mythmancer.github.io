@@ -76,9 +76,10 @@
     "Casting Time": "9 segments",
     "Saving Throw": "None"
   },
-  "Bless*": {
+  "Bless": {
     "Type": "Clerical Conjuration/Summoning",
     "Details": "This minor benison raises the morale and attack rolls of any creatures allied with the casting cleric by +1 or +5% as appropriate. Any creatures already engaged in melee combat will not gain the spell's benefits. The spell is reversible, allowing the cleric to curse his or her enemies with -5% morale and -1 to hit.\n\n\n\n\nThe spell's area of effect is a circular area centred at the target point, which cannot be more than 60-ft from the cleric. Holy water is required to cast the spell (unholy water for the reverse).",
+    "Reversible": true,
     "Level": "1",
     "Range": "60-ft",
     "Duration": "6 rounds",
@@ -131,9 +132,10 @@
     "Casting Time": "9 segments",
     "Saving Throw": "None"
   },
-  "Continual Light*": {
+  "Continual Light": {
     "Type": "Clerical Transmutation/Alteration",
     "Details": "This spell brings into being a bright, magical illumination almost sufficient to rival the light of day. In some respects the spell is identical to the first level cleric spell light, but its effects are permanent until dispelled. The light cast is greater than that produced by a light spell, extending 60-ft into the darkness. The reverse of the spell, continual darkness, produces an ink-like darkness in the same 60-ft area and negates the illumination of a continual light spell if one is present.\n\n\n\n\nBy casting the spell upon an enemy's eyes or other organs of sight, the caster may blind the spell's subject, causing the same penalties as if the creature were blinded by a light spell. In this instance, a saving throw is permitted, and if it is successful the spell's effect will centre upon the area immediately behind the targeted creature.",
+    "Reversible": true,
     "Level": "3",
     "Range": "120-ft",
     "Duration": "Permanent",
@@ -164,10 +166,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "None"
   },
-  "Create Water*": {
+  "Create Water": {
     "Type": "Clerical Transmutation/Alteration",
     "Details": "This spell creates potable water, four gallons per level of the caster. The water may be created in a receptacle or in thin air (whence it will, of course, fall). Water cannot be created inside a creature, nor can it be created in any place the caster cannot see. The reverse of the spell destroys water (including fog, steam, mist, etc.) in the same quantities as create water.",
     "Level": "1",
+    "Reversible": true,
     "Range": "10-ft",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Up to 30 cubic-ft",
@@ -175,10 +178,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Cure Blindness*": {
+  "Cure Blindness": {
     "Type": "Clerical Abjuration",
     "Details": "This powerful spell allows the cleric permanently to remove virtually all forms of blindness. The reverse of the spell permits a saving throw, and the cleric must successfully touch the spell's intended target to inflict blindness (permanent duration).",
     "Level": "3",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Creature touched",
@@ -186,10 +190,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None (Neg.)"
   },
-  "Cure Critical Wounds*": {
+  "Cure Critical Wounds": {
     "Type": "Clerical Necromancy",
     "Details": "This powerful spell is similar in nature to cure light wounds, operating in the same fashion but healing 3d8+3 hit points of damage. The reverse of the spell functions as cause critical wounds, but delivers 3d8+3 points of damage.",
     "Level": "5",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Creature touched",
@@ -197,10 +202,11 @@
     "Casting Time": "8 segments",
     "Saving Throw": "None (Neg.)"
   },
-  "Cure Disease*": {
+  "Cure Disease": {
     "Type": "Clerical Abjuration",
     "Details": "By means of this spell, the cleric may cure most diseases by laying hands upon the afflicted creature. Depending upon the nature of the disease, full recovery may require as little time as a single turn, or as long as a week. The spell's reverse, cause disease, requires that the cleric successfully touch the intended victim, who is permitted a saving throw against the spell's insidious effects. If the saving throw is failed, the effects of the disease will manifest within 1d6 turns, inflicting 1 hit point of damage per turn thereafter and one point of lost strength per hour (6 turns) until the victim is reduced to 10% of his or her original hit points and strength. Until the disease is cured or runs its course, the afflicted person will not be able to naturally recover either strength or hit points over and above 10%. The disease runs its course in 1d6 days.",
     "Level": "3",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Creature touched",
@@ -208,10 +214,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "None (Neg.)"
   },
-  "Cure Light Wounds*": {
+  "Cure Light Wounds": {
     "Type": "Clerical Necromancy",
     "Details": "Cure light wounds allows the cleric to lay hands upon a wounded creature, restoring 1d8 hit points to the spell's beneficiary. The reverse of the spell operates in the same manner (although requiring a \u201cto hit\u201d roll), but inflicts 1d8 hit points rather than healing. If the cleric fails to hit while casting cause light wounds, the spell is lost. This spell does not heal disease, reattach limbs, or bring back the dead, nor can it add hit points beyond a character's normal number. Non-corporeal creatures are not affected by this spell, nor are undead, nor are creatures that are harmed only by iron, silver, or magical weapons.",
     "Level": "1",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Creature touched",
@@ -219,10 +226,11 @@
     "Casting Time": "5 segments",
     "Saving Throw": "None (Neg.)"
   },
-  "Cure Serious Wounds*": {
+  "Cure Serious Wounds": {
     "Type": "Clerical Necromancy",
     "Details": "A benison similar to cure light wounds, cure serious wounds permits the cleric to lay on hands for 2d8+1 hit points of healing. The spell's limits are otherwise similar to those of cure light wounds. The reverse of the spell causes damage rather than healing, requiring that the cleric successfully touch the target.",
     "Level": "4",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "One creature",
@@ -230,10 +238,11 @@
     "Casting Time": "7 segments",
     "Saving Throw": "None (Neg.)"
   },
-  "Detect Charm*": {
+  "Detect Charm": {
     "Type": "Clerical Divination",
     "Details": "This spell reveals to the cleric whether a creature is subject to a charm spell. The spell's magic can discern a charm (or lack thereof) on up to ten creatures. The reverse of the spell conceals the existence of a charm, but affects only one creature.",
     "Level": "2",
+    "Reversible": true,
     "Range": "30-ft",
     "Duration": "1 turn",
     "Area of Effect": "See below",
@@ -241,10 +250,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Detect Evil*": {
+  "Detect Evil": {
     "Type": "Clerical Divination",
     "Details": "This spell allows the cleric to discern emanations of evil (or good, in the case of the spell's reverse) within the spell's area of effect, a beam-like pathway. The spell detects evil, not danger, so it will be useless to discover such things as a mindless trap or a poisoned wineglass. Neither will it detect a cursed item unless the nature of the curse is such that the cursed item becomes inherently evil.",
     "Level": "1",
+    "Reversible": true,
     "Range": "Caster",
     "Duration": "1 turn+5 rounds/level",
     "Area of Effect": "Path 10-ft wide, 120-ft long",
@@ -252,10 +262,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Detect Lie*": {
+  "Detect Lie": {
     "Type": "Clerical Divination",
     "Details": "The subject of this spell (not necessarily the caster) gains the ability to discern whether the truth is being told, for the duration of the spell. The reverse of the spell allows the spell recipient's most brazen falsehoods to seem logical and believable. The spell's reverse may also be used to ward against the effects of a detect lie spell.",
     "Level": "4",
+    "Reversible": true,
     "Range": "30-ft",
     "Duration": "1 round/caster level",
     "Area of Effect": "One person",
@@ -274,10 +285,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Dispel Evil*": {
+  "Dispel Evil": {
     "Type": "Clerical Abjuration",
     "Details": "This spell banishes summoned creatures of evil, or those summoned for evil purposes, to their home planes of existence. Although a saving throw negates the spell's banishing effect, any creature that would otherwise have been banished will suffer a penalty of -7 \u201cto hit\u201d the caster for the extent of the spell's duration.\n\n\n\n\nCreatures affected by this spell include, but are certainly not limited to, afreets, demons, devils, genies (either evil or working toward evil purposes under duress), and elementals summoned for evil purposes. The reverse of the spell has the same effects, but upon summoned creatures of good alignment or those summoned for the purposes of good.",
     "Level": "5",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "1 round/caster level",
     "Area of Effect": "Creature touched",
@@ -340,10 +352,11 @@
     "Casting Time": "2 segments",
     "Saving Throw": "None"
   },
-  "Find the Path*": {
+  "Find the Path": {
     "Type": "Clerical Divination",
     "Details": "This spell imbues one creature with an uncanny sense for the shortest route into or out of a chosen locale. The spell imparts only a visceral intuition of the right direction and shortest distance, so it is impossible to use the spell either to circumvent dangers or to draw a map. This spell may be used to escape from a maze spell (q.v.) in one round and will continue to function thereafter. The spell's reverse makes a creature unable to make any significant movement beyond aimless wandering.",
     "Level": "6",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "1 turn/level",
     "Area of Effect": "Creature touched",
@@ -395,10 +408,11 @@
     "Casting Time": "See below",
     "Saving Throw": "See below"
   },
-  "Heal*": {
+  "Heal": {
     "Type": "Clerical Necromancy",
     "Details": "This spell affects the same general variety of creatures as the cure light wounds spell (q.v.), but it is necromancy on an entirely different level than the various cure spells. Heal removes all hit point damage with the exception of the last 1d4 points, removes blindness, cures disease, and will negates the effects of a feeblemind spell. The reverse, harm, causes damage sufficient to reduce the target to 1d4 remaining hit points, and also causes disease.",
     "Level": "6",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Creature touched",
@@ -417,10 +431,11 @@
     "Casting Time": "5 segments",
     "Saving Throw": "Negates"
   },
-  "Holy Word*": {
+  "Holy Word": {
     "Type": "Clerical Conjuration/Summoning",
     "Details": "Holy word is a spell of intrinsically good alignment. The intonation of a holy word utterly banishes evil creatures not native to the caster's plane, hurling them back to their respective planes of existence. Additionally, creatures not of good alignment (including those evil creatures which are native to the caster's plane, as well as neutral creatures not of good alignment) will suffer effects from the holy word in accordance with the creature's hit dice:\n\n\n\n\n Less than 4 HD\tKills\n\n 4-7 HD\tParalyses (duration 10-40 rounds)\n\n 8-11 HD\tStuns, reduces move by 50%, causes -4 to attack rolls (duration 2-8 rounds)\n\n 12+ HD\tDeafens, reduces move by 25%, causes -2 to attack rolls, causes 50% chance of spell failure (duration 1-4 rounds)\n\n\n\n\n\nThe spell's reverse is unholy word, which functions in the same manner as holy word but against creatures of good alignment rather than evil. Both spells have the same effect upon creatures that are neither of good nor evil alignment.",
     "Level": "7",
+    "Reversible": true,
     "Range": "0",
     "Duration": "See below",
     "Area of Effect": "30-ft radius",
@@ -439,10 +454,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "None"
   },
-  "Know Alignment*": {
+  "Know Alignment": {
     "Type": "Clerical Divination",
     "Details": "All creatures are surrounded by an aura that can indicate their alignment, and this spell allows the caster to perceive and read such auras. The auras of up to ten creatures may be examined by use of the spell, and the cleric will be able to identify the exact alignment of each. The reverse of the spell obscures alignment (even against the use of this spell) with respect to one creature for a period of 1 turn, two people for a period of 5 rounds, and so on.",
     "Level": "2",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "1 turn",
     "Area of Effect": "1 creature/round",
@@ -450,10 +466,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Light*": {
+  "Light": {
     "Type": "Clerical Transmutation/Alteration",
     "Details": "The light spell creates a globe of light 20-ft in radius, centered upon whatever spot or object the caster indicates at the time of casting (including a location in thin air). The caster may extinguish the magical light at any time. The reverse of the spell, darkness, creates an area of utter darkness just as the light spell creates light, with the only distinction being that the darkness spell has half the duration of a light spell. If either spell is cast upon a living creature, the creature is entitled to a saving throw (success indicating that the spell affects the area just behind the creature). A light spell cast upon a creature's eyes will blind it for the spell's duration, causing it a penalty of -4 on all rolls \u201cto hit\u201d if sight is its primary sense. The light spell remains stationary if it was not originally cast upon a movable object or creature (in which case the target will bring the illumination with it as it moves).",
     "Level": "1",
+    "Reversible": true,
     "Range": "120-ft",
     "Duration": "6 turns+1 turn/caster level (half for darkness)",
     "Area of Effect": "20-ft radius globe",
@@ -461,10 +478,11 @@
     "Casting Time": "4 segments",
     "Saving Throw": "See below"
   },
-  "Locate Object*": {
+  "Locate Object": {
     "Type": "Clerical Divination",
     "Details": "Any object (not creature) known or familiar to the caster may be located within the spell's range. It is not necessary for the caster to have seen the precise object that the spell will locate: if the caster is familiar with ladders in general, he or she may cast the spell successfully to locate any ladder within the spell's range. The spell is directional, requiring the cleric to turn in different directions in order to sense an object in his or her path. The cleric may move after casting the spell to search a broader area, and need not be in actual line of sight of the object. (In other words, the spell's effect is not hindered by walls or other such obstacles.) The reverse of the spell may be used to obscure one object from magical detection of virtually all kinds (including such means as a crystal ball as well as divination spells).",
     "Level": "3",
+    "Reversible": true,
     "Range": "60-ft+10-ft/caster level",
     "Duration": "1 round/caster level",
     "Area of Effect": "See below",
@@ -472,10 +490,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "None"
   },
-  "Lower Water*": {
+  "Lower Water": {
     "Type": "Clerical Transmutation/Alteration",
     "Details": "With a majestic gesture, the cleric forces an area of water to sink downward by 5% of its original depth per caster level. Despite its name, the spell's power is not limited to water; it can affect other non-living fluid substances as well, including gases and materials slightly more viscous than water. The GM may adjust the amount by which the spell affects other substances based upon the difference of their material properties from those of water. The spell's area of effect is a square with sides measuring 10-ft per level of the cleric. For example, a cleric of 7th level can affect a square area up to 70-ft\u00d770-ft. The reverse of the spell raises water in an area of effect similar to that of lower water, but not to the same degree of height, returning water to its natural level plus one foot per caster level.",
     "Level": "4",
+    "Reversible": true,
     "Range": "120-ft",
     "Duration": "1 turn/caster level",
     "Area of Effect": "See below",
@@ -483,10 +502,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "None"
   },
-  "Neutralise Poison*": {
+  "Neutralise Poison": {
     "Type": "Clerical Transmutation/Alteration",
     "Details": "This spell detoxifies any sort of venom in a creature or object touched by the cleric. An opponent (a venomous spider, for example) must be successfully touched by the cleric, but is not entitled to a saving throw if the attack succeeds. Note that if the venomous creature produces new venom (normally a process that takes time), the new venom will be toxic, but any venom that is stored up in the creature will be affected and detoxified. The spell may also be used to prevent a poisoned character from suffering the poison's effects. The reverse of the spell allows the cleric to deliver a lethally poisonous touch, requiring a successful roll to hit, and allowing a saving throw against the poison.",
     "Level": "4",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "1-ft cube/ 2 caster levels or 1 creature",
@@ -527,10 +547,11 @@
     "Casting Time": "6 segments",
     "Saving Throw": "None"
   },
-  "Protection from Evil*": {
+  "Protection from Evil": {
     "Type": "Clerical Abjuration",
     "Details": "This spell surrounds the recipient with an invisible aura of divine protection, emanating from the recipient to a distance of one foot. The aura is not invulnerable, but it affords considerable protection against evil and summoned creatures, much as a powerful magic circle would. The power of the aura is such that, regardless of alignment, neither summoned nor conjured creatures, nor those not native to the material planes (such as demons or genies), can reach through it. It is possible, of course, for a weapon wielded by such a creature to breach the magical barrier, but the creature's physical presence is completely hedged out. Moreover, the attacks of evil creatures (with or without a weapon) incur a penalty of -2 to hit, and saving throws caused by such creatures will be made at a bonus of +2. The spell may be reversed into protection from good, and in this form it will still hedge out summoned, conjured, and extra-planar creatures regard less of alignment. To cast either form of the spell, the caster speaks the ritual words of the spell while describing a circle around the being to be warded, using holy water or incense (blood or smouldering dung for the reverse of the spell).",
     "Level": "1",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "3 rounds/caster level",
     "Area of Effect": "Creature touched",
@@ -538,10 +559,11 @@
     "Casting Time": "4 segments",
     "Saving Throw": "None"
   },
-  "Protection from Evil, 10-ft Radius*": {
+  "Protection from Evil, 10-ft Radius": {
     "Type": "Clerical Abjuration",
     "Details": "This spell has effects and limitations identical to protection from evil, but the radius of divine protection extends a full 10-ft around the spell's recipient, allowing allies to shelter within the protective ambience. The duration of the spell is also longer.",
     "Level": "4",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "1 turn/caster level",
     "Area of Effect": "10-ft radius sphere around creature touched",
@@ -549,10 +571,11 @@
     "Casting Time": "7 segments",
     "Saving Throw": "None"
   },
-  "Purify Food and Drink*": {
+  "Purify Food and Drink": {
     "Type": "Clerical Transmutation/Alteration",
     "Details": "This spell removes poison, rot, and other contaminants from all food and water within the spell's area of effect, also destroying the malignant properties of unholy water. The reverse of the spell contaminates food and water and will spoil holy water.",
     "Level": "1",
+    "Reversible": true,
     "Range": "30-ft",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "1 cubic-ft/level",
@@ -571,10 +594,11 @@
     "Casting Time": "8 segments",
     "Saving Throw": "Negates"
   },
-  "Raise Dead*": {
+  "Raise Dead": {
     "Type": "Clerical Necromancy",
     "Details": "The eerie, keening incantation of this spell calls a soul back from the afterlife, literally bringing the dead back to life. Elves, as they do not have souls, cannot be brought back to life in this manner, but humans, half-elves, half-orcs, gnomes, dwarfs, and halflings can all be raised from the dead by means of this spell. The longer a soul has been departed from the material plane, the more difficult it is to call it back; a cleric can summon back a soul that has been dead no more days than the cleric's level. In other words, a cleric of tenth level can raise a person who has been dead no more than ten days, but an eleventh level cleric can raise a person who has been dead eleven days. The raised person must survive a system shock saving throw in order to return to life, and he or she will be unable to engage in strenuous activity (such as combat, study, or spell casting) for a period of time equal to one day for each day that he or she was dead.\n\n\n\n\nPerhaps mercifully, the spell erases the returning character's memory concerning any places his or her soul may have visited following death.\n\n\n\n\nRaise dead can instantly destroy most kinds of corporeal undead creatures (exception: it does not destroy liches). Incorporeal undead, such as ghosts or spectres, are immune. This use is treated the same as the reverse of the spell in terms of saving throws and damage.\n\n\n\n\nThe reverse of the spell is referred to in hushed tones as slay living. The subject of this spell (which must be used with extreme caution by good clerics, lest their alignment be altered) is entitled to a saving throw, and if the throw fails, the subject dies. If the saving throw succeeds, the target will still sustain 2d8+1 points of damage.",
     "Level": "5",
+    "Reversible": true,
     "Range": "30-ft",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "One person",
@@ -582,10 +606,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "See below"
   },
-  "Regenerate*": {
+  "Regenerate": {
     "Type": "Clerical Necromancy",
     "Details": "The powerful regeneration spell causes severed body parts to reattach themselves in a single round, or to regrow within 2-8 turns. The spell's reverse causes a touched appendage to wither and fall away to dust within 2-8 turns. A successful attack must be made in order to cast the spell upon an unwilling victim, but the victim does not also receive a saving throw.",
     "Level": "7",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous",
     "Area of Effect": "One creature",
@@ -593,10 +618,11 @@
     "Casting Time": "3 rounds",
     "Saving Throw": "None"
   },
-  "Remove Curse*": {
+  "Remove Curse": {
     "Type": "Clerical Abjuration",
     "Details": "This spell allows the cleric to remove curses from persons and objects, and the spell can have a variety of other applications against evil manifestations. Magical items imbued with curses cannot be destroyed by the spell's power, but use of the spell upon a person under the influence of such an item will generally free the person from the curse and allow him or her to be rid of the item.\n\n\n\n\nThe spell's reverse, bestow curse, inflicts the subject with a magical curse, the exact nature of which is not entirely within the caster's control:\n\n\n\n\nReduce one ability score to 3:\t50%\nCause -4 penalty \u201cto hit\u201d and on saving throws:\t25%\nCause victim (50% chance per turn) to drop any objects it is holding \n(or in the case of an non-tool-using creature, not act for one round):\t25%\n\n\n\n\nWith the GM's agreement, the character may design a specific curse to use with this spell other than the random curse the spell normally unleashes. In order to bestow a curse, the cleric must successfully touch the intended victim, who is entitled to a saving throw. The duration of a bestowed curse is 1 turn/caster level.",
     "Level": "3",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "See below",
@@ -604,10 +630,11 @@
     "Casting Time": "6 segments",
     "Saving Throw": "See below"
   },
-  "Remove Fear*": {
+  "Remove Fear": {
     "Type": "Clerical Abjuration",
     "Details": "This spell is a divine warding against fear, and it can also banish magical terror in someone already affected. In the latter case, the spell grants a second saving throw at a bonus of +1 per caster level. To a person not already affected by magical fear, the spell grants a bonus of +4 to fear saving throws for 1 turn.",
     "Level": "1",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "See below",
     "Area of Effect": "Creature touched",
@@ -637,10 +664,11 @@
     "Casting Time": "5 segments",
     "Saving Throw": "None"
   },
-  "Restoration*": {
+  "Restoration": {
     "Type": "Clerical Necromancy",
     "Details": "By casting this spell, the cleric restores one lost level of experience to the spell's target. Not necessarily all lost experience points are restored; an afflicted character will only regain enough experience points to regain the lost level, no more. A cleric can only restore a level lost within as many days as the cleric's caster level. For example, a cleric of 12th level cannot restore an experience level lost 13 or more days prior to the casting of the spell. The spell's reverse causes the target to lose one experience level. No saving throw applies, but a successful attack is required. In addition to restoring lost levels, the spell can affect other sorts of magically-induced debilities. The effects of a feeblemind spell are reversed by restoration, for example.\n\n\n\n\nThe reverse of restoration, energy drain, removes one level of experience as well as the neccessary amount of experience points to take the victim to that level.",
     "Level": "7",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "One creature",
@@ -648,10 +676,11 @@
     "Casting Time": "3 rounds",
     "Saving Throw": "None"
   },
-  "Resurrection*": {
+  "Resurrection": {
     "Type": "Clerical Necromancy",
     "Details": "The awesome power of a resurrection spell brings the dead back to life. Unlike raise dead, a resurrection spell may be cast upon a person who has been dead for as many as 10 years per caster level. Casting the spell requires the cleric to rest for one day per level of the person raised. Elves cannot be resurrected, having no souls, but humans and the rest of their ilk (half-elves, dwarfs, etc.) can be affected. As with raise dead, the recipient's memory of whatever transpired between death and resurrection is erased.\n\n\n\n\nThe reverse of the spell kills the subject and turns him or her to dust, requiring a successful attack roll to touch.",
     "Level": "7",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "One person",
@@ -758,10 +787,11 @@
     "Casting Time": "5 segments",
     "Saving Throw": "None"
   },
-  "Sticks to Snakes*": {
+  "Sticks to Snakes": {
     "Type": "Clerical Transmutation/Alteration",
     "Details": "This spell enables the cleric to transform sticks into serpents that attack at the cleric's will. The snakes may be ordered to take other actions if the cleric can speak with them, but this spell alone does not grant the power to communicate with the snakes, only to will them to attack particular opponents. The spell transforms one stick per caster level, and each snake has a 5% chance per caster level of being venomous. The reverse of the spell will change snakes into harmless sticks and can work such a transformation upon snakes created by means of this spell. Sticks of a magical quality, such as wands or magic spears, are not affected by the spell.",
     "Level": "4",
+    "Reversible": true,
     "Range": "30-ft",
     "Duration": "2 rounds/caster level",
     "Area of Effect": "10-ft cube",
@@ -791,10 +821,11 @@
     "Casting Time": "3 segments",
     "Saving Throw": "Negates"
   },
-  "Tongues*": {
+  "Tongues": {
     "Type": "Clerical Transmutation/Alteration",
     "Details": "Within the radius established by this spell, the caster, and the caster alone, will be able to speak and understand any verbal language. Note that the spell's area of effect does not move with the caster. The reverse of the spell makes verbal communication impossible for any person (not just the caster) in the spell's area, or may be used to cancel out the effects of the tongues spell.",
     "Level": "4",
+    "Reversible": true,
     "Range": "0",
     "Duration": "1 turn",
     "Area of Effect": "30-ft radius",
@@ -802,10 +833,11 @@
     "Casting Time": "7 segments",
     "Saving Throw": "None"
   },
-  "True Seeing*": {
+  "True Seeing": {
     "Type": "Clerical Divination",
     "Details": "This spell imbues the recipient with the ability to see things as they truly are within a range of 120-ft. Illusions, displacements, astral or \u00e6thereal objects and beings, and secret doors are examples of the kinds of deception and unreality that the spell reveals. Alignment auras become visible so that the cleric can discern good from evil, law from chaos. Polymorphed items and creatures are seen in their true shape. The reverse of the spell, false seeing, is in the nature of a curse, making the subject's perception untrustworthy and contrary in what it reveals.",
     "Level": "5",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "1 round/level",
     "Area of Effect": "Creature touched",

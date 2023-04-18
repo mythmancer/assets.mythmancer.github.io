@@ -2,46 +2,46 @@
   "Cleric/Atonement": {},
   "Cleric/Augury": {},
   "Cleric/Bless - Basic": {
-    "OSRIC Name": "Bless*"
+    "OSRIC Name": "Bless"
   },
   "Cleric/Chant": {},
   "Cleric/Command": {},
   "Cleric/Commune": {},
-  "Cleric/Continual Light*": {},
+  "Cleric/Continual Light": {},
   "Cleric/Create Food and Water": {},
   "Cleric/Cure Blindness/Deafness": {
-    "OSRIC Name": "Cure Blindness*"
+    "OSRIC Name": "Cure Blindness"
   },
-  "Cleric/Cure Critical Wounds*": {},
-  "Cleric/Cure Light Wounds*": {},
-  "Cleric/Cure Serious Wounds*": {},
+  "Cleric/Cure Critical Wounds": {},
+  "Cleric/Cure Light Wounds": {},
+  "Cleric/Cure Serious Wounds": {},
   "Cleric/Detect Alignment": {
-    "OSRIC Name": "Detect Evil*"
+    "OSRIC Name": "Detect Evil"
   },
-  "Cleric/Detect Charm*": {},
-  "Cleric/Detect Lie*": {},
+  "Cleric/Detect Charm": {},
+  "Cleric/Detect Lie": {},
   "Cleric/Detect Magic": {},
-  "Cleric/Dispel Evil*": {},
+  "Cleric/Dispel Evil": {},
   "Cleric/Dispel Magic": {},
   "Cleric/Divination": {},
   "Cleric/Exorcise": {},
   "Cleric/Find Traps": {},
   "Cleric/Glyph of Warding": {},
   "Cleric/Hold Person": {},
-  "Cleric/Know Alignment*": {},
-  "Cleric/Light*": {},
-  "Cleric/Neutralise Poison*": {},
+  "Cleric/Know Alignment": {},
+  "Cleric/Light": {},
+  "Cleric/Neutralise Poison": {},
   "Cleric/Prayer": {},
   "Cleric/Pro. From Alignment 10-ft R.": {
-    "OSRIC Name": "Protection from Evil, 10-ft Radius*"
+    "OSRIC Name": "Protection from Evil, 10-ft Radius"
   },
   "Cleric/Protection from Alignment": {
-    "OSRIC Name": "Protection from Evil*"
+    "OSRIC Name": "Protection from Evil"
   },
-  "Cleric/Purify Food and Drink*": {},
+  "Cleric/Purify Food and Drink": {},
   "Cleric/Quest": {},
-  "Cleric/Remove Curse*": {},
-  "Cleric/Remove Fear*": {},
+  "Cleric/Remove Curse": {},
+  "Cleric/Remove Fear": {},
   "Cleric/Resist Element": {
     "OSRIC Name": "Resist Cold"
   },
@@ -51,5 +51,5 @@
   "Cleric/Speak with Dead": {},
   "Cleric/Speak with Plants": {},
   "Cleric/Spiritual Weapon": {},
-  "Cleric/True Seeing*": {}
+  "Cleric/True Seeing": {}
 }

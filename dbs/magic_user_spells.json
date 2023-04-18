@@ -21,10 +21,11 @@
     "Casting Time": "5 segments",
     "Saving Throw": "None"
   },
-  "Animal Growth*": {
+  "Animal Growth": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "This spell causes up to 8 animals in the area of effect to grow to twice\n normal size, doubling their hit dice and the damage they inflict. The \nspell does not influence the animals' attitude toward the caster, so it \nis advisable to ensure ahead of time that they are friendly. The reverse\n of the spell halves their size and damage inflicted.",
     "Level": "5",
+    "Reversible": true,
     "Range": "60-ft",
     "Duration": "1 round/level",
     "Area of Effect": "Up to 8 animals in a 20-ft square area",
@@ -208,10 +209,11 @@
     "Casting Time": "5 segments",
     "Saving Throw": "See below"
   },
-  "Comprehend Languages*": {
+  "Comprehend Languages": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "This spell allows the magic user to decipher a written language \n(including pictographs, but not including magical script), or to \nunderstand the speech of another creature. The spell does not permit the\n magic user to understand the \u201cspeech\u201d of animals; only true, spoken \nlanguages can be understood. The caster gains no ability to speak or \nwrite the language, only to comprehend meaning. The spell's reverse \nmakes a particular creature or piece of writing indecipherable, or may \nbe used to cancel the effects of a comprehend languages spell.",
     "Level": "1",
+    "Reversible": true,
     "Range": "Caster",
     "Duration": "5 rounds/caster level",
     "Area of Effect": "One written object or one creature",
@@ -340,10 +342,11 @@
     "Casting Time": "7 segments",
     "Saving Throw": "Half"
   },
-  "Detect Evil*": {
+  "Detect Evil": {
     "Type": "Arcane Divination",
     "Details": "This spell allows the magic user to detect emanations of evil (or good, \nin the case of the spell's reverse) within the spell's area of effect, a\n beam-like pathway. The spell detects evil, not danger, so it will be \nuseless to discover such things as a mindless trap or a poisoned \nwineglass. Neither will it detect a cursed item unless the nature of the\n curse is such that the cursed item becomes inherently evil.",
     "Level": "2",
+    "Reversible": true,
     "Range": "Caster",
     "Duration": "5 rounds/level",
     "Area of Effect": "Path 10-ft wide, 60-ft long",
@@ -450,10 +453,11 @@
     "Casting Time": "1d8+2 days",
     "Saving Throw": "See below"
   },
-  "Enchanted Weapon*": {
+  "Enchanted Weapon": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "With a touch of his or her hand, the magic user creates a weak and \ntemporary enchantment upon a full-sized weapon, or upon two smaller \nweapons such as arrows, bolts, or daggers. The enchantment lends no \nbonus to hit, but may be used to strike creatures that can be hit only \nwith a magical weapon. When the weapon hits successfully, the \nenchantment ends.",
     "Level": "4",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "5 rounds/level",
     "Area of Effect": "See below",
@@ -461,10 +465,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "None"
   },
-  "Enlarge*": {
+  "Enlarge": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "This spell causes a creature or object to grow in size and weight. The \nspell increases a creature's size and weight by 20% for each level of \nthe caster (to a maximum increase of 200%) or increases an object's size\n and weight by 10% per caster level (to a maximum increase of 100%). The\n magic user's power limits the volume of material that he or she can \nenlarge; the mage can affect no more than 10 cubic-ft of living matter, \nor 5 cubic-ft of non-living matter, per level. A normal sized person \ndoubled in size will generally have strength of 18, and tripled in size \nwould have strength of 20+. The spell's reverse applies in the same \nratios, but with the effect of reducing the size of an object or \ncreature. If the spell is cast on an unwilling recipient, a successful \nsaving throw will negate the spell, but willing recipients may choose to\n forgo the save.",
     "Level": "1",
+    "Reversible": true,
     "Range": "5-ft/caster level",
     "Duration": "1 turn/caster level",
     "Area of Effect": "One creature or object",
@@ -912,10 +917,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "See below"
   },
-  "Imprisonment*": {
+  "Imprisonment": {
     "Type": "Arcane Abjuration",
     "Details": "The power of this spell hurls the victim deep beneath the earth, placing\n it into a state of suspended animation for eternity, entombed within a \ncyst of rock. The only way to free an imprisoned creature is with the \nreverse of the spell, and the caster must know the name of the prisoner \ntogether with enough detail to clearly identify him or her. A creature \nfreed from imprisonment appears at the exact spot where the imprisonment\n took place. When casting the spell's reverse, if the caster is not \nspecific enough about the imprisoned creature's identity the spell will \nnormally fail; but there is also a chance it will free the intended \ncreature together with several other imprisoned victims from other \nplaces in the ground\u2013some far, some (perhaps) near. Some of these freed \nvictims might be from ancient ages and may have been imprisoned for a \nvery good reason. The chance of freeing unintended recipients is 1 in \n10, and their number can vary considerably (d%).",
     "Level": "9",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Permanent",
     "Area of Effect": "One creature",
@@ -1099,10 +1105,11 @@
     "Casting Time": "2 segments",
     "Saving Throw": "None"
   },
-  "Lower Water*": {
+  "Lower Water": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "With a majestic gesture, the caster forces an area of water to sink \ndownward by 5% of its original depth per caster level. Despite its name,\n the spell's power is not limited to water; it can affect other \nnon-living fluid substances as well, including gases and materials \nslightly more viscous than water. The GM may adjust the amount by which \nthe spell affects other substances based upon the difference of their \nmaterial properties from those of water. The spell's area of effect is a\n square with sides measuring 10-ft per level. For example, a caster of \n7th level can affect a square area up to 70-ft\u00d770-ft. The reverse of the\n spell raises water in an area of effect similar to that of lower water, but not to the same degree of height, returning water to its natural level plus 5 feet per caster level.",
     "Level": "6",
+    "Reversible": true,
     "Range": "80-ft",
     "Duration": "5 rounds/level",
     "Area of Effect": "5-ft\u00d75-ft square area/level",
@@ -1539,10 +1546,11 @@
     "Casting Time": "6 segments",
     "Saving Throw": "None"
   },
-  "Protection From Evil*": {
+  "Protection From Evil": {
     "Type": "Arcane Abjuration",
     "Details": "Other than as noted above, this spell is identical to the clerical spell protection from evil.",
     "Level": "1",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "2 rounds/level",
     "Area of Effect": "One creature",
@@ -1550,10 +1558,11 @@
     "Casting Time": "1 segment",
     "Saving Throw": "None"
   },
-  "Protection From Evil, 10-ft Radius*": {
+  "Protection From Evil, 10-ft Radius": {
     "Type": "Arcane Abjuration",
     "Details": "This spell has effects and limitations identical to protection from evil,\n but the radius of divine protection extends a full 10-ft around the \nspell's recipient, allowing allies to shelter within the protective \nambience.",
     "Level": "3",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "2 rounds/level",
     "Area of Effect": "One creature",
@@ -1605,10 +1614,11 @@
     "Casting Time": "2 segments",
     "Saving Throw": "Negates"
   },
-  "Read Magic*": {
+  "Read Magic": {
     "Type": "Arcane Divination",
     "Details": "Read magic is normally the first spell in every magic user's \nspell book, and its mastery is the first task of every apprentice. The \nspell allows the caster to read magical writings (other than his or her \nown, of course, which are always intelligible to the original author).\n\n\n\n\nUnless the writings are cursed, reading magical script does not normally\n activate the magic formulae described therein\u2013reviewing a scroll prior \nto casting from it does not, for instance, actually cast whatever spell \nis written upon the scroll. Once the magic user has read a particular \nset of magical inscriptions by use of this spell, the spell is no longer\n needed to re-read the writing at a later time.\n\n\n\n\nThe reverse of the spell allows the magic user to make magical writings \nindecipherable for the spell's duration, and is cast upon the writing \nrather than upon the caster him- or herself.",
     "Level": "1",
+    "Reversible": true,
     "Range": "Caster",
     "Duration": "2 rounds/level",
     "Area of Effect": "Caster (see below)",
@@ -1616,10 +1626,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Remove Curse*": {
+  "Remove Curse": {
     "Type": "Arcane Abjuration",
     "Details": "Other than as noted above, this spell is identical to the clerical spell remove curse.",
     "Level": "4",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "See below",
@@ -1836,10 +1847,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Stone to Flesh*": {
+  "Stone to Flesh": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "This spell transforms stone into flesh, or vice versa if the caster has elected to memorise the reversed version, flesh to stone.\n A creature that has been turned to stone will be returned to its normal\n state (provided that a system shock roll is successful). If the spell \nis used upon normal stone (as opposed to restoring a petrified \ncreature), up to 9 cubic-ft/caster level may be transformed. A saving \nthrow is permitted only against the spell's reverse, flesh to stone.",
     "Level": "6",
+    "Reversible": true,
     "Range": "10-ft/level",
     "Duration": "Instantaneous",
     "Area of Effect": "One creature",
@@ -1902,10 +1914,11 @@
     "Casting Time": "2 segments",
     "Saving Throw": "None"
   },
-  "Temporal Stasis*": {
+  "Temporal Stasis": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "This spell places the victim into a magical sleep so deep that it is \nakin to suspended animation. The victim does not age or change in any \nway and does not need to breathe or eat. The sleep lasts until the \nvictim is awakened by the use of dispel magic or the spell's reverse form.",
     "Level": "9",
+    "Reversible": true,
     "Range": "10-ft",
     "Duration": "Permanent",
     "Area of Effect": "One creature",
@@ -1935,10 +1948,11 @@
     "Casting Time": "3 segments",
     "Saving Throw": "None"
   },
-  "Tongues*": {
+  "Tongues": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "Within the radius established by this spell, the caster, and the caster \nalone, will be able to speak and understand any verbal language, \nincluding alignment tongues. Note that the spell's area of effect does \nnot move with the caster. The reverse of the spell makes any verbal \ncommunication impossible for any person (not just the caster) in the \nspell's area, or may be used to cancel out the effects of the tongues spell.",
     "Level": "3",
+    "Reversible": true,
     "Range": "0",
     "Duration": "1 round/level",
     "Area of Effect": "30-ft radius",
@@ -2067,10 +2081,11 @@
     "Casting Time": "5 segments",
     "Saving Throw": "None"
   },
-  "Water Breathing*": {
+  "Water Breathing": {
     "Type": "Arcane Transmutation/Alteration",
     "Details": "This spell grants the ability to breathe underwater while the spell \nlasts. The reverse of the spell allows a water-breathing creature to \nbreathe in the air.",
     "Level": "3",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "1 round/level",
     "Area of Effect": "One creature",
