@@ -18,7 +18,7 @@
     "Speed": "Normal"
   },
   "Illusionist/Darkness": {
-    "Speed": "Normal*"
+    "Speed": "TBD"
   },
   "Illusionist/Deafness": {
     "Speed": "Normal"
@@ -110,7 +110,7 @@
   "Magic User/Airy Water": {
     "Speed": "Normal"
   },
-  "Magic User/Animal Growth*": {
+  "Magic User/Animal Growth": {
     "Speed": "Normal"
   },
   "Magic User/Animate Dead": {
@@ -140,7 +140,7 @@
   "Magic User/Cloudkill": {
     "Speed": "Normal"
   },
-  "Magic User/Comprehend Languages*": {
+  "Magic User/Comprehend Languages": {
     "Speed": "Normal"
   },
   "Magic User/Cone of Cold": {
@@ -165,7 +165,7 @@
     "Speed": "Normal"
   },
   "Magic User/Detect Alignment": {
-    "OSRIC Name": "Detect Evil*"
+    "OSRIC Name": "Detect Evil"
   },
   "Magic User/Detect Invisibility": {
     "Speed": "Normal"
@@ -188,10 +188,10 @@
   "Magic User/ESP": {
     "Speed": "Normal"
   },
-  "Magic User/Enchanted Weapon*": {
+  "Magic User/Enchanted Weapon": {
     "Speed": "Normal"
   },
-  "Magic User/Enlarge*": {
+  "Magic User/Enlarge": {
     "Speed": "Normal"
   },
   "Magic User/Erase": {
@@ -274,7 +274,7 @@
     "Material Component": "Iron Rod"
   },
   "Magic User/Hold Portal": {
-    "Speed": "Normal*"
+    "Speed": "TBD"
   },
   "Magic User/Ice Storm": {
     "Speed": "Normal"
@@ -295,7 +295,7 @@
     "Speed": "Normal"
   },
   "Magic User/Jump": {
-    "Speed": "Normal*"
+    "Speed": "TBD"
   },
   "Magic User/Knock": {
     "Speed": "Normal"
@@ -369,16 +369,16 @@
   "Magic User/Polymorph Self": {
     "Speed": "Normal"
   },
-  "Magic User/Pro. From Alignment, 10-ft Radius*": {
+  "Magic User/Pro. From Alignment, 10-ft Radius": {
     "Speed": "Fast",
-    "OSRIC Name": "Protection From Evil, 10-ft Radius*"
+    "OSRIC Name": "Protection From Evil, 10-ft Radius"
   },
   "Magic User/Protection From Normal Missiles": {
     "Speed": "Fast"
   },
   "Magic User/Protection Vs Alignment": {
     "Speed": "Fast",
-    "OSRIC Name": "Protection From Evil*"
+    "OSRIC Name": "Protection From Evil"
   },
   "Magic User/Push": {
     "Speed": "Normal"
@@ -389,10 +389,10 @@
   "Magic User/Ray of Enfeeblement": {
     "Speed": "Normal"
   },
-  "Magic User/Read Magic*": {
+  "Magic User/Read Magic": {
     "Speed": "Normal"
   },
-  "Magic User/Remove Curse*": {
+  "Magic User/Remove Curse": {
     "Speed": "Normal"
   },
   "Magic User/Scare": {
@@ -440,7 +440,7 @@
   "Magic User/Tiny Hut": {
     "Speed": "Normal"
   },
-  "Magic User/Tongues*": {
+  "Magic User/Tongues": {
     "Speed": "Normal"
   },
   "Magic User/Transmute Rock to Mud": {
@@ -467,7 +467,7 @@
   "Magic User/Wall of Stone": {
     "Speed": "Normal"
   },
-  "Magic User/Water Breathing*": {
+  "Magic User/Water Breathing": {
     "Speed": "Normal"
   },
   "Magic User/Web": {

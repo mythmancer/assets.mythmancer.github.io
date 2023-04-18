@@ -10,10 +10,11 @@
     "Casting Time": "6 turns",
     "Saving Throw": "Negates"
   },
-  "Animal Growth*": {
+  "Animal Growth": {
     "Type": "Druidic Transmutation/Alteration",
     "Details": "This spell causes up to 8 animals in the area of effect to grow to twice normal size, doubling their hit dice and the damage they inflict. The spell does not influence the animals' attitude toward the druid, so it is advisable to ensure ahead of time that they are friendly. The reverse of the spell halves their size and damage inflicted.",
     "Level": "5",
+    "Reversible": true,
     "Range": "80-ft",
     "Duration": "2 rounds/caster level",
     "Area of Effect": "Up to 8 animals in a 10-ft radius",
@@ -164,10 +165,11 @@
     "Casting Time": "9 segments",
     "Saving Throw": "See below"
   },
-  "Conjure Earth Elemental*": {
+  "Conjure Earth Elemental": {
     "Type": "Druidic Conjuration/Summoning",
     "Details": "By means of this spell, the druid summons a 16 HD elemental from the plane of earth. The spell is otherwise identical to the druidic spell conjure fire elemental, but there is no chance to summon a more powerful elemental, as exists when a druid summons fire elementals. As with conjuring fire elementals, the earth elemental will be the druid's ally by its own will; the druid requires no magical wards against it and need not concentrate upon it after the summoning is complete.",
     "Level": "7",
+    "Reversible": true,
     "Range": "40-ft",
     "Duration": "1 turn/level",
     "Area of Effect": "See below",
@@ -175,10 +177,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "None"
   },
-  "Conjure Fire Elemental*": {
+  "Conjure Fire Elemental": {
     "Type": "Druidic Conjuration/Summoning",
     "Details": "It is within the power of a high-level druid to summon forth an elemental being from the plane of fire. The elemental will ordinarily be of 16 HD, but there is a 5% chance that it will be of 24 HD and a 1% chance that an afreet, rather than an elemental, will appear. The elemental will act as the druid's ally, remaining for the spell's duration to assist him or her however possible, including engaging in combat with his or her enemies. Druids need no protective circle to summon fire elementals and need not concentrate upon the elemental in any way.",
     "Level": "6",
+    "Reversible": true,
     "Range": "80-ft",
     "Duration": "1 turn/caster level",
     "Area of Effect": "See below",
@@ -241,10 +244,11 @@
     "Casting Time": "9 segments",
     "Saving Throw": "None"
   },
-  "Cure Disease*": {
+  "Cure Disease": {
     "Type": "Druidic Necromancy",
     "Details": "By means of this spell, the caster may cure most diseases by laying hands upon the afflicted creature. Depending upon the nature of the disease, full recovery may require as little time as a single turn, or as long as a week. The spell's reverse, cause disease, requires that the caster successfully touch the intended victim, who is permitted a saving throw against the spell's insidious effects. If the saving throw is failed, the effects of the disease will manifest within 1d6 turns, inflicting 1 hit point of damage per turn thereafter and one point of lost strength per hour (6 turns) until the victim is reduced to 10% of his or her original hit points and strength. Until the disease is cured or runs its course, the afflicted person will not be able to naturally recover either strength or hit points over and above 10%. The disease runs its course in 1d6 days.",
     "Level": "3",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Creature touched",
@@ -252,10 +256,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None (neg.)"
   },
-  "Cure Critical Wounds*": {
+  "Cure Critical Wounds": {
     "Type": "Druidic Necromancy",
     "Details": "This powerful spell is similar in nature to cure light wounds, operating in the same fashion but healing 3d8+3 hit points of damage. The reverse of the spell functions as cause critical wounds, but delivers 3d8+3 points of damage.",
     "Level": "6",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "One creature",
@@ -263,10 +268,11 @@
     "Casting Time": "8 segments",
     "Saving Throw": "None (neg.)"
   },
-  "Cure Light Wounds*": {
+  "Cure Light Wounds": {
     "Type": "Druidic Necromancy",
     "Details": "Cure light wounds allows the caster to lay hands upon a wounded creature, restoring 1d8 hit points to the spell's beneficiary. The reverse of the spell operates in the same manner (although requiring a \u201cto hit\u201d roll), but inflicts 1d8 hit points rather than healing. If the caster fails to hit while casting cause light wounds, the spell is lost. This spell does not heal disease, reattach limbs, or bring back the dead, nor can it add hit points beyond a character's normal number. Non-corporeal creatures are not affected by this spell, nor are undead, nor are creatures that are harmed only by iron, silver, or magical weapons.",
     "Level": "2",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Creature touched",
@@ -274,10 +280,11 @@
     "Casting Time": "4 segments",
     "Saving Throw": "None (neg.)"
   },
-  "Cure Serious Wounds*": {
+  "Cure Serious Wounds": {
     "Type": "Druidic Necromancy",
     "Details": "A benison similar to cure light wounds, cure serious wounds permits the caster to lay on hands for 2d8+1 hit points of healing. The spell's limits are otherwise similar to those of cure light wounds. The reverse of the spell causes damage rather than healing, requiring that the cleric successfully touch the target.",
     "Level": "4",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous (permanent)",
     "Area of Effect": "Creature touched",
@@ -384,10 +391,11 @@
     "Casting Time": "1 round/ seed",
     "Saving Throw": "Half"
   },
-  "Fire Storm*": {
+  "Fire Storm": {
     "Type": "Druidic Evocation",
     "Details": "The fire storm invocation is a modified and enlarged version of wall of fire. It lasts for only a single round, and does only half the damage of a wall of fire (i.e. 2d8 damage), but the huge area of effect makes it devastating.\n\n\n\n\nThe spell's reverse extinguishes all normal fire in the area of effect, or will instantly kill one fire elemental (no saving throw).",
     "Level": "7",
+    "Reversible": true,
     "Range": "150-ft",
     "Duration": "1 round",
     "Area of effect": "20-ft\u00d720-ft\u00d720-ft area per caster level",
@@ -417,10 +425,11 @@
     "Casting Time": "6 segments",
     "Saving Throw": "None"
   },
-  "Heat Metal*": {
+  "Heat Metal": {
     "Type": "Druidic Necromancy",
     "Details": "This extremely powerful spell causes metal to heat up to searing temperatures, and the reverse, chill metal, causes metal to become damagingly cold. The two versions of the spell inflict different damage and potential side effects. The effects of continued exposure to the metal as it changes temperature to a damaging level and then returns to normal are set forth below:\n\n\n\n\nHeat\n\n\n\n\n\nRound 1No effect other than discomfort\n\n\nRound 21d4 hp damage\n\n\nRounds 3-52d4 hp damage, severe blistering to extremities (hands, feet), and unconsciousness if the metal is a helmet\n\n\nRound 61d4 hp damage\n\n\nRound 7Discomfort\n\n\n\n\n\nCold\n\n\n\n\n\nRound 1no effect other than discomfort\n\n\nRound 21d2 hp damage\n\n\nRounds 3-51d4 hp damage, severe frostbite (possible need for amputation of extremities such as fingers, ears)\n\n\nRound 61d4 hp damage\n\n\nRound 7discomfort\n\n\n\n\n\nImmersion in water will negate the effects of the heat version of the spell, and magical protections against the appropriate elements will negate both versions. If no such options are available, the target of this spell is well advised to spend a round divesting him- or herself of metal gauntlets and helmet at the very least, to avoid the side effects.",
     "Level": "2",
+    "Reversible": true,
     "Range": "40-ft",
     "Duration": "7 rounds",
     "Area of Effect": "All metal worn by one size M creature per caster level, or 50 lbs weight/caster level, as applicable",
@@ -494,10 +503,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Neutralise Poison*": {
+  "Neutralise Poison": {
     "Type": "Druidic Transmutation/Alteration",
     "Details": "This spell detoxifies any sort of venom in a creature or object touched by the caster. An opponent (a venomous spider, for example) must be successfully touched by the caster, but is not entitled to a saving throw if the attack succeeds. Note that if the venomous creature produces new venom (normally a process that takes time), the new venom will be toxic, but any venom that is stored up in the creature will be affected and detoxified. The spell may also be used to prevent a poisoned character from suffering the poison's effects. The reverse of the spell allows the caster to deliver a lethally poisonous touch, requiring a successful roll to hit, and allowing a saving throw against the poison.",
     "Level": "3",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "Instantaneous",
     "Area of Effect": "Creature touched",
@@ -571,10 +581,11 @@
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
-  "Produce Fire*": {
+  "Produce Fire": {
     "Type": "Druidic Transmutation/Alteration",
     "Details": "This spell instantly creates a normal fire within its area of effect, a blazing conflagration lasting only one minute (1 round) but causing 1d4 hit points of damage to any creature in the area and igniting all combustible material (subject, of course, to an item saving throw against normal fire). The reverse of the spell extinguishes all normal fires within the area of effect.",
     "Level": "4",
+    "Reversible": true,
     "Range": "40-ft",
     "Duration": "1 round",
     "Area of Effect": "60-ft radius",
@@ -615,10 +626,11 @@
     "Casting Time": "6 segments",
     "Saving Throw": "None"
   },
-  "Purify Water*": {
+  "Purify Water": {
     "Type": "Druidic Transmutation/Alteration",
     "Details": "This spell removes all impurities from water, making it clear and drinkable. The reverse of the spell contaminates water, making it impossible to drink, and will negate the properties of holy and unholy water.",
     "Level": "1",
+    "Reversible": true,
     "Range": "40-ft",
     "Duration": "Instantaneous",
     "Area of Effect": "1 cubic-ft/caster level",
@@ -703,10 +715,11 @@
     "Casting Time": "1 turn",
     "Saving Throw": "None"
   },
-  "Sticks to Snakes*": {
+  "Sticks to Snakes": {
     "Type": "Druidic Transmutation/Alteration",
     "Details": "This spell enables the caster to transform sticks into serpents that attack at the caster's will. The snakes may be ordered to take other actions if the caster can speak with them, but this spell alone does not grant the power to communicate with the snakes, only to will them to attack particular opponents. The spell transforms one stick per caster level, and each snake has a 5% chance per caster level of being venomous. The reverse of the spell will change snakes into harmless sticks and can work such a transformation upon snakes created by means of this spell. Sticks of a magical quality, such as wands or magic spears, are not affected by the spell.",
     "Level": "5",
+    "Reversible": true,
     "Range": "40-ft",
     "Duration": "2 rounds/caster level",
     "Area of Effect": "5-ft radius",
@@ -747,10 +760,11 @@
     "Casting Time": "9 segments",
     "Saving Throw": "See below"
   },
-  "Transmute Rock to Mud*": {
+  "Transmute Rock to Mud": {
     "Type": "Druidic Transmutation/Alteration",
     "Details": "This spell transforms solid rock into mud, the volume transformed being proportionate to the caster's level. Any volume of mud will sink until its depth is equal to about one half the pool's diameter. If this spell is cast upon a ceiling, the resulting volume of mud will immediately collapse, possibly trapping or suffocating those caught beneath. Similarly, if a floor is turned to mud, creatures standing in the area will sink and may be trapped. If dispel magic is cast upon the mud before it eventually dries into dirt, the mud will return to stone, but in the shape and location of the mud (i.e., a collapsed ceiling will not return to its original place; it will be frozen back into stone where it collapsed). The spell's reverse transforms mud into sandstone or a similar sedimentary rock.",
     "Level": "5",
+    "Reversible": true,
     "Range": "160-ft",
     "Duration": "See below",
     "Area of Effect": "20-ft cube/caster level",
@@ -835,10 +849,11 @@
     "Casting Time": "4 segments",
     "Saving Throw": "None"
   },
-  "Water Breathing*": {
+  "Water Breathing": {
     "Type": "Druidic Transmutation/Alteration\n]",
     "Details": "This spell grants the ability to breathe underwater while the spell lasts. The reverse of the spell allows a water-breathing creature to breathe in the air.",
     "Level": "3",
+    "Reversible": true,
     "Range": "Touch",
     "Duration": "6 turns/level",
     "Area of Effect": "One creature",
