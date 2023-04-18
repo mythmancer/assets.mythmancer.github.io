@@ -9,10 +9,12 @@
   "Cleric/Commune": {},
   "Cleric/Continual Light": {},
   "Cleric/Create Food and Water": {},
+  "Cleric/Create Water": {},
   "Cleric/Cure Blindness/Deafness": {
     "OSRIC Name": "Cure Blindness"
   },
   "Cleric/Cure Critical Wounds": {},
+  "Cleric/Cure Disease": {},
   "Cleric/Cure Light Wounds": {},
   "Cleric/Cure Serious Wounds": {},
   "Cleric/Detect Alignment": {
@@ -26,10 +28,14 @@
   "Cleric/Divination": {},
   "Cleric/Exorcise": {},
   "Cleric/Find Traps": {},
+  "Cleric/Find the Path": {},
+  "Cleric/Flame Strike": {},
   "Cleric/Glyph of Warding": {},
+  "Cleric/Heal": {},
   "Cleric/Hold Person": {},
   "Cleric/Know Alignment": {},
   "Cleric/Light": {},
+  "Cleric/Locate Object": {},
   "Cleric/Neutralise Poison": {},
   "Cleric/Prayer": {},
   "Cleric/Pro. From Alignment 10-ft R.": {
@@ -51,5 +57,40 @@
   "Cleric/Speak with Dead": {},
   "Cleric/Speak with Plants": {},
   "Cleric/Spiritual Weapon": {},
-  "Cleric/True Seeing": {}
+  "Cleric/True Seeing": {},
+  "Druid/Entangle": {},
+  "Druid/Faerie Fire": {},
+  "Druid/Heat Metal": {},
+  "Druid/Obscurement": {},
+  "Druid/Plant Growth": {},
+  "Druid/Produce Flame": {},
+  "Druid/Snare": {},
+  "Druid/Stone Shape": {},
+  "Druid/Trip": {},
+  "Druid/Wall of Fire": {},
+  "Druid/Warp Wood": {},
+  "Druid/Water Breathing": {},
+  "Illusionist/Detect Illusion": {},
+  "Magic User/Charm Person": {},
+  "Magic User/Confusion": {},
+  "Magic User/Feather Fall": {},
+  "Magic User/Friends": {},
+  "Magic User/Identify": {},
+  "Magic User/Phantasmal Force": {},
+  "Magic User/Suggestion": {},
+  "Magic User/Summon Earth Elemental": {
+    "OSRIC Name": "Conjure Elemental"
+  },
+  "Magic User/Summon Fire Elemental": {
+    "OSRIC Name": "Conjure Elemental"
+  },
+  "Magic User/Summon Metal Elemental": {
+    "OSRIC Name": "Conjure Elemental"
+  },
+  "Magic User/Summon Water Elemental": {
+    "OSRIC Name": "Conjure Elemental"
+  },
+  "Magic User/Summon Wood Elemental": {
+    "OSRIC Name": "Conjure Elemental"
+  }
 }
