@@ -1,96 +1,229 @@
 {
-  "Cleric/Atonement": {},
-  "Cleric/Augury": {},
+  "Cleric/Atonement": {
+    "Speed": "TBD"
+  },
+  "Cleric/Augury": {
+    "Speed": "TBD"
+  },
   "Cleric/Bless - Basic": {
-    "OSRIC Name": "Bless"
+    "OSRIC Name": "Bless",
+    "Speed": "TBD"
   },
-  "Cleric/Chant": {},
-  "Cleric/Command": {},
-  "Cleric/Commune": {},
-  "Cleric/Continual Light": {},
-  "Cleric/Create Food and Water": {},
-  "Cleric/Create Water": {},
+  "Cleric/Chant": {
+    "Speed": "TBD"
+  },
+  "Cleric/Command": {
+    "Speed": "TBD"
+  },
+  "Cleric/Commune": {
+    "Speed": "TBD"
+  },
+  "Cleric/Continual Light": {
+    "Speed": "TBD"
+  },
+  "Cleric/Create Food and Water": {
+    "Speed": "TBD"
+  },
+  "Cleric/Create Water": {
+    "Speed": "TBD"
+  },
   "Cleric/Cure Blindness/Deafness": {
-    "OSRIC Name": "Cure Blindness"
+    "OSRIC Name": "Cure Blindness",
+    "Speed": "TBD"
   },
-  "Cleric/Cure Critical Wounds": {},
-  "Cleric/Cure Disease": {},
-  "Cleric/Cure Light Wounds": {},
-  "Cleric/Cure Serious Wounds": {},
+  "Cleric/Cure Critical Wounds": {
+    "Speed": "TBD"
+  },
+  "Cleric/Cure Disease": {
+    "Speed": "TBD"
+  },
+  "Cleric/Cure Light Wounds": {
+    "Speed": "TBD"
+  },
+  "Cleric/Cure Serious Wounds": {
+    "Speed": "TBD"
+  },
   "Cleric/Detect Alignment": {
-    "OSRIC Name": "Detect Evil"
+    "OSRIC Name": "Detect Evil",
+    "Speed": "TBD"
   },
-  "Cleric/Detect Charm": {},
-  "Cleric/Detect Lie": {},
-  "Cleric/Detect Magic": {},
-  "Cleric/Dispel Evil": {},
-  "Cleric/Dispel Magic": {},
-  "Cleric/Divination": {},
-  "Cleric/Exorcise": {},
-  "Cleric/Find Traps": {},
-  "Cleric/Find the Path": {},
-  "Cleric/Flame Strike": {},
-  "Cleric/Glyph of Warding": {},
-  "Cleric/Heal": {},
-  "Cleric/Hold Person": {},
-  "Cleric/Know Alignment": {},
-  "Cleric/Light": {},
-  "Cleric/Locate Object": {},
-  "Cleric/Neutralise Poison": {},
-  "Cleric/Prayer": {},
+  "Cleric/Detect Charm": {
+    "Speed": "TBD"
+  },
+  "Cleric/Detect Lie": {
+    "Speed": "TBD"
+  },
+  "Cleric/Detect Magic": {
+    "Speed": "TBD"
+  },
+  "Cleric/Dispel Evil": {
+    "Speed": "TBD"
+  },
+  "Cleric/Dispel Magic": {
+    "Speed": "TBD"
+  },
+  "Cleric/Divination": {
+    "Speed": "TBD"
+  },
+  "Cleric/Exorcise": {
+    "Speed": "TBD"
+  },
+  "Cleric/Find Traps": {
+    "Speed": "TBD"
+  },
+  "Cleric/Find the Path": {
+    "Speed": "TBD"
+  },
+  "Cleric/Flame Strike": {
+    "Speed": "TBD"
+  },
+  "Cleric/Glyph of Warding": {
+    "Speed": "TBD"
+  },
+  "Cleric/Heal": {
+    "Speed": "TBD"
+  },
+  "Cleric/Hold Person": {
+    "Speed": "TBD"
+  },
+  "Cleric/Know Alignment": {
+    "Speed": "TBD"
+  },
+  "Cleric/Light": {
+    "Speed": "TBD"
+  },
+  "Cleric/Locate Object": {
+    "Speed": "TBD"
+  },
+  "Cleric/Neutralise Poison": {
+    "Speed": "TBD"
+  },
+  "Cleric/Prayer": {
+    "Speed": "TBD"
+  },
   "Cleric/Pro. From Alignment 10-ft R.": {
-    "OSRIC Name": "Protection from Evil, 10-ft Radius"
+    "OSRIC Name": "Protection from Evil, 10-ft Radius",
+    "Speed": "TBD"
   },
   "Cleric/Protection from Alignment": {
-    "OSRIC Name": "Protection from Evil"
+    "OSRIC Name": "Protection from Evil",
+    "Speed": "TBD"
   },
-  "Cleric/Purify Food and Drink": {},
-  "Cleric/Quest": {},
-  "Cleric/Remove Curse": {},
-  "Cleric/Remove Fear": {},
+  "Cleric/Purify Food and Drink": {
+    "Speed": "TBD"
+  },
+  "Cleric/Quest": {
+    "Speed": "TBD"
+  },
+  "Cleric/Remove Curse": {
+    "Speed": "TBD"
+  },
+  "Cleric/Remove Fear": {
+    "Speed": "TBD"
+  },
   "Cleric/Resist Element": {
-    "OSRIC Name": "Resist Cold"
+    "OSRIC Name": "Resist Cold",
+    "Speed": "TBD"
   },
-  "Cleric/Sanctuary": {},
-  "Cleric/Silence, 15-ft Radius": {},
-  "Cleric/Slow Poison": {},
-  "Cleric/Speak with Dead": {},
-  "Cleric/Speak with Plants": {},
-  "Cleric/Spiritual Weapon": {},
-  "Cleric/True Seeing": {},
-  "Druid/Entangle": {},
-  "Druid/Faerie Fire": {},
-  "Druid/Heat Metal": {},
-  "Druid/Obscurement": {},
-  "Druid/Plant Growth": {},
-  "Druid/Produce Flame": {},
-  "Druid/Snare": {},
-  "Druid/Stone Shape": {},
-  "Druid/Trip": {},
-  "Druid/Wall of Fire": {},
-  "Druid/Warp Wood": {},
-  "Druid/Water Breathing": {},
-  "Illusionist/Detect Illusion": {},
-  "Magic User/Charm Person": {},
-  "Magic User/Confusion": {},
-  "Magic User/Feather Fall": {},
-  "Magic User/Friends": {},
-  "Magic User/Identify": {},
-  "Magic User/Phantasmal Force": {},
-  "Magic User/Suggestion": {},
+  "Cleric/Sanctuary": {
+    "Speed": "TBD"
+  },
+  "Cleric/Silence, 15-ft Radius": {
+    "Speed": "TBD"
+  },
+  "Cleric/Slow Poison": {
+    "Speed": "TBD"
+  },
+  "Cleric/Speak with Dead": {
+    "Speed": "TBD"
+  },
+  "Cleric/Speak with Plants": {
+    "Speed": "TBD"
+  },
+  "Cleric/Spiritual Weapon": {
+    "Speed": "TBD"
+  },
+  "Cleric/True Seeing": {
+    "Speed": "TBD"
+  },
+  "Druid/Entangle": {
+    "Speed": "TBD"
+  },
+  "Druid/Faerie Fire": {
+    "Speed": "TBD"
+  },
+  "Druid/Heat Metal": {
+    "Speed": "TBD"
+  },
+  "Druid/Obscurement": {
+    "Speed": "TBD"
+  },
+  "Druid/Plant Growth": {
+    "Speed": "TBD"
+  },
+  "Druid/Produce Flame": {
+    "Speed": "TBD"
+  },
+  "Druid/Snare": {
+    "Speed": "TBD"
+  },
+  "Druid/Stone Shape": {
+    "Speed": "TBD"
+  },
+  "Druid/Trip": {
+    "Speed": "TBD"
+  },
+  "Druid/Wall of Fire": {
+    "Speed": "TBD"
+  },
+  "Druid/Warp Wood": {
+    "Speed": "TBD"
+  },
+  "Druid/Water Breathing": {
+    "Speed": "TBD"
+  },
+  "Illusionist/Detect Illusion": {
+    "Speed": "TBD"
+  },
+  "Magic User/Charm Person": {
+    "Speed": "TBD"
+  },
+  "Magic User/Confusion": {
+    "Speed": "TBD"
+  },
+  "Magic User/Feather Fall": {
+    "Speed": "TBD"
+  },
+  "Magic User/Friends": {
+    "Speed": "TBD"
+  },
+  "Magic User/Identify": {
+    "Speed": "TBD"
+  },
+  "Magic User/Phantasmal Force": {
+    "Speed": "TBD"
+  },
+  "Magic User/Suggestion": {
+    "Speed": "TBD"
+  },
   "Magic User/Summon Earth Elemental": {
-    "OSRIC Name": "Conjure Elemental"
+    "OSRIC Name": "Conjure Elemental",
+    "Speed": "TBD"
   },
   "Magic User/Summon Fire Elemental": {
-    "OSRIC Name": "Conjure Elemental"
+    "OSRIC Name": "Conjure Elemental",
+    "Speed": "TBD"
   },
   "Magic User/Summon Metal Elemental": {
-    "OSRIC Name": "Conjure Elemental"
+    "OSRIC Name": "Conjure Elemental",
+    "Speed": "TBD"
   },
   "Magic User/Summon Water Elemental": {
-    "OSRIC Name": "Conjure Elemental"
+    "OSRIC Name": "Conjure Elemental",
+    "Speed": "TBD"
   },
   "Magic User/Summon Wood Elemental": {
-    "OSRIC Name": "Conjure Elemental"
+    "OSRIC Name": "Conjure Elemental",
+    "Speed": "TBD"
   }
 }
