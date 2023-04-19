@@ -112,7 +112,7 @@
   },
   "Call Woodland Beings": {
     "Type": "Druidic Conjuration/Summoning",
-    "Details": "This summoning calls certain woodland creatures to aid the druid, provided that they are nearby. The druid casts the spell by means of a sonorous chant, which he or she must continue for 2 turns or until the summoned creatures appear. The GM will determine if creatures that will respond to such a call are in the area. The creatures are entitled to a saving throw vs Spells (unlisted categories) at a penalty of -4. If the creatures fail the saving throw and are summoned to the druid's aid, they will provide whatever aid they are capable of, although their willingness to engage in combat is subject to their overall reactions to the druid him- or herself.\n\n\n\n\nIf there is an evil character in the druid's party, the summoned creatures gain an additional saving throw to avoid the effects of the spell, at a bonus of +4. Creatures that may be summoned by this spell include:\n\n\n\n\nCentaurs\t1d4\nPixies\t1d8\nFauns\t1d4\nTreant\t1\nUnicorn\t1",
+    "Details": "This summoning calls certain woodland creatures to aid the druid, provided that they are nearby. The druid casts the spell by means of a sonorous chant, which he or she must continue for 2 turns or until the summoned creatures appear. The GM will determine if creatures that will respond to such a call are in the area. The creatures are entitled to a saving throw vs Spells (unlisted categories) at a penalty of -4. If the creatures fail the saving throw and are summoned to the druid's aid, they will provide whatever aid they are capable of, although their willingness to engage in combat is subject to their overall reactions to the druid him- or herself.</br></br>If there is an evil character in the druid's party, the summoned creatures gain an additional saving throw to avoid the effects of the spell, at a bonus of +4. Creatures that may be summoned by this spell include:</br></br>Centaurs\t1d4Pixies\t1d8Fauns\t1d4Treant\t1Unicorn\t1",
     "Level": "4",
     "Range": "360-ft+30-ft/caster level",
     "Duration": "See below",
@@ -134,7 +134,7 @@
   },
   "Charm Person or Mammal": {
     "Type": "Druidic Enchantment/Charm",
-    "Details": "The powerful enchantment woven by this spell will affect any \u201cperson,\u201d meaning character races (with the exception of elves) and other small to medium-sized bipeds analogous to persons (orcs, goblins, etc.). The spell also affects mammalian animals of any kind, even those that are supernatural, giant, or monstrous. If the target creature fails a saving throw, it will view the druid as a trusted friend, interpreting his or her every word in its most positive light. Charmed creatures will place themselves into moderate danger, including combat, on the druid's behalf, but will not undertake risks beyond those the creature might ordinarily take. The druid must be able to talk to the charmed creature if he or she is to make any sort of complex \u201crequest.\u201d Charmed creatures are allowed periodic saving throws to break the charm, based on intelligence:\n\n\n\n\n\n19+one saving throw/day\n\n\n18one saving throw/2 days\n\n\n17one saving throw/3 days\n\n\n15-16one saving throw/week\n\n\n13-14one saving throw/2 weeks\n\n\n10-12one saving throw/3 weeks\n\n\n7-9one saving throw/month\n\n\n4-6one saving throw/2 months\n\n\n3 or lessone saving throw/3 months\n\n\n\n\n\nThe charm will be broken automatically if the druid obviously tries to harm the charmed creature.",
+    "Details": "The powerful enchantment woven by this spell will affect any \"person,\" meaning character races (with the exception of elves) and other small to medium-sized bipeds analogous to persons (orcs, goblins, etc.). The spell also affects mammalian animals of any kind, even those that are supernatural, giant, or monstrous. If the target creature fails a saving throw, it will view the druid as a trusted friend, interpreting his or her every word in its most positive light. Charmed creatures will place themselves into moderate danger, including combat, on the druid's behalf, but will not undertake risks beyond those the creature might ordinarily take. The druid must be able to talk to the charmed creature if he or she is to make any sort of complex \"request.\" Charmed creatures are allowed periodic saving throws to break the charm, based on intelligence:</br></br>19+one saving throw/day</br></br>18one saving throw/2 days</br></br>17one saving throw/3 days</br></br>15-16one saving throw/week</br></br>13-14one saving throw/2 weeks</br></br>10-12one saving throw/3 weeks</br></br>7-9one saving throw/month</br></br>4-6one saving throw/2 months</br></br>3 or lessone saving throw/3 months</br></br>The charm will be broken automatically if the druid obviously tries to harm the charmed creature.",
     "Level": "2",
     "Range": "80-ft",
     "Duration": "See below",
@@ -145,7 +145,7 @@
   },
   "Commune With Nature": {
     "Type": "Druidic Divination",
-    "Details": "To cast this spell, the druid enters into a trance that brings him or her into a state of oneness with the natural surroundings.\n\n\n\n\nHe or she gains knowledge of the area, learning one fact for each of his or her caster levels. The radius of the area with which the druid can commune is a half-mile for every caster level. Facts that the druid may divine include the paths of water, inhabitants in a part of the region, etc.",
+    "Details": "To cast this spell, the druid enters into a trance that brings him or her into a state of oneness with the natural surroundings.</br></br>He or she gains knowledge of the area, learning one fact for each of his or her caster levels. The radius of the area with which the druid can commune is a half-mile for every caster level. Facts that the druid may divine include the paths of water, inhabitants in a part of the region, etc.",
     "Level": "5",
     "Range": "Caster",
     "Duration": "See below",
@@ -156,7 +156,7 @@
   },
   "Confusion": {
     "Type": "Druidic Enchantment/Charm",
-    "Details": "This spell causes creatures to behave strangely and unpredictably. A certain number of creatures in the spell's area of effect must make a saving throw each round in order to avoid becoming confused. The base number of creatures is 2d4, but additional creatures may be affected; if the druid's caster level is higher than the HD of the strongest opponent, the difference is the number of additional creatures that must make saving throws. This spell is extremely powerful; all saving throws are made with a penalty of -2. Creatures that fail their saving throws (check each round) act randomly in accordance with the following table:\n\n\n\n\n\n d% Action\n\n\n  01-10  Attacks the druid or his or her allies\n\n\n  11-20  Acts normally\n\n\n  21-50  Babbles incoherently\n\n\n  51-70  Meanders away from caster for a full turn\n\n\n  71-00  Attacks nearest creature\n\n\n\n\n\nNote:   A creature that meanders away is not entitled to further saving throws, but will be freed from the spell's effects after taking a full turn of movement (at normal speed) away from the caster.",
+    "Details": "This spell causes creatures to behave strangely and unpredictably. A certain number of creatures in the spell's area of effect must make a saving throw each round in order to avoid becoming confused. The base number of creatures is 2d4, but additional creatures may be affected; if the druid's caster level is higher than the HD of the strongest opponent, the difference is the number of additional creatures that must make saving throws. This spell is extremely powerful; all saving throws are made with a penalty of -2. Creatures that fail their saving throws (check each round) act randomly in accordance with the following table:</br></br> d% Action</br></br>  01-10  Attacks the druid or his or her allies</br></br>  11-20  Acts normally</br></br>  21-50  Babbles incoherently</br></br>  51-70  Meanders away from caster for a full turn</br></br>  71-00  Attacks nearest creature</br></br>Note:   A creature that meanders away is not entitled to further saving throws, but will be freed from the spell's effects after taking a full turn of movement (at normal speed) away from the caster.",
     "Level": "7",
     "Range": "80-ft",
     "Duration": "1 round/level",
@@ -191,7 +191,7 @@
   },
   "Control Temperature, 10-ft Radius": {
     "Type": "Druidic Transmutation/Alteration",
-    "Details": "By casting this spell, the druid magically controls the temperature of his or her immediate surroundings, to a radius of 10-ft. The temperature may be raised or lowered by 9\u00b0 Fahrenheit (4\u00b0 Celsius) per caster level.",
+    "Details": "By casting this spell, the druid magically controls the temperature of his or her immediate surroundings, to a radius of 10-ft. The temperature may be raised or lowered by 9° Fahrenheit (4° Celsius) per caster level.",
     "Level": "4",
     "Range": "Caster",
     "Duration": "4 turns+1 turn/caster level",
@@ -213,7 +213,7 @@
   },
   "Control Winds": {
     "Type": "Druidic Transmutation/Alteration",
-    "Details": "By the power of this spell, the druid can increase or decrease the force of the winds. For every caster level, the druid may change the speed of the wind by 3 miles per hour. An eye of calm with a radius of 40-ft remains around the druid and travels with him or her. The wind force increases (or decreases) at a rate of 3 miles per hour every round until the end of the spell's duration, at which time it will return to normal, also at a rate of 3 miles per hour per turn.\n\n\n\n\nWinds can be extremely destructive; ships are at great risk of sinking if wind speed reaches 60 miles per hour, and wind speeds of 75+ mph are as a full-fledged hurricane.",
+    "Details": "By the power of this spell, the druid can increase or decrease the force of the winds. For every caster level, the druid may change the speed of the wind by 3 miles per hour. An eye of calm with a radius of 40-ft remains around the druid and travels with him or her. The wind force increases (or decreases) at a rate of 3 miles per hour every round until the end of the spell's duration, at which time it will return to normal, also at a rate of 3 miles per hour per turn.</br></br>Winds can be extremely destructive; ships are at great risk of sinking if wind speed reaches 60 miles per hour, and wind speeds of 75+ mph are as a full-fledged hurricane.",
     "Level": "5",
     "Range": "Caster",
     "Duration": "1 turn/caster level (see below)",
@@ -235,7 +235,7 @@
   },
   "Creeping Doom": {
     "Type": "Druidic Conjuration/Summoning",
-    "Details": "The terrifying creeping doom spell causes a massive swarm of insects, spiders, and centipedes to boil forth from the ground in front of the caster, marching in whatever direction he or she orders, destroying and killing all that stands in their way. The swarm is composed of (1d6+4)\u00d7100 nonflying vermin, each of which inflicts 1 hp damage against an opponent before dying. Only as many insects as are needed to kill an opponent will die, and once the target is dead the swarm will move on. If the druid allows the swarm to get more than 80-ft away from his or her person, 50 insects for every 10-ft beyond this range will depart the swarm. The druid can order the swarm to attack specific targets and/ or to change direction. Although the spell can be devastating (potentially causing as much as 1,000 hp of damage in total), many means can be used to counter it\u2013the most obvious being a fireball or other area-of-effect damage spell.",
+    "Details": "The terrifying creeping doom spell causes a massive swarm of insects, spiders, and centipedes to boil forth from the ground in front of the caster, marching in whatever direction he or she orders, destroying and killing all that stands in their way. The swarm is composed of (1d6+4)×100 nonflying vermin, each of which inflicts 1 hp damage against an opponent before dying. Only as many insects as are needed to kill an opponent will die, and once the target is dead the swarm will move on. If the druid allows the swarm to get more than 80-ft away from his or her person, 50 insects for every 10-ft beyond this range will depart the swarm. The druid can order the swarm to attack specific targets and/ or to change direction. Although the spell can be devastating (potentially causing as much as 1,000 hp of damage in total), many means can be used to counter it–the most obvious being a fireball or other area-of-effect damage spell.",
     "Level": "7",
     "Range": "0",
     "Duration": "4 rounds/level",
@@ -270,7 +270,7 @@
   },
   "Cure Light Wounds": {
     "Type": "Druidic Necromancy",
-    "Details": "Cure light wounds allows the caster to lay hands upon a wounded creature, restoring 1d8 hit points to the spell's beneficiary. The reverse of the spell operates in the same manner (although requiring a \u201cto hit\u201d roll), but inflicts 1d8 hit points rather than healing. If the caster fails to hit while casting cause light wounds, the spell is lost. This spell does not heal disease, reattach limbs, or bring back the dead, nor can it add hit points beyond a character's normal number. Non-corporeal creatures are not affected by this spell, nor are undead, nor are creatures that are harmed only by iron, silver, or magical weapons.",
+    "Details": "Cure light wounds allows the caster to lay hands upon a wounded creature, restoring 1d8 hit points to the spell's beneficiary. The reverse of the spell operates in the same manner (although requiring a \"to hit\" roll), but inflicts 1d8 hit points rather than healing. If the caster fails to hit while casting cause light wounds, the spell is lost. This spell does not heal disease, reattach limbs, or bring back the dead, nor can it add hit points beyond a character's normal number. Non-corporeal creatures are not affected by this spell, nor are undead, nor are creatures that are harmed only by iron, silver, or magical weapons.",
     "Level": "2",
     "Reversible": true,
     "Range": "Touch",
@@ -294,7 +294,7 @@
   },
   "Detect Magic": {
     "Type": "Druidic Divination",
-    "Details": "Detect magic creates a tunnel of magical vision in a path 10-ft wide and 30-ft long, in which the caster sees the aura of any magic item as a glowing blue nimbus. The spell's effect is blocked by solid wood 3-ft thick, by stone 1-ft thick, and by solid metal 1 inch thick. The caster can only scan a 60\u00b0 arc during the course of a round: turning more quickly does not allow magic auras enough time to form in the caster's vision.",
+    "Details": "Detect magic creates a tunnel of magical vision in a path 10-ft wide and 30-ft long, in which the caster sees the aura of any magic item as a glowing blue nimbus. The spell's effect is blocked by solid wood 3-ft thick, by stone 1-ft thick, and by solid metal 1 inch thick. The caster can only scan a 60° arc during the course of a round: turning more quickly does not allow magic auras enough time to form in the caster's vision.",
     "Level": "1",
     "Range": "Caster",
     "Duration": "12 rounds",
@@ -316,7 +316,7 @@
   },
   "Dispel Magic": {
     "Type": "Druidic Abjuration",
-    "Details": "Dispel magic has a base chance of 50% permanently to negate magic\u2013both the magical properties of potions and the ongoing effects of certain spells. All spell effects and relevant items within the stated area of effect are subject to dispelling. Permanent magical items are not disenchanted by the spell, with the exception of potions, which are treated as 12th level for purposes of resolution. However, even a permanently enchanted item must make a saving throw or become non-operational for one round. Any spells in the process of being cast in the spell's area of effect will be lost, and any ongoing spell effects (such as invisibility) will be dispelled.\n\n\n\n\nWith respect to each potion, casting, or ongoing spell effect, the base chance of successful dispelling is increased 5% for every level by which the caster's level exceeds the caster level of the potion, the casting, or the spell effect. The base chance is conversely reduced by 2% per level of difference if the caster is lower level than the caster of the magic to be dispelled. The spell will automatically negate the caster's own spells if it is used for this purpose or if the caster has previously cast a spell into the same area.",
+    "Details": "Dispel magic has a base chance of 50% permanently to negate magic–both the magical properties of potions and the ongoing effects of certain spells. All spell effects and relevant items within the stated area of effect are subject to dispelling. Permanent magical items are not disenchanted by the spell, with the exception of potions, which are treated as 12th level for purposes of resolution. However, even a permanently enchanted item must make a saving throw or become non-operational for one round. Any spells in the process of being cast in the spell's area of effect will be lost, and any ongoing spell effects (such as invisibility) will be dispelled.</br></br>With respect to each potion, casting, or ongoing spell effect, the base chance of successful dispelling is increased 5% for every level by which the caster's level exceeds the caster level of the potion, the casting, or the spell effect. The base chance is conversely reduced by 2% per level of difference if the caster is lower level than the caster of the magic to be dispelled. The spell will automatically negate the caster's own spells if it is used for this purpose or if the caster has previously cast a spell into the same area.",
     "Level": "4",
     "Range": "80-ft",
     "Duration": "Instantaneous",
@@ -360,7 +360,7 @@
   },
   "Feign Death": {
     "Type": "Druidic Necromancy",
-    "Details": "This spell magically slows the recipient's metabolism into a state so close to death that it is impossible to distinguish the enspelled person from a corpse by any means other than magical. The recipient can hear, smell, and think; the senses of touch and sight no longer function. Damage caused to the pseudo-corpse is reduced by one half, and the spell's recipient will not even know that the damage has been caused\u2013potentially a dangerous situation. A person under the influence of this spell is not subject to level draining by the undead and will not be affected by poisons until the spell wears off or is otherwise removed; the caster can remove the catalepsy at will, and the spell is subject to being dispelled.",
+    "Details": "This spell magically slows the recipient's metabolism into a state so close to death that it is impossible to distinguish the enspelled person from a corpse by any means other than magical. The recipient can hear, smell, and think; the senses of touch and sight no longer function. Damage caused to the pseudo-corpse is reduced by one half, and the spell's recipient will not even know that the damage has been caused–potentially a dangerous situation. A person under the influence of this spell is not subject to level draining by the undead and will not be affected by poisons until the spell wears off or is otherwise removed; the caster can remove the catalepsy at will, and the spell is subject to being dispelled.",
     "Level": "2",
     "Range": "10-ft",
     "Duration": "4 rounds+2 rounds/caster level",
@@ -382,7 +382,7 @@
   },
   "Fire Seeds": {
     "Type": "Druidic Conjuration",
-    "Details": "By casting this spell upon a group of seeds, either acorns or holly berries, the druid imbues them with the potential to erupt in a violent explosion of magical fire. Transformed acorns may be used as missiles, and transformed holly berries as delayed-action bombs. The spell allows the druid to create four acorn fire seeds or eight holly berry fire seeds, or a proportionate combination such as two acorns and four holly berries. Acorns may be thrown at a range of up to 40-ft and cause 2d8 points of damage in a radius of 5-ft, igniting any combustibles that fail item saving throws. If an acorn strikes its target with a successful \u201cto hit\u201d roll, the target is not entitled to a saving throw. Even if the attack misses, the target may be caught in the blast area (and would be entitled to a saving throw for half damage, as any other creature within the blast area). The holly berries may be thrown no more than 6-ft, or may be left in place to ignite upon a command word. (The range of the command word is 40-ft.) Holly berries create an explosion in an area of 5-ft\u00d75-ft, inflicting 1d8 points of damage and causing combustible items to make saving throws against magical fire or burn. As with the acorn seeds, a successful saving throw against the explosion of a holly berry fire seed reduces the damage inflicted by one-half.",
+    "Details": "By casting this spell upon a group of seeds, either acorns or holly berries, the druid imbues them with the potential to erupt in a violent explosion of magical fire. Transformed acorns may be used as missiles, and transformed holly berries as delayed-action bombs. The spell allows the druid to create four acorn fire seeds or eight holly berry fire seeds, or a proportionate combination such as two acorns and four holly berries. Acorns may be thrown at a range of up to 40-ft and cause 2d8 points of damage in a radius of 5-ft, igniting any combustibles that fail item saving throws. If an acorn strikes its target with a successful \"to hit\" roll, the target is not entitled to a saving throw. Even if the attack misses, the target may be caught in the blast area (and would be entitled to a saving throw for half damage, as any other creature within the blast area). The holly berries may be thrown no more than 6-ft, or may be left in place to ignite upon a command word. (The range of the command word is 40-ft.) Holly berries create an explosion in an area of 5-ft×5-ft, inflicting 1d8 points of damage and causing combustible items to make saving throws against magical fire or burn. As with the acorn seeds, a successful saving throw against the explosion of a holly berry fire seed reduces the damage inflicted by one-half.",
     "Level": "6",
     "Range": "40-ft (see below)",
     "Duration": "1 turn/caster level",
@@ -393,12 +393,12 @@
   },
   "Fire Storm": {
     "Type": "Druidic Evocation",
-    "Details": "The fire storm invocation is a modified and enlarged version of wall of fire. It lasts for only a single round, and does only half the damage of a wall of fire (i.e. 2d8 damage), but the huge area of effect makes it devastating.\n\n\n\n\nThe spell's reverse extinguishes all normal fire in the area of effect, or will instantly kill one fire elemental (no saving throw).",
+    "Details": "The fire storm invocation is a modified and enlarged version of wall of fire. It lasts for only a single round, and does only half the damage of a wall of fire (i.e. 2d8 damage), but the huge area of effect makes it devastating.</br></br>The spell's reverse extinguishes all normal fire in the area of effect, or will instantly kill one fire elemental (no saving throw).",
     "Level": "7",
     "Reversible": true,
     "Range": "150-ft",
     "Duration": "1 round",
-    "Area of effect": "20-ft\u00d720-ft\u00d720-ft area per caster level",
+    "Area of effect": "20-ft×20-ft×20-ft area per caster level",
     "Components": "V S M",
     "Casting Time": "9 segments",
     "Saving Throw": "Half"
@@ -416,7 +416,7 @@
   },
   "Hallucinatory Forest": {
     "Type": "Druidic Illusion/Phantasm",
-    "Details": "By casting this spell, the druid creates the illusion of a forest in the spell's area of effect. Woodland fey and other druids will immediately discern the forest's illusory nature, but even normal animals will be fooled by the forest's appearance. The illusion is not tactile, only visual, so it is likely that intelligent beings entering the forest will quickly realize they are walking in an illusion. However, the mere realization that the forest is not real does not dispel the illusion, and it will continue to limit vision and possibly create other inconveniences; horses, for example, will not walk a straight path through the illusion, circling around the \u201ctrees\u201d they perceive as real.",
+    "Details": "By casting this spell, the druid creates the illusion of a forest in the spell's area of effect. Woodland fey and other druids will immediately discern the forest's illusory nature, but even normal animals will be fooled by the forest's appearance. The illusion is not tactile, only visual, so it is likely that intelligent beings entering the forest will quickly realize they are walking in an illusion. However, the mere realization that the forest is not real does not dispel the illusion, and it will continue to limit vision and possibly create other inconveniences; horses, for example, will not walk a straight path through the illusion, circling around the \"trees\" they perceive as real.",
     "Level": "4",
     "Range": "80-ft",
     "Duration": "Permanent",
@@ -427,7 +427,7 @@
   },
   "Heat Metal": {
     "Type": "Druidic Necromancy",
-    "Details": "This extremely powerful spell causes metal to heat up to searing temperatures, and the reverse, chill metal, causes metal to become damagingly cold. The two versions of the spell inflict different damage and potential side effects. The effects of continued exposure to the metal as it changes temperature to a damaging level and then returns to normal are set forth below:\n\n\n\n\nHeat\n\n\n\n\n\nRound 1No effect other than discomfort\n\n\nRound 21d4 hp damage\n\n\nRounds 3-52d4 hp damage, severe blistering to extremities (hands, feet), and unconsciousness if the metal is a helmet\n\n\nRound 61d4 hp damage\n\n\nRound 7Discomfort\n\n\n\n\n\nCold\n\n\n\n\n\nRound 1no effect other than discomfort\n\n\nRound 21d2 hp damage\n\n\nRounds 3-51d4 hp damage, severe frostbite (possible need for amputation of extremities such as fingers, ears)\n\n\nRound 61d4 hp damage\n\n\nRound 7discomfort\n\n\n\n\n\nImmersion in water will negate the effects of the heat version of the spell, and magical protections against the appropriate elements will negate both versions. If no such options are available, the target of this spell is well advised to spend a round divesting him- or herself of metal gauntlets and helmet at the very least, to avoid the side effects.",
+    "Details": "This extremely powerful spell causes metal to heat up to searing temperatures, and the reverse, chill metal, causes metal to become damagingly cold. The two versions of the spell inflict different damage and potential side effects. The effects of continued exposure to the metal as it changes temperature to a damaging level and then returns to normal are set forth below:</br></br>Heat</br></br>Round 1No effect other than discomfort</br></br>Round 21d4 hp damage</br></br>Rounds 3-52d4 hp damage, severe blistering to extremities (hands, feet), and unconsciousness if the metal is a helmet</br></br>Round 61d4 hp damage</br></br>Round 7Discomfort</br></br>Cold</br></br>Round 1no effect other than discomfort</br></br>Round 21d2 hp damage</br></br>Rounds 3-51d4 hp damage, severe frostbite (possible need for amputation of extremities such as fingers, ears)</br></br>Round 61d4 hp damage</br></br>Round 7discomfort</br></br>Immersion in water will negate the effects of the heat version of the spell, and magical protections against the appropriate elements will negate both versions. If no such options are available, the target of this spell is well advised to spend a round divesting him- or herself of metal gauntlets and helmet at the very least, to avoid the side effects.",
     "Level": "2",
     "Reversible": true,
     "Range": "40-ft",
@@ -439,7 +439,7 @@
   },
   "Hold Animal": {
     "Type": "Druidic Enchantment/Charm",
-    "Details": "A hold animal spell completely immobilises up to four animals (i.e. creatures listed under \u201canimal\u201d in Chapter 4) for the length of the spell's duration. The druid decides how many animals he or she will target with the spell: if there is only one target, the saving throw is made at -4; if two, each makes the saving throw at -2; if three, the saving throw is at -1; and if the druid seeks to hold four animals, each makes its saving throw with no penalty. Animals held by this spell may be killed or bound at a rate of one per round, or, if the attacker chooses, may be attacked at twice the normal rate with an automatic hit, for maximum damage.",
+    "Details": "A hold animal spell completely immobilises up to four animals (i.e. creatures listed under \"animal\" in Chapter 4) for the length of the spell's duration. The druid decides how many animals he or she will target with the spell: if there is only one target, the saving throw is made at -4; if two, each makes the saving throw at -2; if three, the saving throw is at -1; and if the druid seeks to hold four animals, each makes its saving throw with no penalty. Animals held by this spell may be killed or bound at a rate of one per round, or, if the attacker chooses, may be attacked at twice the normal rate with an automatic hit, for maximum damage.",
     "Level": "3",
     "Range": "80-ft",
     "Duration": "2 rounds/caster level",
@@ -450,7 +450,7 @@
   },
   "Hold Plant": {
     "Type": "Druidic Enchantment/Charm",
-    "Details": "This spell affects plants that can move, whether naturally or as the result of a spell. Plants affected by the spell are frozen in place for the spell's duration, and if the spell is cast upon normal vegetation (such as dry leaves), these will make no sound other than sounds caused by the wind. In the case of moulds, fungi, and other plants that cannot be considered separately, the spell affects 4-16 square yards of space, as decided by the druid. In the case of plant creatures such as treants, the spell affects between one and four creatures, at the caster's option.\n\n\n\n\nDepending upon how many creatures (or square yards of space) the druid targets, the saving throw against the spell is subject to different penalties. If one creature (4 square yards) is targeted, the saving throw against the spell is made at a penalty of -4; two creatures or 8 square yards suffer a penalty of -2; three creatures or 12 square yards suffer a penalty of -1; and four creatures or 16 square yards suffer no penalty on the saving throw.",
+    "Details": "This spell affects plants that can move, whether naturally or as the result of a spell. Plants affected by the spell are frozen in place for the spell's duration, and if the spell is cast upon normal vegetation (such as dry leaves), these will make no sound other than sounds caused by the wind. In the case of moulds, fungi, and other plants that cannot be considered separately, the spell affects 4-16 square yards of space, as decided by the druid. In the case of plant creatures such as treants, the spell affects between one and four creatures, at the caster's option.</br></br>Depending upon how many creatures (or square yards of space) the druid targets, the saving throw against the spell is subject to different penalties. If one creature (4 square yards) is targeted, the saving throw against the spell is made at a penalty of -4; two creatures or 8 square yards suffer a penalty of -2; three creatures or 12 square yards suffer a penalty of -1; and four creatures or 16 square yards suffer no penalty on the saving throw.",
     "Level": "4",
     "Range": "80-ft",
     "Duration": "1 round/caster level",
@@ -472,7 +472,7 @@
   },
   "Invisibility to Animals": {
     "Type": "Druidic Transmutation/Alteration",
-    "Details": "With a gesture, the druid or other recipient of the spell fades from the sight, sound, and smell of any animal (i.e. creature listed under \u201cAnimal\u201d in Chapter 5). Creatures with intelligence of 6+ are not affected by the spell. This powerful form of invisibility is not dispelled if the druid attacks, although a particular creature being attacked with a hand-held weapon will, of course, be aware of the druid's general location and be entitled to attack with a -4 penalty until the druid moves out of its immediate area. Druids will, by nature of their calling, not use this spell to commit wholesale slaughter upon animals except in extraordinary circumstances.",
+    "Details": "With a gesture, the druid or other recipient of the spell fades from the sight, sound, and smell of any animal (i.e. creature listed under \"Animal\" in Chapter 5). Creatures with intelligence of 6+ are not affected by the spell. This powerful form of invisibility is not dispelled if the druid attacks, although a particular creature being attacked with a hand-held weapon will, of course, be aware of the druid's general location and be entitled to attack with a -4 penalty until the druid moves out of its immediate area. Druids will, by nature of their calling, not use this spell to commit wholesale slaughter upon animals except in extraordinary circumstances.",
     "Level": "1",
     "Range": "Touch",
     "Duration": "1 turn+1 round/level",
@@ -517,11 +517,11 @@
   },
   "Obscurement": {
     "Type": "Druidic Transmutation/Alteration",
-    "Details": "As this spell is completed, an enchanted mist billows from the area where the druid stands, rapidly filling the area of effect and reducing visibility therein to 1d4-ft\u00d72-ft. The spell is affected by natural conditions such as strong winds, which will reduce the spell's effective duration.",
+    "Details": "As this spell is completed, an enchanted mist billows from the area where the druid stands, rapidly filling the area of effect and reducing visibility therein to 1d4-ft×2-ft. The spell is affected by natural conditions such as strong winds, which will reduce the spell's effective duration.",
     "Level": "2",
     "Range": "0",
     "Duration": "4 rounds/caster level",
-    "Area of Effect": "10-ft\u00d710-ft cube /caster level",
+    "Area of Effect": "10-ft×10-ft cube /caster level",
     "Components": "VS",
     "Casting Time": "4 segments",
     "Saving Throw": "None"
@@ -539,7 +539,7 @@
   },
   "Pass Without Trace": {
     "Type": "Druidic Enchantment/Charm",
-    "Details": "Any creature upon which this spell is cast can move through any sort of terrain without leaving behind the slightest sign of its passage. It leaves no footprints, no scent and no other telltales of movement. It is impossible to trace its path except, temporarily, by one method\u2013the path will radiate magic for 6d6 turns. Once this time elapses, the magical aura will fade away, leaving the trail undisturbed by any sign that the spell's recipient was ever there.",
+    "Details": "Any creature upon which this spell is cast can move through any sort of terrain without leaving behind the slightest sign of its passage. It leaves no footprints, no scent and no other telltales of movement. It is impossible to trace its path except, temporarily, by one method–the path will radiate magic for 6d6 turns. Once this time elapses, the magical aura will fade away, leaving the trail undisturbed by any sign that the spell's recipient was ever there.",
     "Level": "1",
     "Range": "Touch",
     "Duration": "1 turn/caster level",
@@ -565,14 +565,14 @@
     "Level": "3",
     "Range": "160ft",
     "Duration": "Permanent",
-    "Area of Effect": "20-ft\u00d720-ft square/caster level",
+    "Area of Effect": "20-ft×20-ft square/caster level",
     "Components": "VSM",
     "Casting Time": "1 round",
     "Saving Throw": "None"
   },
   "Predict Weather": {
     "Type": "Druidic Divination",
-    "Details": "The druid casts this spell upon virtually any substance: bones, leaves, powders, etc. He or she can read in the resulting pattern an exact divination of the weather as it will naturally occur within the surrounding nine square miles for the next two hours per caster level.\n\n\n\n\nFor example, a second level druid would be able to predict the weather four hours into the future.",
+    "Details": "The druid casts this spell upon virtually any substance: bones, leaves, powders, etc. He or she can read in the resulting pattern an exact divination of the weather as it will naturally occur within the surrounding nine square miles for the next two hours per caster level.</br></br>For example, a second level druid would be able to predict the weather four hours into the future.",
     "Level": "1",
     "Range": "0",
     "Duration": "Instantaneous",
@@ -640,7 +640,7 @@
   },
   "Pyrotechnics": {
     "Type": "Druidic Transmutation/Alteration",
-    "Details": "The pyrotechnics spell may be used to produce two entirely different effects: a bright display of fiery light or a massive pall of smoke. Both possible uses of the spell require an existing fire source (which may be anywhere in the spell's range), and the spell's area of effect depends on the size of the originating fire.\n\n\n\n\nIf the spell is used to produce fireworks, the flashing display will temporarily blind (for 1d4+1 rounds) all creatures in the area of effect and 120-ft beyond\u2013provided that the display is not obstructed from view, of course. The fireworks fill an area ten times the volume of the original fire source and persist for 1 segment/caster level.\n\n\n\n\nIf the spell is used to produce smoke, a billowing cloud will emanate from the fire source, obscuring vision beyond 20-ft in an area 100 times the volume of the fire source. Whatever fire is used as the spell's source is extinguished immediately as the spell is cast.",
+    "Details": "The pyrotechnics spell may be used to produce two entirely different effects: a bright display of fiery light or a massive pall of smoke. Both possible uses of the spell require an existing fire source (which may be anywhere in the spell's range), and the spell's area of effect depends on the size of the originating fire.</br></br>If the spell is used to produce fireworks, the flashing display will temporarily blind (for 1d4+1 rounds) all creatures in the area of effect and 120-ft beyond–provided that the display is not obstructed from view, of course. The fireworks fill an area ten times the volume of the original fire source and persist for 1 segment/caster level.</br></br>If the spell is used to produce smoke, a billowing cloud will emanate from the fire source, obscuring vision beyond 20-ft in an area 100 times the volume of the fire source. Whatever fire is used as the spell's source is extinguished immediately as the spell is cast.",
     "Level": "3",
     "Range": "160-ft",
     "Duration": "See below",
@@ -651,7 +651,7 @@
   },
   "Reincarnate": {
     "Type": "Druidic Necromancy",
-    "Details": "Provided that a body has been dead for no more than a week, a powerful druid can recall its spirit from the dead\u2013but into another body. The form of the new body is not subject to the druid's control, and is determined by means of the tables below. The new body will appear within 1d6 turns near the soul's former body. Elves may be brought back to life by reincarnation. There is a 35% chance that the new incarnation will be from the \u201chumanoid\u201d table and a 65% chance that the new incarnation will be from the animal table. The new incarnation (if sapient) will retain the original character's experience points, but will have new physical (Str, Dex, Con) ability scores randomly rolled and adjusted for the new race. The character will retain his or her original mental ability scores (Int, Wis, Cha).\n\n\n\n\nHumanoid Table\n\n\n\n\n\n Die Roll  New Incarnation \n\n\n  01-02    Bugbear  \n\n\n  03-05    Dwarf  \n\n\n  06-16    Elf  \n\n\n  17-18    Gnoll  \n\n\n  19-31    Gnome  \n\n\n  32-33    Goblin  \n\n\n  34-36    Half-elf  \n\n\n  37-39    Halfling  \n\n\n  40-42    Half-orc  \n\n\n  43-44    Hobgoblin  \n\n\n  45-88    Human  \n\n\n  89-91    Kobold  \n\n\n  92-93    Ogre  \n\n\n  94-95    Ogre Mage  \n\n\n  96-98    Orc  \n\n\n  99-00    Troll  \n\n\n\n\n\nAnimal Table\n\n\n\n\n\n Die Roll  New Incarnation \n\n\n  01-05    Badger  \n\n\n  06-18    Bear  \n\n\n  19-24    Boar  \n\n\n  25-29    Centaur  \n\n\n  30-35    Dryad  \n\n\n  36-43    Eagle  \n\n\n  44-46    Fox  \n\n\n  47-52    Hawk  \n\n\n  53-57    Lynx  \n\n\n  58-62    Owl  \n\n\n  63-68    Pixie  \n\n\n  69-71    Raccoon  \n\n\n  72-76    Faun  \n\n\n  77-84    Stag  \n\n\n  85-92    Wolf  \n\n\n  93-00    Wolverine",
+    "Details": "Provided that a body has been dead for no more than a week, a powerful druid can recall its spirit from the dead–but into another body. The form of the new body is not subject to the druid's control, and is determined by means of the tables below. The new body will appear within 1d6 turns near the soul's former body. Elves may be brought back to life by reincarnation. There is a 35% chance that the new incarnation will be from the \"humanoid\" table and a 65% chance that the new incarnation will be from the animal table. The new incarnation (if sapient) will retain the original character's experience points, but will have new physical (Str, Dex, Con) ability scores randomly rolled and adjusted for the new race. The character will retain his or her original mental ability scores (Int, Wis, Cha).</br></br>Humanoid Table</br></br> Die Roll  New Incarnation </br></br>  01-02    Bugbear  </br></br>  03-05    Dwarf  </br></br>  06-16    Elf  </br></br>  17-18    Gnoll  </br></br>  19-31    Gnome  </br></br>  32-33    Goblin  </br></br>  34-36    Half-elf  </br></br>  37-39    Halfling  </br></br>  40-42    Half-orc  </br></br>  43-44    Hobgoblin  </br></br>  45-88    Human  </br></br>  89-91    Kobold  </br></br>  92-93    Ogre  </br></br>  94-95    Ogre Mage  </br></br>  96-98    Orc  </br></br>  99-00    Troll  </br></br>Animal Table</br></br> Die Roll  New Incarnation </br></br>  01-05    Badger  </br></br>  06-18    Bear  </br></br>  19-24    Boar  </br></br>  25-29    Centaur  </br></br>  30-35    Dryad  </br></br>  36-43    Eagle  </br></br>  44-46    Fox  </br></br>  47-52    Hawk  </br></br>  53-57    Lynx  </br></br>  58-62    Owl  </br></br>  63-68    Pixie  </br></br>  69-71    Raccoon  </br></br>  72-76    Faun  </br></br>  77-84    Stag  </br></br>  85-92    Wolf  </br></br>  93-00    Wolverine",
     "Level": "7",
     "Range": "Touch",
     "Duration": "Instantaneous",
@@ -673,7 +673,7 @@
   },
   "Shillelagh": {
     "Type": "Druidic Transmutation/Alteration",
-    "Details": "The druid imbues a club or billet of oak-wood with enchanted power, making it +1 \u201cto hit\u201d and capable of inflicting 2d4 points of damage against small and medium-sized opponents, 1d4+1 against large opponents. The shillelagh must be wielded by the druid in order for it to possess these magical properties; in the hands of any other person it will be no more than an ordinary wooden club.",
+    "Details": "The druid imbues a club or billet of oak-wood with enchanted power, making it +1 \"to hit\" and capable of inflicting 2d4 points of damage against small and medium-sized opponents, 1d4+1 against large opponents. The shillelagh must be wielded by the druid in order for it to possess these magical properties; in the hands of any other person it will be no more than an ordinary wooden club.",
     "Level": "1",
     "Range": "Touch",
     "Duration": "1 round/caster level",
@@ -695,7 +695,7 @@
   },
   "Speak With Animals": {
     "Type": "Druidic Transmutation/Alteration",
-    "Details": "When the caster invokes this spell, he or she becomes able to communicate with and understand the \u201cspeech\u201d of normal animals (with the exception of mindless creatures). While the spell lasts, the animal (and any other animals of the same type in its company) will refrain from attacking, even if they were initially hostile. Depending upon the nature of the conversation, if the animal's alignment is neutral or of the same tendency as the cleric's, the animal may be disposed to help the cleric in some manner. It is important to note that the spell does not permit speech with animals of monstrous or unnatural nature; communication with a monster such as a cockatrice, for example, is beyond the spell's power. Neither does the spell suddenly imbue an animal with intelligence; the observations and opinions of an animal such as a badger will be appropriate to the animal's own experiences, motives, and intellectual limitations.",
+    "Details": "When the caster invokes this spell, he or she becomes able to communicate with and understand the \"speech\" of normal animals (with the exception of mindless creatures). While the spell lasts, the animal (and any other animals of the same type in its company) will refrain from attacking, even if they were initially hostile. Depending upon the nature of the conversation, if the animal's alignment is neutral or of the same tendency as the cleric's, the animal may be disposed to help the cleric in some manner. It is important to note that the spell does not permit speech with animals of monstrous or unnatural nature; communication with a monster such as a cockatrice, for example, is beyond the spell's power. Neither does the spell suddenly imbue an animal with intelligence; the observations and opinions of an animal such as a badger will be appropriate to the animal's own experiences, motives, and intellectual limitations.",
     "Level": "1",
     "Range": "0",
     "Duration": "2 rounds/caster level",
@@ -774,7 +774,7 @@
   },
   "Transport via Plants": {
     "Type": "Druidic Transmutation/Alteration",
-    "Details": "The mystic oneness of all nature is a principal tenet of many druidic sects, and it sees practical use in the transport via plants spell. Upon casting this spell, the druid may travel almost instantly from one plant to another through the mystic oneness that joins all life forms. The spell operates in much the same fashion as pass plant, but with an unlimited range.\n\n\n\n\nWhen the spell is cast, the druid simply steps into a large plant of any kind and disappears into it. He or she may remain in the first plant for up to 24 hours, but at any time he or she may step forth from another plant of the same species in another location. The druid may know of a specific plant from which he or she wants to emerge, or may simply specify a distance and a direction. If the druid does not know of a specific destination plant, his or her arrival may be off by 1d% miles from the desired point of arrival, at the GM's discretion.",
+    "Details": "The mystic oneness of all nature is a principal tenet of many druidic sects, and it sees practical use in the transport via plants spell. Upon casting this spell, the druid may travel almost instantly from one plant to another through the mystic oneness that joins all life forms. The spell operates in much the same fashion as pass plant, but with an unlimited range.</br></br>When the spell is cast, the druid simply steps into a large plant of any kind and disappears into it. He or she may remain in the first plant for up to 24 hours, but at any time he or she may step forth from another plant of the same species in another location. The druid may know of a specific plant from which he or she wants to emerge, or may simply specify a distance and a direction. If the druid does not know of a specific destination plant, his or her arrival may be off by 1d% miles from the desired point of arrival, at the GM's discretion.",
     "Level": "6",
     "Range": "Touch",
     "Duration": "See below",
@@ -796,7 +796,7 @@
   },
   "Trip": {
     "Type": "Druidic Enchantment/Charm",
-    "Details": "This spell turns an appropriate object into a magical trap of sorts. The object rises from the ground and trips any creature crossing over it, even if they are aware of it (saving throw vs spells\u2013unlisted category, +4 if aware of the object). The object is 80% undetectable and will affect even the caster. The trap causes falls to be much worse than normal: a running creature will suffer 1d6 points of damage and be stunned for 1d4+1 rounds, or will merely be stunned if they fall onto a soft surface such as grass. Creatures larger than size M are not affected by the spell.",
+    "Details": "This spell turns an appropriate object into a magical trap of sorts. The object rises from the ground and trips any creature crossing over it, even if they are aware of it (saving throw vs spells–unlisted category, +4 if aware of the object). The object is 80% undetectable and will affect even the caster. The trap causes falls to be much worse than normal: a running creature will suffer 1d6 points of damage and be stunned for 1d4+1 rounds, or will merely be stunned if they fall onto a soft surface such as grass. Creatures larger than size M are not affected by the spell.",
     "Level": "2",
     "Range": "Touch",
     "Duration": "1 turn/caster level",
@@ -818,7 +818,7 @@
   },
   "Wall of Fire": {
     "Type": "Druidic Evocation",
-    "Details": "One of the more dramatic examples of druidic magic is the wall of fire spell, by which the druid calls up a blazing inferno of flame in the shape of a wall. One side of the conflagration emits the searing heat one would expect, but the other side emits merely a gentle warmth. Passing through the flames inflicts 4d4 damage plus 1/caster level. Creatures as far as 10-ft from the hot side of the wall incur 2d4 hit points of damage, and even creatures as far as 20-ft from the fire are burned for 1d4 points of damage. Undead creatures suffer worse from the power of this druidic magic, taking twice the ordinary damage the wall would inflict.\n\n\n\n\nThe wall persists for as long as the druid concentrates upon it, or, if the druid does not choose to maintain concentration, will remain for 1 round/caster level. The druid may evoke a wall of fire in one of two shapes: a wall or a ring. The size of a straight wall is up to one 20-ft square per caster level. A ring has a radius of up to five ft per caster level (with the caster in the centre) and is 20-ft high. If the druid manifests the spell as a wall, the effect is stationary. The ring-shaped wall moves with the caster.",
+    "Details": "One of the more dramatic examples of druidic magic is the wall of fire spell, by which the druid calls up a blazing inferno of flame in the shape of a wall. One side of the conflagration emits the searing heat one would expect, but the other side emits merely a gentle warmth. Passing through the flames inflicts 4d4 damage plus 1/caster level. Creatures as far as 10-ft from the hot side of the wall incur 2d4 hit points of damage, and even creatures as far as 20-ft from the fire are burned for 1d4 points of damage. Undead creatures suffer worse from the power of this druidic magic, taking twice the ordinary damage the wall would inflict.</br></br>The wall persists for as long as the druid concentrates upon it, or, if the druid does not choose to maintain concentration, will remain for 1 round/caster level. The druid may evoke a wall of fire in one of two shapes: a wall or a ring. The size of a straight wall is up to one 20-ft square per caster level. A ring has a radius of up to five ft per caster level (with the caster in the centre) and is 20-ft high. If the druid manifests the spell as a wall, the effect is stationary. The ring-shaped wall moves with the caster.",
     "Level": "5",
     "Range": "80-ft (wall) or caster (ring)",
     "Duration": "See below",
@@ -829,7 +829,7 @@
   },
   "Wall of Thorns": {
     "Type": "Druidic Conjuration/Summoning",
-    "Details": "When the druid casts this spell, a tangled wall of briar vines erupts from the ground, bristling with sharp, deadly thorns. Running into or attempting to force a way through the thorns will cause 8 hp damage, plus 1 hp for every point of armour class. A creature may be caught within the wall of thorns when the spell is cast, and if this is the case it will take damage immediately and must fight through (taking damage a second time) to gain enough freedom of motion to chop at the thorns. It takes four turns to cut through a 40-ft thickness of a wall of thorns.\n\n\n\n\nNormal fire has no effect upon a wall of thorns, but magical fire can ignite the entire growth, creating a wall of fire (as per the spell) that burns away to nothing in two turns.",
+    "Details": "When the druid casts this spell, a tangled wall of briar vines erupts from the ground, bristling with sharp, deadly thorns. Running into or attempting to force a way through the thorns will cause 8 hp damage, plus 1 hp for every point of armour class. A creature may be caught within the wall of thorns when the spell is cast, and if this is the case it will take damage immediately and must fight through (taking damage a second time) to gain enough freedom of motion to chop at the thorns. It takes four turns to cut through a 40-ft thickness of a wall of thorns.</br></br>Normal fire has no effect upon a wall of thorns, but magical fire can ignite the entire growth, creating a wall of fire (as per the spell) that burns away to nothing in two turns.",
     "Level": "6",
     "Range": "80-ft",
     "Duration": "1 turn/level",
@@ -850,7 +850,7 @@
     "Saving Throw": "None"
   },
   "Water Breathing": {
-    "Type": "Druidic Transmutation/Alteration\n]",
+    "Type": "Druidic Transmutation/Alteration]",
     "Details": "This spell grants the ability to breathe underwater while the spell lasts. The reverse of the spell allows a water-breathing creature to breathe in the air.",
     "Level": "3",
     "Reversible": true,
