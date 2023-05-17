@@ -15,8 +15,9 @@ Parsed using [this script](https://github.com/mythmancer/mythmancer.github.io/bl
 
 Mythmancer overrides and adds some concepts to the original spells from OSRIC.
 
-The jsons will remain as-is, with an additional `mythmancer_overrides.json` serving
-as a documentation of all ways in which we diverge from OSRIC.
+The jsons in `raw_data` will remain as-is, since they represent canonical OSRIC data.
 
-The final spell database will be generated using these, and that will be what we finally use as
-the asset
+We simply add an additional `mythmancer_overrides.json` serving as a documentation of all ways in which we diverge from
+OSRIC, as well as defining which of the spells we want to keep from OSRIC, and which classes they're assigned to.
+
+The final spell database will be generated using these, and that will be what we finally use as the asset.
